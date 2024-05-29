@@ -1,0 +1,222 @@
+Casa do Bolo
+R. Pres. Sarmento, 538 - Alecrim, Natal - RN, 59037-400, Brazil
+bakery,store,food,point_of_interest,establishment
+4.2
+2.0
+
+Puro Sabor
+Shopping 10, 2o piso - R. Leonel Leite, 1377 - Alecrim, Natal - RN, 59037-820, Brazil
+cafe,bakery,store,food,point_of_interest,establishment
+4.8
+2.8333333333333335
+
+Panificadora Cristal
+R. Dr. Manoel Miranda, 719 - Quintas, Natal - RN, 59037-250, Brazil
+bakery,store,restaurant,food,point_of_interest,establishment
+4.5
+1.8333333333333335
+
+Bomdia Supermercado Loja 1
+R. Pres. Mascarenhas, 673 - Alecrim, Natal - RN, 59032-540, Brazil
+grocery_or_supermarket,liquor_store,bakery,food,store,point_of_interest,establishment
+4.2
+1.7142857142857144
+
+Mercadinho viba
+Tv. Agaci - Alecrim, Natal - RN, 59052-700, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Cantina Celina
+Av. Coronel Estevam, 1526 - Alecrim, Natal - RN, 59037-000, Brazil
+supermarket,bakery,grocery_or_supermarket,store,food,point_of_interest,establishment
+4.7
+1.7142857142857144
+
+Jk. Bolos e Doces
+R. Dr. Manoel Miranda - Quintas, Natal - RN, 59037-250, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Pao Quente Toda Hora
+Alecrim, Natal - State of Rio Grande do Norte, 59035-500, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Pães E Bolos Metre Jesus
+Alecrim, Natal - State of Rio Grande do Norte, 59031-270, Brazil
+bakery,food,store,point_of_interest,establishment
+N/A
+2.0
+
+Panificadora Bom Sucesso
+R. dos Caicós, 1670 - Alecrim, Natal - RN, 59037-700, Brazil
+bakery,store,food,point_of_interest,establishment
+4.5
+2.0
+
+Boka Boka Bolos e Salgados
+R. dos Caicós, 1673 - Alecrim, Natal - RN, 59037-700, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+2.0
+
+Doce Mel
+Alecrim, Natal - State of Rio Grande do Norte, 59035-150, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Panificadora de Lurdes
+Rua Presidente José Bento, 625 - Alecrim, Natal - RN, 59037-060, Brazil
+bakery,convenience_store,food,store,point_of_interest,establishment
+4.1
+1.8333333333333335
+
+Bolo da Morena
+Av. Coronel Estevam, 1774 - Alecrim, Natal - RN, 59035-000, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Maranata Pães & Massas
+R. Pres. Sarmento, 408 - Alecrim, Natal - RN, 59037-400, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Panificadora Vencedora
+R. Baraúna, 689 - Alecrim, Natal - RN, 59037-370, Brazil
+bakery,store,food,point_of_interest,establishment
+4.3
+2.0
+
+Bolos da Mimimi - FIT & FAT / desde 2016
+R. Baraúna, 693 - Alecrim, Natal - RN, 59031-270, Brazil
+bakery,food,store,point_of_interest,establishment
+N/A
+2.0
+
+Mary Doce Confeitaria e Lanchonete
+R. Leonel Leite, 1376 - Alecrim, Natal - RN, 59037-820, Brazil
+bakery,store,food,point_of_interest,establishment
+4.1
+2.0
+
+Sonho de Valsa - Doceria
+Av. Interventor Mário Câmara, 1623 - Alecrim, Natal - RN, 59032-600, Brazil
+bakery,food,store,point_of_interest,establishment
+5
+2.0
+
+Padaria Coração de TRIGO
+R. Pres. Sarmento - Alecrim, Natal - RN, 59037-060, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Cacau Show - Chocolates
+Av. Pres. Bandeira, 653 - Alecrim, Natal - RN, 59031-200, Brazil
+cafe,store,food,point_of_interest,establishment
+4.7
+2.0
+
+COFFÈ CADENZA SHOP - Cafés Especiais e Acessórios
+R. dos Paianazes, 1567 - Alecrim, Natal - RN, 59037-350, Brazil
+cafe,food,point_of_interest,establishment
+5
+1.8
+
+CAFÉ CIDADÃO
+R. Pres. Sarmento, 546 - Alecrim, Natal - RN, 59037-400, Brazil
+cafe,food,point_of_interest,establishment
+N/A
+1.8
+
+NicHouse134
+R. Des. Oscár Siqueira, 134 - Alecrim, Natal - RN, 59037-630, Brazil
+cafe,food,point_of_interest,establishment
+3.7
+1.8
+
+Tortel Caffé
+R. dos Caicós, 1438 - Alecrim, Natal - RN, 59037-700, Brazil
+cafe,food,point_of_interest,establishment
+4
+1.8
+
+Cacau Show - Chocolates
+R. Leonel Leite, 1377 - Alecrim, Natal - RN, 59037-820, Brazil
+cafe,store,food,point_of_interest,establishment
+4.6
+2.0
+
+Bell's Cafeteria
+R. dos Paianazes, 1377 - Shopping 10 - Alecrim, Natal - RN, 59037-820, Brazil
+cafe,store,food,point_of_interest,establishment
+4.4
+2.0
+
+Espaço Herbalife Quintas
+R. Cônego Monte, 1807 - Quintas, Natal - RN, 59040-430, Brazil
+cafe,food,point_of_interest,establishment
+5
+1.8
+
+Café Da Manhã
+Alecrim, Natal - State of Rio Grande do Norte, 59032-502, Brazil
+cafe,food,point_of_interest,establishment
+N/A
+1.8
+
+Alô coxinha!
+Av. Pres. Bandeira - Alecrim, Natal - RN, 59062-200, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+2.0
+
+MELHOR TAPIOCA E BOLO
+Av. Coronel Estevam, 555 - Alecrim, Natal - RN, 59031-000, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+2.0
+
+Cantinho do Café - Coffeehouse
+Rua Dr. Luíz Dutra, 346 - Alecrim, Natal - RN, 59040-340, Brazil
+cafe,store,food,point_of_interest,establishment
+5
+2.0
+
+Cacau Show - Chocolates
+Av. Capitão Mor Gouveia, 3949 - Bom Pastor, Natal - RN, 59054-170, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+2.0
+
+DOCERIA PALADAR
+Av. Alm. Alexandrino de Alencar, 323 - Petrópolis, Natal - RN, 59020-010, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+2.0
+
+BR Mania
+Av Alte - Av. Alm. Alexandrino de Alencar, 593 - Alecrim, Natal - RN, 59030-350, Brazil
+convenience_store,atm,gas_station,cafe,meal_takeaway,finance,car_repair,store,restaurant,food,point_of_interest,establishment
+5
+1.4166666666666667
+
+Bom sabor ( Estácio)
+Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
+cafe,food,store,point_of_interest,establishment
+5
+2.0
+
+Açaiteria Top Girls
+Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
+cafe,food,store,point_of_interest,establishment
+N/A
+2.0
+

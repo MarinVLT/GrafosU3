@@ -1,0 +1,6 @@
+-5.800040515341294,-35.221718181711076
+bakery,cafe
+Pães E Bolos Metre Jesus,bakery,food,store,point_of_interest,establishment,-1
+Bolo da Morena,bakery,food,point_of_interest,store,establishment,-1
+MELHOR TAPIOCA E BOLO,cafe,food,point_of_interest,store,establishment,-1
+Cantinho do Café - Coffeehouse,cafe,food,store,point_of_interest,establishment,5
