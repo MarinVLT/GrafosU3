@@ -178,7 +178,3 @@ obs: entrar no venv para rodar (linux: source myenv/bin/activate)
         spa
         stadium
         zoo
-
-
-
-# obs:No cosseno ajustado a similaridade esta ficando bem proxima de -1 pois os locais possuem muitas categorias, como o cosseno ajustado leva em conta o tamanho dos conjuntos no calculo isso pesa no resultado
