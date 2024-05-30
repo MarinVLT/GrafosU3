@@ -1,5 +1,7 @@
+import os
 import googlemaps
 import random
+from dotenv import load_dotenv
 
 def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida, api_key):
     gmaps = googlemaps.Client(key=api_key)
@@ -30,6 +32,11 @@ def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida, api
                 file.write(f"{nome},{tipos},{avaliacao}\n")
         print("Usuario.txt gerado com sucesso!")
 
+
+# Atribuir as configurações do .env a uma variável
+load_dotenv()
+api_key = os.getenv('API_KEY')
+
 # Coordenadas de exemplo (Alecrim, Natal, RN, Brasil)
 coordenadas = (-5.800040515341294, -35.221718181711076)
 
@@ -39,8 +46,6 @@ tipos_de_estabelecimentos_disponiveis = ['restaurant', 'cafe', 'bar', 'bakery', 
 # Nome do arquivo de saída
 arquivo_saida = 'usuario.txt'
 
-# Chave da API do Google Maps
-api_key = 'AIzaSyDTFAqbj8RFJUTeA_Mqb4Wu0ZCf6TULHR4'
 
 # Gera o arquivo usuario.txt
-gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, arquivo_saida, api_key)
+# gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, arquivo_saida, api_key)

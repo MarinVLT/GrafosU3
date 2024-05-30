@@ -1,222 +1,126 @@
-Casa do Bolo
-R. Pres. Sarmento, 538 - Alecrim, Natal - RN, 59037-400, Brazil
-bakery,store,food,point_of_interest,establishment
-4.2
-2.0
-
-Puro Sabor
-Shopping 10, 2o piso - R. Leonel Leite, 1377 - Alecrim, Natal - RN, 59037-820, Brazil
-cafe,bakery,store,food,point_of_interest,establishment
+Ápice Academia
+R. Aldo de Melo Freire, 1877 - Capim Macio, Natal - RN, 59082-000, Brazil
+gym,point_of_interest,health,establishment
 4.8
-2.8333333333333335
-
-Panificadora Cristal
-R. Dr. Manoel Miranda, 719 - Quintas, Natal - RN, 59037-250, Brazil
-bakery,store,restaurant,food,point_of_interest,establishment
-4.5
-1.8333333333333335
-
-Bomdia Supermercado Loja 1
-R. Pres. Mascarenhas, 673 - Alecrim, Natal - RN, 59032-540, Brazil
-grocery_or_supermarket,liquor_store,bakery,food,store,point_of_interest,establishment
-4.2
-1.7142857142857144
-
-Mercadinho viba
-Tv. Agaci - Alecrim, Natal - RN, 59052-700, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
 2.0
 
-Cantina Celina
-Av. Coronel Estevam, 1526 - Alecrim, Natal - RN, 59037-000, Brazil
-supermarket,bakery,grocery_or_supermarket,store,food,point_of_interest,establishment
-4.7
-1.7142857142857144
-
-Jk. Bolos e Doces
-R. Dr. Manoel Miranda - Quintas, Natal - RN, 59037-250, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
+Judô Clube Ramos
+Alameda dos Bouganvilles, 71 - Neópolis, Natal - RN, 59080-150, Brazil
+gym,health,point_of_interest,establishment
+4.8
 2.0
 
-Pao Quente Toda Hora
-Alecrim, Natal - State of Rio Grande do Norte, 59035-500, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
+Espaço Dhyana
+R. Graciliano Ramos, 2916 - Capim Macio, Natal - RN, 59080-070, Brazil
+gym,health,point_of_interest,establishment
+4.9
 2.0
 
-PÃ£es E Bolos Metre Jesus
-Alecrim, Natal - State of Rio Grande do Norte, 59031-270, Brazil
-bakery,food,store,point_of_interest,establishment
-N/A
-2.0
-
-Panificadora Bom Sucesso
-R. dos CaicÃ³s, 1670 - Alecrim, Natal - RN, 59037-700, Brazil
-bakery,store,food,point_of_interest,establishment
-4.5
-2.0
-
-Boka Boka Bolos e Salgados
-R. dos CaicÃ³s, 1673 - Alecrim, Natal - RN, 59037-700, Brazil
-bakery,store,food,point_of_interest,establishment
-5
-2.0
-
-Doce Mel
-Alecrim, Natal - State of Rio Grande do Norte, 59035-150, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
-2.0
-
-Panificadora de Lurdes
-Rua Presidente JosÃ© Bento, 625 - Alecrim, Natal - RN, 59037-060, Brazil
-bakery,convenience_store,food,store,point_of_interest,establishment
-4.1
-1.8333333333333335
-
-Bolo da Morena
-Av. Coronel Estevam, 1774 - Alecrim, Natal - RN, 59035-000, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
-2.0
-
-Maranata PÃ£es & Massas
-R. Pres. Sarmento, 408 - Alecrim, Natal - RN, 59037-400, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
-2.0
-
-Panificadora Vencedora
-R. BaraÃºna, 689 - Alecrim, Natal - RN, 59037-370, Brazil
-bakery,store,food,point_of_interest,establishment
-4.3
-2.0
-
-Bolos da Mimimi - FIT & FAT / desde 2016
-R. BaraÃºna, 693 - Alecrim, Natal - RN, 59031-270, Brazil
-bakery,food,store,point_of_interest,establishment
-N/A
-2.0
-
-Mary Doce Confeitaria e Lanchonete
-R. Leonel Leite, 1376 - Alecrim, Natal - RN, 59037-820, Brazil
-bakery,store,food,point_of_interest,establishment
-4.1
-2.0
-
-Sonho de Valsa - Doceria
-Av. Interventor MÃ¡rio CÃ¢mara, 1623 - Alecrim, Natal - RN, 59032-600, Brazil
-bakery,food,store,point_of_interest,establishment
-5
-2.0
-
-Padaria CoraÃ§Ã£o de TRIGO
-R. Pres. Sarmento - Alecrim, Natal - RN, 59037-060, Brazil
-bakery,store,food,point_of_interest,establishment
-N/A
-2.0
-
-Cacau Show - Chocolates
-Av. Pres. Bandeira, 653 - Alecrim, Natal - RN, 59031-200, Brazil
-cafe,store,food,point_of_interest,establishment
-4.7
-2.0
-
-COFFÃˆ CADENZA SHOP - CafÃ©s Especiais e AcessÃ³rios
-R. dos Paianazes, 1567 - Alecrim, Natal - RN, 59037-350, Brazil
-cafe,food,point_of_interest,establishment
-5
-1.8
-
-CAFÃ‰ CIDADÃƒO
-R. Pres. Sarmento, 546 - Alecrim, Natal - RN, 59037-400, Brazil
-cafe,food,point_of_interest,establishment
-N/A
-1.8
-
-NicHouse134
-R. Des. OscÃ¡r Siqueira, 134 - Alecrim, Natal - RN, 59037-630, Brazil
-cafe,food,point_of_interest,establishment
-3.7
-1.8
-
-Tortel CaffÃ©
-R. dos CaicÃ³s, 1438 - Alecrim, Natal - RN, 59037-700, Brazil
-cafe,food,point_of_interest,establishment
-4
-1.8
-
-Cacau Show - Chocolates
-R. Leonel Leite, 1377 - Alecrim, Natal - RN, 59037-820, Brazil
-cafe,store,food,point_of_interest,establishment
+CrossFit Capim Macio
+R. Aldo de Melo Freire, 1706 - Capim Macio, Natal - RN, 59082-030, Brazil
+gym,health,point_of_interest,establishment
 4.6
 2.0
 
-Bell's Cafeteria
-R. dos Paianazes, 1377 - Shopping 10 - Alecrim, Natal - RN, 59037-820, Brazil
-cafe,store,food,point_of_interest,establishment
-4.4
+New Life Academy
+R. Orlando Silva, 2872 - Capim Macio, Natal - RN, 59080-020, Brazil
+gym,health,point_of_interest,establishment
+4.5
 2.0
 
-EspaÃ§o Herbalife Quintas
-R. CÃ´nego Monte, 1807 - Quintas, Natal - RN, 59040-430, Brazil
-cafe,food,point_of_interest,establishment
-5
-1.8
+Ginásio Facex Capim Macio
+R. Orlando Silva, 2-228 - Capim Macio, Natal - RN, 59080-020, Brazil
+gym,health,point_of_interest,establishment
+4.5
+2.0
 
-CafÃ© Da ManhÃ£
-Alecrim, Natal - State of Rio Grande do Norte, 59032-502, Brazil
-cafe,food,point_of_interest,establishment
-N/A
-1.8
-
-AlÃ´ coxinha!
-Av. Pres. Bandeira - Alecrim, Natal - RN, 59062-200, Brazil
-cafe,store,food,point_of_interest,establishment
+Studio De Pilates
+Av. das Alagoas, 2923 - Neópolis, Natal - RN, 59086-200, Brazil
+gym,health,point_of_interest,establishment
 N/A
 2.0
 
-MELHOR TAPIOCA E BOLO
-Av. Coronel Estevam, 555 - Alecrim, Natal - RN, 59031-000, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-2.0
-
-Cantinho do CafÃ© - Coffeehouse
-Rua Dr. LuÃ­z Dutra, 346 - Alecrim, Natal - RN, 59040-340, Brazil
-cafe,store,food,point_of_interest,establishment
+Studio - Arte & Saúde
+R. Ivo Soares da Cruz, 19 - Neópolis, Natal - RN, 59086-260, Brazil
+gym,health,point_of_interest,establishment
 5
 2.0
 
-Cacau Show - Chocolates
-Av. CapitÃ£o Mor Gouveia, 3949 - Bom Pastor, Natal - RN, 59054-170, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-2.0
-
-DOCERIA PALADAR
-Av. Alm. Alexandrino de Alencar, 323 - PetrÃ³polis, Natal - RN, 59020-010, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-2.0
-
-BR Mania
-Av Alte - Av. Alm. Alexandrino de Alencar, 593 - Alecrim, Natal - RN, 59030-350, Brazil
-convenience_store,atm,gas_station,cafe,meal_takeaway,finance,car_repair,store,restaurant,food,point_of_interest,establishment
-5
-1.4166666666666667
-
-Bom sabor ( EstÃ¡cio)
-Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
-cafe,food,store,point_of_interest,establishment
+Studio A2 Pilates
+Av. Ayrton Senna, 389 - Loja 02 - Capim Macio, Natal - RN, 59080-100, Brazil
+gym,health,point_of_interest,establishment
 5
 2.0
 
-AÃ§aiteria Top Girls
-Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
-cafe,food,store,point_of_interest,establishment
+Sportfitness Neópolis
+Rua Fernando de Noronha, 109 - Neópolis, Natal - RN, 59080-240, Brazil
+gym,health,point_of_interest,establishment
+4.6
+2.0
+
+QG BRAVUS
+R. Dr. Orlando de Azevedo - Capim Macio, Natal - RN, 59082-080, Brazil
+gym,point_of_interest,health,establishment
+4.9
+2.0
+
+BurnFit
+Av. Ayrton Senna, 1148 - Neópolis, Natal - RN, 59080-101, Brazil
+gym,health,point_of_interest,establishment
+4.6
+2.0
+
+M2 Pilates Neópolis
+Av. dos Pinheirais - Neópolis, Natal - RN, 59080-250, Brazil
+gym,health,point_of_interest,establishment
+N/A
+2.0
+
+Academia Insane Trainer | Musculação | Crossfit | Capim Macio | Natal
+R. Aldo de Melo Freire, 1892 - Capim Macio, Natal - RN, 59082-040, Brazil
+gym,health,point_of_interest,establishment
+4.8
+2.0
+
+Sinapse Brasil - Fisioterapia Neurofuncional
+R. Goiás, 408 - Neópolis, Natal - RN, 59080-390, Brazil
+gym,health,point_of_interest,establishment
+5
+2.0
+
+Dra. Alethéa Cury
+Av. Ayrton Senna, 389 - Loja 02 - Capim Macio, Natal - RN, 59080-100, Brazil
+gym,point_of_interest,health,establishment
+N/A
+2.0
+
+1UP Complexo Esportivo
+R. Dr. Orlando de Azevedo, 1979 - Capim Macio, Natal - RN, 59082-050, Brazil
+gym,health,point_of_interest,establishment
+4.6
+2.0
+
+Academia Skullgym
+R. Sebastião Barreto, 117 - Neópolis, Natal - RN, 59080-480, Brazil
+gym,health,point_of_interest,establishment
+4.5
+2.0
+
+SANAR TERAPIAS
+R. Graciliano Ramos, 2916 - Capim Macio, Natal - RN, 59080-070, Brazil
+gym,health,point_of_interest,establishment
+N/A
+2.0
+
+Espaço AMA
+R. Profª Gipse Montenegro, 2008 - Capim Macio, Natal - RN, 59080-060, Brazil
+gym,health,point_of_interest,establishment
+4.8
+2.0
+
+BOBOX Produções
+R. Sebastião Barreto, 91 - Bloco 4, ap 202 - Neópolis, Natal - RN, 59080-480, Brazil
+movie_theater,point_of_interest,establishment
 N/A
 2.0
 

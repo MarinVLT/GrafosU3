@@ -1,5 +1,7 @@
 import googlemaps
-import math
+import os
+from dotenv import load_dotenv
+
 
 # Jaccard, interseçãos/uniao (varia de 0 a 1, quão mais proximo de 1, mais similar)
 def jaccard_similarity(conjunto1, conjunto2):
@@ -93,14 +95,19 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
 def salvar_locais_mapeados(arquivo, locais_mapeados):
     with open(arquivo, 'w') as file:
         for local_id, local in locais_mapeados.items():
-            file.write(f"{local['nome']}\n{local['endereco']}\n{','.join(local['tipos'])}\n{local['avaliacao_geral'] if local['avaliacao_geral'] is not None else 'N/A'}\n{local['score_final']}\n\n")
+            file.write(f"{local['nome']}\n{local['endereco']}\n{','.join(local['tipos'])}\n{local['avaliacao_geral'] 
+            if local['avaliacao_geral'] is not None else 'N/A'}\n{local['score_final']}\n\n")
+
+
+# Atribuir as configurações do .env a uma variável
+load_dotenv()
+api_key = os.getenv('API_KEY')
 
 # Ler as informações do usuário do arquivo de texto
 coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario('usuario.txt')
 
 # Exemplo de uso da função
 radius = 1000
-api_key = 'AIzaSyDTFAqbj8RFJUTeA_Mqb4Wu0ZCf6TULHR4'
 
 locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, radius, api_key)
 
