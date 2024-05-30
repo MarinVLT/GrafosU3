@@ -10,7 +10,7 @@ def jaccard_similarity(conjunto1, conjunto2):
     return intersecao / uniao if uniao > 0 else 0
 
 def ler_informacoes_usuario(arquivo):
-    with open(arquivo, 'r') as file:
+    with open(arquivo, 'r', encoding='latin-1') as file:
         # Lê as coordenadas da primeira linha e as converte para float
         coordenadas = tuple(map(float, file.readline().strip().split(',')))
 
@@ -28,7 +28,7 @@ def ler_informacoes_usuario(arquivo):
             # Extrai o nome do local, os tipos de estabelecimentos e a avaliação
             nome = partes[0]
             tipos = partes[1:-1]  # Tipos de estabelecimentos são todos os itens, exceto o primeiro e o último
-            avaliacao = float(partes[-1]) or 'N/A'
+            avaliacao = float(partes[-1]) if partes[-1] else 'N/A'
 
             # Adiciona as informações do local visitado à lista de locais visitados
             locais_visitados.append({
@@ -39,6 +39,7 @@ def ler_informacoes_usuario(arquivo):
 
     # Retorna as coordenadas, os tipos de estabelecimentos e os locais visitados
     return coordenadas, tipos_de_estabelecimentos, locais_visitados
+
 
 
 def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, radius, api_key):
@@ -61,7 +62,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                 # Busca detalhes adicionais do lugar usando o place_id
                 detalhes = gmaps.place(place_id=place_id)
                  # Inicializa o score do lugar (logica do score, se o lugar tiver o tipo desejado -> score + 1)
-                score = 0
+                # score = 0
                 
 
                 # Se há detalhes do resultado
@@ -70,12 +71,13 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                      # Obtém os tipos do local
                     tipos_do_local = lugar.get('types')
                     
-                    # Incrementa o score se o tipo do local estiver na lista de tipos desejados
-                    # Lado negativo do score -> acrescenta mais um for
-                    # Pensei em usar jaccard para calcular, mas não testei, logo não sei se é eficiente
-                    for tipo_desejado in tipos_de_estabelecimentos:
-                        if tipo_desejado in tipos_do_local:
-                            score += 1
+                    # Similaridade entre o tipo do local atual e os tipos pedidos ao usuario
+
+                    sim_entreTipos = jaccard_similarity(set(tipos_de_estabelecimentos), set(tipos_do_local))
+                    
+                    # Media de similaridade entre tipos do local atual e tipos dos locais ja visitados
+                    similaridades = [jaccard_similarity(set(tipo_local['tipos']), set(tipos_do_local)) for tipo_local in locais_visitados]
+                    sim_HistoricoVisitados = sum(similaridades) / len(similaridades) if similaridades else 0
                     
                     # Armazena os detalhes do estabelecimento no dicionário
                     todos_estabelecimentos[place_id] = {
@@ -85,7 +87,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                         'avaliacao_geral': lugar.get('rating'),
                         #'score': score,
                         #'sim_locais_locais': max([jaccard_similarity(set(tipo_local['tipos']), tipos_do_local) for tipo_local in locais_visitados]),
-                        'score_final': score + max([jaccard_similarity(set(tipo_local['tipos']), tipos_do_local) for tipo_local in locais_visitados])
+                        'score_final': sim_entreTipos + sim_HistoricoVisitados
                     }
     
     # Retorna o dicionário com todos os estabelecimentos encontrados e seus scores
@@ -97,6 +99,7 @@ def salvar_locais_mapeados(arquivo, locais_mapeados):
         for local_id, local in locais_mapeados.items():
             file.write(f"{local['nome']}\n{local['endereco']}\n{','.join(local['tipos'])}\n{local['avaliacao_geral'] 
             if local['avaliacao_geral'] is not None else 'N/A'}\n{local['score_final']}\n\n")
+            print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 
 
 # Atribuir as configurações do .env a uma variável

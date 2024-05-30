@@ -1,126 +1,234 @@
-¡pice Academia
-R. Aldo de Melo Freire, 1877 - Capim Macio, Natal - RN, 59082-000, Brazil
-gym,point_of_interest,health,establishment
-4.8
-2.0
+Posto Ipiranga
+Av. Pres. Get√∫lio Vargas, 1010 - Monte Castelo, Parnamirim - RN, 59146-230, Brazil
+gas_station,convenience_store,car_wash,car_repair,store,restaurant,food,point_of_interest,establishment
+4.2
+0.5863636363636363
 
-JudÙ Clube Ramos
-Alameda dos Bouganvilles, 71 - NeÛpolis, Natal - RN, 59080-150, Brazil
-gym,health,point_of_interest,establishment
-4.8
-2.0
+Pizzaria Express
+R. Cruzeiro do Sul, 866 - Santos Reis, Parnamirim - RN, 59146-110, Brazil
+restaurant,food,point_of_interest,establishment
+3.9
+0.8583333333333334
 
-EspaÁo Dhyana
-R. Graciliano Ramos, 2916 - Capim Macio, Natal - RN, 59080-070, Brazil
-gym,health,point_of_interest,establishment
-4.9
-2.0
+Posto Pinheiro Borges BR (+GNV)
+Av. Piloto Pereira Tim, 2437 - Centro, Parnamirim - RN, 59146-480, Brazil
+gas_station,convenience_store,electrician,bar,bakery,car_repair,restaurant,food,point_of_interest,store,establishment
+4.3
+0.6458333333333333
 
-CrossFit Capim Macio
-R. Aldo de Melo Freire, 1706 - Capim Macio, Natal - RN, 59082-030, Brazil
-gym,health,point_of_interest,establishment
-4.6
-2.0
-
-New Life Academy
-R. Orlando Silva, 2872 - Capim Macio, Natal - RN, 59080-020, Brazil
-gym,health,point_of_interest,establishment
-4.5
-2.0
-
-Gin·sio Facex Capim Macio
-R. Orlando Silva, 2-228 - Capim Macio, Natal - RN, 59080-020, Brazil
-gym,health,point_of_interest,establishment
-4.5
-2.0
-
-Studio De Pilates
-Av. das Alagoas, 2923 - NeÛpolis, Natal - RN, 59086-200, Brazil
-gym,health,point_of_interest,establishment
+Habib's
+-105 - Av. Piloto Pereira Tim, 67 - Centro, Parnamirim - RN, 59140-001, Brazil
+restaurant,food,point_of_interest,establishment
 N/A
-2.0
+0.8583333333333334
 
-Studio - Arte & Sa˙de
-R. Ivo Soares da Cruz, 19 - NeÛpolis, Natal - RN, 59086-260, Brazil
-gym,health,point_of_interest,establishment
+Subway
+Av. Piloto Pereira Tim, D05/06 - Centro, Parnamirim - RN, 59140-001, Brazil
+restaurant,food,point_of_interest,establishment
+4.2
+0.8583333333333334
+
+Colirioos
+R. Lindalva Santiago, 1521 - Monte Castelo, Parnamirim - RN, 59141-610, Brazil
+cafe,restaurant,food,point_of_interest,establishment
+4.6
+0.7154761904761905
+
+Spoiler Lanchonete
+R. Jos√© Augusto Nunes, 634 - Monte Castelo, Parnamirim - RN, 59146-120, Brazil
+meal_takeaway,restaurant,food,point_of_interest,establishment
+4.8
+0.7154761904761905
+
+Cantina da Tia
+R. Jos√© Augusto Nunes, 125 - Monte Castelo, Parnamirim - RN, 59146-120, Brazil
+meal_takeaway,restaurant,food,point_of_interest,establishment
+4.4
+0.7154761904761905
+
+Nega Lanches
+R. Jos√© Augusto Nunes, 484 - Monte Castelo, Parnamirim - RN, 59146-110, Brazil
+restaurant,food,point_of_interest,establishment
+N/A
+0.8583333333333334
+
+J√©ssica Hon√≥rio Douces
+R. Cruzeiro do Sul, 444 - Santos Reis, Parnamirim - RN, 59146-070, Brazil
+restaurant,food,point_of_interest,store,establishment
+N/A
+0.8944444444444444
+
+Pizzaria Express Delivery
+R. Lindalva Santiago, 497 - Santos Reis, Parnamirim - RN, 59141-140, Brazil
+restaurant,food,point_of_interest,establishment
 5
-2.0
+0.8583333333333334
 
-Studio A2 Pilates
-Av. Ayrton Senna, 389 - Loja 02 - Capim Macio, Natal - RN, 59080-100, Brazil
-gym,health,point_of_interest,establishment
+MARMITARIA FRANGO COMPLET√ÉO
+Av. Pres. Get√∫lio Vargas, 332 - Centro, Parnamirim - RN, 59140-270, Brazil
+restaurant,food,point_of_interest,establishment
 5
-2.0
+0.8583333333333334
 
-Sportfitness NeÛpolis
-Rua Fernando de Noronha, 109 - NeÛpolis, Natal - RN, 59080-240, Brazil
-gym,health,point_of_interest,establishment
-4.6
-2.0
-
-QG BRAVUS
-R. Dr. Orlando de Azevedo - Capim Macio, Natal - RN, 59082-080, Brazil
-gym,point_of_interest,health,establishment
-4.9
-2.0
-
-BurnFit
-Av. Ayrton Senna, 1148 - NeÛpolis, Natal - RN, 59080-101, Brazil
-gym,health,point_of_interest,establishment
-4.6
-2.0
-
-M2 Pilates NeÛpolis
-Av. dos Pinheirais - NeÛpolis, Natal - RN, 59080-250, Brazil
-gym,health,point_of_interest,establishment
+Pizzaria21dejunho
+R. Eladenberg da Silva Costa, 193 - Monte Castelo, Parnamirim - RN, 59146-090, Brazil
+restaurant,food,point_of_interest,establishment
 N/A
-2.0
+0.8583333333333334
 
-Academia Insane Trainer | MusculaÁ„o | Crossfit | Capim Macio | Natal
-R. Aldo de Melo Freire, 1892 - Capim Macio, Natal - RN, 59082-040, Brazil
-gym,health,point_of_interest,establishment
+Del√≠cias da Gi
+Av. Pres. Get√∫lio Vargas, 319A - Monte Castelo, Parnamirim - RN, 59146-230, Brazil
+restaurant,food,point_of_interest,establishment
+5
+0.8583333333333334
+
+Shopping Burger
+Av. Pres. Get√∫lio Vargas, 340 - Centro, Parnamirim - RN, 59140-270, Brazil
+restaurant,food,point_of_interest,establishment
 4.8
-2.0
+0.8583333333333334
 
-Sinapse Brasil - Fisioterapia Neurofuncional
-R. Goi·s, 408 - NeÛpolis, Natal - RN, 59080-390, Brazil
-gym,health,point_of_interest,establishment
-5
-2.0
-
-Dra. AlethÈa Cury
-Av. Ayrton Senna, 389 - Loja 02 - Capim Macio, Natal - RN, 59080-100, Brazil
-gym,point_of_interest,health,establishment
+Restaurante do Xaropinho
+Av. Pres. Get√∫lio Vargas, 918 - Centro, Parnamirim - RN, 59140-270, Brazil
+restaurant,food,point_of_interest,establishment
 N/A
-2.0
+0.8583333333333334
 
-1UP Complexo Esportivo
-R. Dr. Orlando de Azevedo, 1979 - Capim Macio, Natal - RN, 59082-050, Brazil
-gym,health,point_of_interest,establishment
-4.6
-2.0
+Pastelaria Op√ßƒÅo
+R. Sadi Mendes - Santos Reis, Parnamirim - RN, 59141-085, Brazil
+restaurant,food,point_of_interest,establishment
+N/A
+0.8583333333333334
 
-Academia Skullgym
-R. Sebasti„o Barreto, 117 - NeÛpolis, Natal - RN, 59080-480, Brazil
-gym,health,point_of_interest,establishment
+Cantina da Gaby
+Av. Paulo Afonso, 3 - Monte Castelo, Parnamirim - RN, 59146-090, Brazil
+restaurant,food,point_of_interest,establishment
+5
+0.8583333333333334
+
+Pix Lancheria
+Av. Pres. Get√∫lio Vargas, 350 - Monte Castelo, Parnamirim - RN, 59146-230, Brazil
+restaurant,food,point_of_interest,establishment
+4.3
+0.8583333333333334
+
+CHURRASCARIA DO & B
+Av. Paulo Afonso - Nova Esperan√ßa, Parnamirim - RN, 59147-460, Brazil
+restaurant,food,point_of_interest,establishment
+5
+0.8583333333333334
+
+Posto Pinheiro Borges - Monte Castelo
+Av. Pres. Get√∫lio Vargas, 1010 - Centro, Parnamirim - RN, 59141-130, Brazil
+gas_station,bakery,car_repair,food,point_of_interest,health,store,establishment
+4.2
+0.7118055555555556
+
+Quallytrigo Distribuidora de Produtos de Panifica√ß√£o
+R. Nilson Martins, 10 - Parnamirim, RN, 59150-000, Brazil
+bakery,store,food,point_of_interest,establishment
+4.3
+0.8645833333333333
+
+Bakery Victoria Regia
+Rua Georgino Avelino - Santos Reis, Parnamirim - RN, 59141-045, Brazil
+bakery,food,point_of_interest,store,establishment
 4.5
-2.0
+0.8645833333333333
 
-SANAR TERAPIAS
-R. Graciliano Ramos, 2916 - Capim Macio, Natal - RN, 59080-070, Brazil
-gym,health,point_of_interest,establishment
+Padaria E Conveniencia Santa Isabel
+R. Cabo Serafim Nunes Neto, 174-178 - Santos Reis, Parnamirim - RN, 59140-260, Brazil
+bakery,food,point_of_interest,store,establishment
+4.5
+0.8645833333333333
+
+Casa do Bolo
+Av. Paulo Afonso, 1410 - Monte Castelo, Parnamirim - RN, 59147-460, Brazil
+bakery,food,point_of_interest,store,establishment
+5
+0.8645833333333333
+
+Padaria Bel√©m
+R. Pedro Nunes Ferreira, 740 - Monte Castelo, Parnamirim - RN, 59141-065, Brazil
+bakery,food,point_of_interest,store,establishment
+4.6
+0.8645833333333333
+
+Padaria Emporio Do P√£o
+Av. Pres. Get√∫lio Vargas, 344 - Centro, Parnamirim - RN, 59140-270, Brazil
+bakery,food,point_of_interest,store,establishment
 N/A
-2.0
+0.8645833333333333
 
-EspaÁo AMA
-R. Prof™ Gipse Montenegro, 2008 - Capim Macio, Natal - RN, 59080-060, Brazil
-gym,health,point_of_interest,establishment
-4.8
-2.0
-
-BOBOX ProduÁıes
-R. Sebasti„o Barreto, 91 - Bloco 4, ap 202 - NeÛpolis, Natal - RN, 59080-480, Brazil
-movie_theater,point_of_interest,establishment
+Padaria e Conveniencia Morais
+R. Lindalva Santiago, 831 - Conj. Hab. Augusto Severo, Parnamirim - RN, 59141-140, Brazil
+bakery,convenience_store,store,food,point_of_interest,establishment
 N/A
-2.0
+0.7400793650793651
+
+Delicia De Massa Padaria E Conveni√™ncia
+Av. Brg. Trompowsky, 981 - Monte Castelo, Parnamirim - RN, 59140-001, Brazil
+bakery,food,point_of_interest,store,establishment
+N/A
+0.8645833333333333
+
+Pao & Queijo
+R. P√≠res de Campos, 461 - Santos Reis, Parnamirim - RN, 59141-140, Brazil
+bakery,food,point_of_interest,store,establishment
+4.2
+0.8645833333333333
+
+Ox√™ Panifica√ß√£o e Conveni√™ncia
+Av. Paulo Afonso, N¬∞ 1023 - Monte Castelo, Parnamirim - RN, 59146-070, Brazil
+bakery,food,point_of_interest,store,establishment
+4.7
+0.8645833333333333
+
+Mega Bolo o original Parnamirim
+Rua Dr - em Frente ao Hospital Deocl√©cio Marques - R. Sadi Mendes, 1096 - Santos Reis, Parnamirim - RN, 59141-085, Brazil
+bakery,meal_takeaway,store,restaurant,food,point_of_interest,establishment
+N/A
+0.9107142857142857
+
+SR. Bolos Doceria & Confeitaria
+R. Sadi Mendes, 1096 - Santos Reis, Parnamirim - RN, 59141-085, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+0.8645833333333333
+
+cake shop corner array
+Av. Pres. Get√∫lio Vargas, 205 - Santos Reis, Parnamirim - RN, 59141-130, Brazil
+bakery,store,food,point_of_interest,establishment
+4.5
+0.8645833333333333
+
+Dom de Doces
+R. C√≠cero Fernandes Pimenta, 459 - Monte Castelo, Parnamirim - RN, 59146-190, Brazil
+bakery,food,point_of_interest,store,establishment
+N/A
+0.8645833333333333
+
+Doce Margarida
+R. Pedro Nunes Ferreira, 1240 - Santos Reis, Parnamirim - RN, 59146-140, Brazil
+bakery,food,point_of_interest,store,establishment
+4.5
+0.8645833333333333
+
+Bal Bolos
+R. Edgar Dantas, 356 - Centro, Parnamirim - RN, 59140-290, Brazil
+bakery,food,point_of_interest,store,establishment
+5
+0.8645833333333333
+
+Padaria & Conv. Morais
+R. Sen. Duarte Filho, 98 - A - Santos Reis, Parnamirim - RN, 59141-110, Brazil
+bakery,food,point_of_interest,store,establishment
+4.4
+0.8645833333333333
+
+Dunkin donuts
+R. Suboficial Farias, 226 - Monte Castelo, Parnamirim - RN, 59141-005, Brazil
+bakery,food,point_of_interest,store,establishment
+N/A
+0.8645833333333333
 

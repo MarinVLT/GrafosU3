@@ -15,7 +15,7 @@ def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida, api
         file.write(','.join(tipos_escolhidos) + '\n')
 
         # Escolhe aleatoriamente a quantidade de locais a serem gerados (de 0 a 5)
-        quantidade_locais = random.randint(0, 5)
+        quantidade_locais = random.randint(1, 5)
         for _ in range(quantidade_locais):
             # Escolhe aleatoriamente um tipo de estabelecimento da lista
             tipo_estabelecimento = random.choice(tipos_escolhidos)
