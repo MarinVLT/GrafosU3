@@ -1,13 +1,15 @@
 import os
 from dotenv import load_dotenv
 from flask import Flask, render_template, request, jsonify
-import gerador_user
-import mapeamento
+from gerador_user import gerar_usuario_txt
+from mapeamento import *
 
 app = Flask(__name__)
 load_dotenv()
 api_key = os.getenv('API_KEY')
 raio = os.getenv('RAIO')
+arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
+arq_usuario = os.getenv('ARQ_USUARIO')
 
 @app.route('/')
 def index():
@@ -22,11 +24,11 @@ def click_location():
     coordenadas = (latitude, longitude)
     tipos_de_estabelecimentos_disponiveis = ['restaurant', 'cafe', 'bar', 'bakery', 'gym', 'movie_theater']
 
-    gerador_user.gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, 'usuario.txt', api_key)
+    gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, arq_usuario, api_key)
 
-    coordenadas, tipos_de_estabelecimentos, locais_visitados = mapeamento.ler_informacoes_usuario('usuario.txt')
-    locais_encontrados = mapeamento.mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
-    mapeamento.salvar_locais_mapeados('locais_mapeados.txt', locais_encontrados)
+    coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
+    locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
+    salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 
     return jsonify(locais_encontrados)
 

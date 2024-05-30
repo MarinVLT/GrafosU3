@@ -1,180 +1,30 @@
-# GOOGLE MAPS (PLACES API)
+# Google Maps
+📌🗺 [Places API](https://console.cloud.google.com/marketplace/product/google/places.googleapis.com?hl=en&project=level-epoch-424911-t1)
 
-teste usando a API places para pegar os locais mais proximo de uma cordenada passada.
-(A chave de API funcionando no meu endereço de IP)
+Usando a API places para pegar os locais mais proximo de uma cordenada passada.
+(É necessário configurar sua própria chave da API para o seu endereço de IP)
 
-obs: entrar no venv para rodar (linux: source myenv/bin/activate)
+Obs: entrar no venv para rodar (linux: source myenv/bin/activate)
 
-# TIPOS DE ESTABELECIMENTOS
 
-    1. Estabelecimentos gerais:
-        accounting
-        airport
-        amusement_park
-        aquarium
-        art_gallery
-        atm
-        bakery
-        bank
-        bar
-        beauty_salon
-        bicycle_store
-        book_store
-        bowling_alley
-        bus_station
-        cafe
-        campground
-        car_dealer
-        car_rental
-        car_repair
-        car_wash
-        casino
-        cemetery
-        church
-        city_hall
-        clothing_store
-        convenience_store
-        courthouse
-        dentist
-        department_store
-        doctor
-        drugstore
-        electrician
-        electronics_store
-        embassy
-        fire_station
-        florist
-        funeral_home
-        furniture_store
-        gas_station
-        gym
-        hair_care
-        hardware_store
-        hindu_temple
-        home_goods_store
-        hospital
-        insurance_agency
-        jewelry_store
-        laundry
-        lawyer
-        library
-        light_rail_station
-        liquor_store
-        local_government_office
-        locksmith
-        lodging
-        meal_delivery
-        meal_takeaway
-        mosque
-        movie_rental
-        movie_theater
-        moving_company
-        museum
-        night_club
-        painter
-        park
-        parking
-        pet_store
-        pharmacy
-        physiotherapist
-        plumber
-        police
-        post_office
-        real_estate_agency
-        restaurant
-        roofing_contractor
-        rv_park
-        school
-        shoe_store
-        shopping_mall
-        spa
-        stadium
-        storage
-        store
-        subway_station
-        supermarket
-        synagogue
-        taxi_stand
-        train_station
-        transit_station
-        travel_agency
-        university
-        veterinary_care
-        zoo
 
-    2. Tipos de comida e bebida:
-        bakery
-        bar
-        cafe
-        meal_delivery
-        meal_takeaway
-        restaurant
-
-    3. Compras e serviços:
-        clothing_store
-        convenience_store
-        department_store
-        electronics_store
-        furniture_store
-        hardware_store
-        home_goods_store
-        jewelry_store
-        liquor_store
-        pet_store
-        shoe_store
-        shopping_mall
-        store
-        supermarket
-
-    4. Infraestrutura e transporte:
-        airport
-        bus_station
-        car_rental
-        car_repair
-        car_wash
-        gas_station
-        light_rail_station
-        parking
-        subway_station
-        taxi_stand
-        train_station
-        transit_station
-
-    5. Saúde e serviços médicos:
-        dentist
-        doctor
-        hospital
-        pharmacy
-        physiotherapist
-        veterinary_care
-
-    6. Serviços públicos e locais de interesse:
-        atm
-        bank
-        church
-        city_hall
-        courthouse
-        embassy
-        fire_station
-        library
-        local_government_office
-        mosque
-        police
-        post_office
-        school
-        synagogue
-        university
-
-    7. Recreação e entretenimento:
-        amusement_park
-        aquarium
-        art_gallery
-        bowling_alley
-        casino
-        movie_theater
-        museum
-        night_club
-        park
-        spa
-        stadium
-        zoo
+# Tipos de Estabelecimentos
+| Categoria            | Tipos de Comida e Bebida | Compras e Serviços | Infraestrutura e Transporte | Saúde e Serviços Médicos | Serviços Públicos e Locais de Interesse | Recreação e Entretenimento |
+|----------------------|--------------------------|-------------------|-----------------------------|--------------------------|-----------------------------------------|----------------------------|
+| **(1)**              | bakery                   | clothing_store    | airport                     | dentist                  | atm                                     | amusement_park             |
+| **(2)**              | bar                      | convenience_store | bus_station                 | doctor                   | bank                                    | aquarium                   |
+| **(3)**              | cafe                     | department_store  | car_rental                  | hospital                 | church                                  | art_gallery                |
+| **(4)**              | meal_delivery            | electronics_store | car_repair                  | pharmacy                 | city_hall                               | bowling_alley              |
+| **(5)**              | meal_takeaway            | furniture_store   | car_wash                    | physiotherapist          | courthouse                              | casino                     |
+| **(6)**              | restaurant               | hardware_store    | gas_station                 | veterinary_care          | embassy                                 | movie_theater              |
+| **(7)**              |                          | home_goods_store  | light_rail_station          |                          | fire_station                            | museum                     |
+| **(8)**              |                          | jewelry_store     | parking                     |                          | library                                 | night_club                 |
+| **(9)**              |                          | liquor_store      | subway_station              |                          | local_government_office                 | park                       |
+| **(10)**             |                          | pet_store         | taxi_stand                  |                          | mosque                                  | spa                        |
+| **(11)**             |                          | shoe_store        | train_station               |                          | police                                  | stadium                    |
+| **(12)**             |                          | shopping_mall     | transit_station             |                          | post_office                             | zoo                        |
+| **(13)**             |                          | store             |                             |                          | school                                  |                            |
+| **(14)**             |                          | supermarket       |                             |                          | synagogue                               |                            |
+| **(15)**             |                          |                   |                             |                          | university                              |                            |
+| **Total por coluna** | **6**                    | **14**            | **12**                      | **6**                    | **15**                                  | **12**                     |
+| **Total geral**      | **65**                   |                   |                             |                          |                                         |                            |

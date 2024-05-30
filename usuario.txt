@@ -1,6 +1,0 @@
--5.910220384606813,-35.268645286560066
-restaurant,bakery
-Jéssica Honório Douces,store,restaurant,food,point_of_interest,establishment,-1
-Dunkin donuts,bakery,store,food,point_of_interest,establishment,-1
-Posto Pinheiro Borges - Monte Castelo,gas_station,bakery,car_repair,store,health,food,point_of_interest,establishment,4.2
-Habib's,restaurant,food,point_of_interest,establishment,-1

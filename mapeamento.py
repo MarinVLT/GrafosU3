@@ -11,7 +11,7 @@ def jaccard_similarity(conjunto1, conjunto2):
     return intersecao / uniao if uniao > 0 else 0
 
 def ler_informacoes_usuario(arquivo):
-    with open(arquivo, 'r', encoding='latin-1') as file:
+    with open(arquivo, 'r', encoding='utf-8') as file:
         # Lê as coordenadas da primeira linha e as converte para float
         coordenadas = tuple(map(float, file.readline().strip().split(',')))
 
@@ -96,12 +96,10 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
 
 # Salvar locais mapeados em locais_mapeados.txt
 def salvar_locais_mapeados(arquivo, locais_mapeados):
-    with open(arquivo, 'w') as file:
+    with open(arquivo, 'w', encoding='utf-8') as file:
         for local_id, local in locais_mapeados.items():
             file.write(f"{local['nome']}\n{local['endereco']}\n{','.join(local['tipos'])}\n{local['avaliacao_geral'] 
             if local['avaliacao_geral'] is not None else 'N/A'}\n{local['score_final']}\n\n")
-            print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
-
 
 def criar_grafo(locs_mapeados):
     grafo = nx.Graph()
@@ -141,7 +139,7 @@ def criar_grafo(locs_mapeados):
 
 # Função para salvar o grafo em um arquivo de texto
 def salvar_grafo_em_txt(grafo, arquivo):
-    with open(arquivo, 'w') as file:
+    with open(arquivo, 'w', encoding='utf-8') as file:
         # Escrever informações sobre os vértices
         file.write("Vértices:\n")
         for node, data in grafo.nodes(data=True):
@@ -159,17 +157,18 @@ def salvar_grafo_em_txt(grafo, arquivo):
 # Atribuir as configurações do .env a uma variável
 load_dotenv()
 api_key = os.getenv('API_KEY')
+raio = os.getenv('RAIO')
+arq_usuario = os.getenv('ARQ_USUARIO')
+arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
+arq_grafo = os.getenv('ARQ_GRAFO')
 
 # Ler as informações do usuário do arquivo de texto
-coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario('usuario.txt')
+coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
 
-# Exemplo de uso da função
-radius = 1000
-
-locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, radius, api_key)
+locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
 
 # Salvar os locais mapeados em um arquivo de texto
-salvar_locais_mapeados('locais_mapeados.txt', locais_encontrados)
+salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 
 print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 

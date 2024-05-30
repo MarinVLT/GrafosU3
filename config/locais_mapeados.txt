@@ -1,0 +1,240 @@
+Center Fitness Alecrim
+R. dos Paiatis, 1553 - Alecrim, Natal - RN, 59037-150, Brazil
+gym,health,point_of_interest,establishment
+4.7
+1.05
+
+Kimura Alecrim
+Av. Coronel Estevam, 1638 - Alecrim, Natal - RN, 59031-270, Brazil
+gym,health,point_of_interest,establishment
+5
+1.05
+
+Chiletto fisioterapia e Pilates
+R. Herculano Ramos - Alecrim, Natal - RN, 59052-700, Brazil
+gym,health,point_of_interest,establishment
+5
+1.05
+
+Magnum Fitness
+R. dos Pajeús - Alecrim, Natal - RN, 59037-800, Brazil
+gym,point_of_interest,health,establishment
+4.9
+1.05
+
+Academia DNA Fitness
+R. dos Pajeús, 738R - Alecrim, Natal - RN, 59031-800, Brazil
+gym,health,point_of_interest,establishment
+5
+1.05
+
+Academia Lopes Fitness
+Av. Interventor Mário Câmara - Alecrim, Natal - RN, 59032-600, Brazil
+gym,health,point_of_interest,establishment
+5
+1.05
+
+Club Fitness Academia
+Av. Interventor Mário Câmara, 1574 - Alecrim, Natal - RN, 59032-600, Brazil
+gym,point_of_interest,health,establishment
+5
+1.05
+
+Maxfit New academia
+R. Pres. Mascarenhas, 476 - Alecrim, Natal - RN, 59032-502, Brazil
+gym,point_of_interest,health,establishment
+4.6
+1.05
+
+KAIZEN
+Alecrim, Natal - State of Rio Grande do Norte, 59040-265, Brazil
+gym,point_of_interest,health,establishment
+N/A
+1.05
+
+Ct Pqd
+Quintas, Natal - State of Rio Grande do Norte, 59035-150, Brazil
+gym,health,point_of_interest,establishment
+4
+1.05
+
+G1 Academia
+Rua Presidente José Bento, 729 - Alecrim, Natal - RN, 59037-060, Brazil
+gym,point_of_interest,health,establishment
+4.5
+1.05
+
+Studio Pilates HS
+Rua Presidente José Bento, 731 - Alecrim, Natal - RN, 59037-060, Brazil
+gym,health,point_of_interest,establishment
+N/A
+1.05
+
+ML FIT ACADEMIA E SARON BRONZE
+R. dos Pegas, 1743 - Quintas, Natal - RN, 59035-100, Brazil
+gym,health,point_of_interest,establishment
+4.5
+1.05
+
+Da Fitness
+Alecrim, Natal - State of Rio Grande do Norte, 59030-200, Brazil
+gym,point_of_interest,health,establishment
+N/A
+1.05
+
+Attack Fitness
+R. Agostinho Leitão - Alecrim, Natal - RN, 59040-090, Brazil
+gym,health,point_of_interest,establishment
+4.8
+1.05
+
+Academia Kalliforma
+R. Pres. Sarmento, 1023 - Alecrim, Natal - RN, 59032-400, Brazil
+gym,health,point_of_interest,establishment
+4.6
+1.05
+
+Time Fitness
+Av. Nevaldo Rocha, 2126 - Dix-Sept Rosado, Natal - RN, 59052-700, Brazil
+gym,point_of_interest,health,establishment
+4.9
+1.05
+
+Total Saúde Academias - Alecrim
+R. Pres. Gonçalves, 857 - Alecrim, Natal - RN, 59031-170, Brazil
+gym,point_of_interest,health,establishment
+4.7
+1.05
+
+WorkOut Club Fitness
+R. Amaro Barreto, 1229 - Alecrim, Natal - RN, 59031-200, Brazil
+gym,point_of_interest,health,establishment
+4.7
+1.05
+
+Mma Quintas Fight
+Quintas, Natal - State of Rio Grande do Norte, 59035-290, Brazil
+gym,health,point_of_interest,establishment
+N/A
+1.05
+
+MPB PIZZAS
+R. dos Pajeús - Alecrim, Natal - RN, 59037-800, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.4
+0.5095238095238095
+
+De Sá Lanches
+Av. Interventor Mário Câmara, 1577 - Alecrim, Natal - RN, 59032-600, Brazil
+meal_takeaway,restaurant,food,point_of_interest,establishment
+4.6
+0.5095238095238095
+
+Restaurante Oriental
+R. Leonel Leite, 1377 - Alecrim, Natal - RN, 59037-820, Brazil
+restaurant,point_of_interest,food,establishment
+3.8
+0.6000000000000001
+
+Paulinho Burger
+Av. Interventor Mário Câmara - Alecrim, Natal - RN, 59032-600, Brazil
+meal_takeaway,restaurant,point_of_interest,food,establishment
+4.3
+0.5095238095238095
+
+Casa D'Aldeia Petiscaria Portuguesa
+R. Ary Parreiras, 1390 - Alecrim, Natal - RN, 59040-220, Brazil
+restaurant,food,point_of_interest,establishment
+4.7
+0.6000000000000001
+
+Bar e Mercearia do Eloi
+Av. Pres. Bandeira, 784 - Alecrim, Natal - RN, 59030-200, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.4
+0.5095238095238095
+
+Mr Burguer (Hugo Lanches)
+R. São Geraldo, 167 - Quintas, Natal - RN, 59035-260, Brazil
+meal_takeaway,restaurant,food,point_of_interest,establishment
+4.7
+0.5095238095238095
+
+Panificadora Cristal
+R. Dr. Manoel Miranda, 719 - Quintas, Natal - RN, 59037-250, Brazil
+bakery,restaurant,food,point_of_interest,store,establishment
+4.5
+0.5428571428571429
+
+Bar do Pastel
+Av. Nevaldo Rocha, 1811 - Alecrim, Natal - RN, 59032-445, Brazil
+restaurant,bar,food,point_of_interest,establishment
+4.5
+0.5095238095238095
+
+PJ Refeições Coletivas
+R. João Francisco de Oliveira, 32-B - Dix-Sept Rosado, Natal - RN, 59052-140, Brazil
+restaurant,point_of_interest,food,establishment
+4.2
+0.6000000000000001
+
+Pizzaria 2 Irmãos
+R. Dr. José Neves, 65 - Bom Pastor, Natal - RN, 59052-050, Brazil
+restaurant,food,point_of_interest,establishment
+4.7
+0.6000000000000001
+
+Restaurante Changay
+R. Pres. Quaresma, 732 - Alecrim, Natal - RN, 59031-150, Brazil
+restaurant,food,point_of_interest,establishment
+4.4
+0.6000000000000001
+
+G Lanches
+Av. Coronel Estevam, 1584 - Alecrim, Natal - RN, 59035-000, Brazil
+meal_takeaway,restaurant,point_of_interest,food,establishment
+N/A
+0.5095238095238095
+
+Lá de Casa
+Av. 9, 1510 - Alecrim, Natal - RN, 59031-270, Brazil
+meal_takeaway,restaurant,food,point_of_interest,establishment
+N/A
+0.5095238095238095
+
+Cozinha marbela
+Av. Coronel Estevam - Alecrim, Natal - RN, 59037-530, Brazil
+restaurant,food,point_of_interest,establishment
+N/A
+0.6000000000000001
+
+Restaurante da graça
+R. dos Paianazes, 1487 - Alecrim, Natal - RN, 59060-028, Brazil
+restaurant,food,point_of_interest,establishment
+N/A
+0.6000000000000001
+
+Lanchonete Almirante Barroso
+Alecrim, Natal - State of Rio Grande do Norte, 59037-530, Brazil
+restaurant,food,point_of_interest,establishment
+N/A
+0.6000000000000001
+
+Churrasquinho Café & Cia
+R. dos Paianazes, 1638 - Alecrim, Natal - RN, 59037-370, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.5
+0.5095238095238095
+
+Carne de Sol do Araújo
+R. dos Pajeús, 1762 - Alecrim, Natal - RN, 59037-800, Brazil
+restaurant,bar,food,point_of_interest,establishment
+4.3
+0.5095238095238095
+
+Restaurante Dois Irmãos
+Alecrim, Natal - State of Rio Grande do Norte, 59037-350, Brazil
+restaurant,food,point_of_interest,establishment
+N/A
+0.6000000000000001
+

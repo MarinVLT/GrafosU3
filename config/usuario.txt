@@ -1,0 +1,7 @@
+-5.800040515341294,-35.221718181711076
+gym,restaurant
+Panificadora Cristal,bakery,store,restaurant,food,point_of_interest,establishment,4.5
+Chiletto fisioterapia e Pilates,gym,health,point_of_interest,establishment,5
+Time Fitness,gym,health,point_of_interest,establishment,4.9
+Time Fitness,gym,health,point_of_interest,establishment,4.9
+Kimura Alecrim,gym,health,point_of_interest,establishment,5
