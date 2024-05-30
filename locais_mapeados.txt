@@ -1,6 +1,6 @@
 Posto Ipiranga
 Av. Pres. Getúlio Vargas, 1010 - Monte Castelo, Parnamirim - RN, 59146-230, Brazil
-gas_station,convenience_store,car_wash,car_repair,store,restaurant,food,point_of_interest,establishment
+gas_station,convenience_store,car_wash,car_repair,restaurant,store,point_of_interest,food,establishment
 4.2
 0.5863636363636363
 
@@ -12,7 +12,7 @@ restaurant,food,point_of_interest,establishment
 
 Posto Pinheiro Borges BR (+GNV)
 Av. Piloto Pereira Tim, 2437 - Centro, Parnamirim - RN, 59146-480, Brazil
-gas_station,convenience_store,electrician,bar,bakery,car_repair,restaurant,food,point_of_interest,store,establishment
+gas_station,convenience_store,electrician,bar,bakery,car_repair,store,restaurant,food,point_of_interest,establishment
 4.3
 0.6458333333333333
 
@@ -30,7 +30,7 @@ restaurant,food,point_of_interest,establishment
 
 Colirioos
 R. Lindalva Santiago, 1521 - Monte Castelo, Parnamirim - RN, 59141-610, Brazil
-cafe,restaurant,food,point_of_interest,establishment
+cafe,restaurant,point_of_interest,food,establishment
 4.6
 0.7154761904761905
 
@@ -60,7 +60,7 @@ N/A
 
 Pizzaria Express Delivery
 R. Lindalva Santiago, 497 - Santos Reis, Parnamirim - RN, 59141-140, Brazil
-restaurant,food,point_of_interest,establishment
+restaurant,point_of_interest,food,establishment
 5
 0.8583333333333334
 
@@ -72,7 +72,7 @@ restaurant,food,point_of_interest,establishment
 
 Pizzaria21dejunho
 R. Eladenberg da Silva Costa, 193 - Monte Castelo, Parnamirim - RN, 59146-090, Brazil
-restaurant,food,point_of_interest,establishment
+restaurant,point_of_interest,food,establishment
 N/A
 0.8583333333333334
 
@@ -108,7 +108,7 @@ restaurant,food,point_of_interest,establishment
 
 Pix Lancheria
 Av. Pres. Getúlio Vargas, 350 - Monte Castelo, Parnamirim - RN, 59146-230, Brazil
-restaurant,food,point_of_interest,establishment
+restaurant,point_of_interest,food,establishment
 4.3
 0.8583333333333334
 
@@ -120,7 +120,7 @@ restaurant,food,point_of_interest,establishment
 
 Posto Pinheiro Borges - Monte Castelo
 Av. Pres. Getúlio Vargas, 1010 - Centro, Parnamirim - RN, 59141-130, Brazil
-gas_station,bakery,car_repair,food,point_of_interest,health,store,establishment
+gas_station,bakery,car_repair,health,food,point_of_interest,store,establishment
 4.2
 0.7118055555555556
 
@@ -150,49 +150,49 @@ bakery,food,point_of_interest,store,establishment
 
 Padaria Belém
 R. Pedro Nunes Ferreira, 740 - Monte Castelo, Parnamirim - RN, 59141-065, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,food,point_of_interest,establishment
 4.6
 0.8645833333333333
 
 Padaria Emporio Do Pão
 Av. Pres. Getúlio Vargas, 344 - Centro, Parnamirim - RN, 59140-270, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,point_of_interest,food,establishment
 N/A
 0.8645833333333333
 
 Padaria e Conveniencia Morais
 R. Lindalva Santiago, 831 - Conj. Hab. Augusto Severo, Parnamirim - RN, 59141-140, Brazil
-bakery,convenience_store,store,food,point_of_interest,establishment
+bakery,convenience_store,food,point_of_interest,store,establishment
 N/A
 0.7400793650793651
 
 Delicia De Massa Padaria E Conveniência
 Av. Brg. Trompowsky, 981 - Monte Castelo, Parnamirim - RN, 59140-001, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,point_of_interest,food,establishment
 N/A
 0.8645833333333333
 
 Pao & Queijo
 R. Píres de Campos, 461 - Santos Reis, Parnamirim - RN, 59141-140, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,point_of_interest,food,establishment
 4.2
 0.8645833333333333
 
 Oxê Panificação e Conveniência
 Av. Paulo Afonso, N° 1023 - Monte Castelo, Parnamirim - RN, 59146-070, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,point_of_interest,food,establishment
 4.7
 0.8645833333333333
 
 Mega Bolo o original Parnamirim
 Rua Dr - em Frente ao Hospital Deoclécio Marques - R. Sadi Mendes, 1096 - Santos Reis, Parnamirim - RN, 59141-085, Brazil
-bakery,meal_takeaway,store,restaurant,food,point_of_interest,establishment
+meal_takeaway,bakery,restaurant,food,point_of_interest,store,establishment
 N/A
 0.9107142857142857
 
 SR. Bolos Doceria & Confeitaria
 R. Sadi Mendes, 1096 - Santos Reis, Parnamirim - RN, 59141-085, Brazil
-bakery,store,food,point_of_interest,establishment
+bakery,food,point_of_interest,store,establishment
 5
 0.8645833333333333
 
@@ -216,19 +216,19 @@ bakery,food,point_of_interest,store,establishment
 
 Bal Bolos
 R. Edgar Dantas, 356 - Centro, Parnamirim - RN, 59140-290, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,food,point_of_interest,establishment
 5
 0.8645833333333333
 
 Padaria & Conv. Morais
 R. Sen. Duarte Filho, 98 - A - Santos Reis, Parnamirim - RN, 59141-110, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,point_of_interest,food,establishment
 4.4
 0.8645833333333333
 
 Dunkin donuts
 R. Suboficial Farias, 226 - Monte Castelo, Parnamirim - RN, 59141-005, Brazil
-bakery,food,point_of_interest,store,establishment
+bakery,store,point_of_interest,food,establishment
 N/A
 0.8645833333333333
 

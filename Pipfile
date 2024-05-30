@@ -8,6 +8,7 @@ googlemaps = "*"
 python-dotenv = "*"
 flask = "*"
 folium = "*"
+networkx = "*"
 
 [dev-packages]
 

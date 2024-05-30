@@ -1,6 +1,7 @@
 import googlemaps
 import os
 from dotenv import load_dotenv
+import networkx as nx
 
 
 # Jaccard, interseçãos/uniao (varia de 0 a 1, quão mais proximo de 1, mais similar)
@@ -102,6 +103,59 @@ def salvar_locais_mapeados(arquivo, locais_mapeados):
             print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 
 
+def criar_grafo(locs_mapeados):
+    grafo = nx.Graph()
+    for place_id, local in locs_mapeados.items():
+        grafo.add_node(place_id, nome=local['nome'], endereco=local['endereco'], tipos=local['tipos'], avaliacao_geral=local['avaliacao_geral'], score_final=local['score_final'])
+    
+    # Adiciona arestas com base na similaridade entre os locais
+    for u, u_data in grafo.nodes(data=True):
+        for v, v_data in grafo.nodes(data=True):
+            if u != v:
+                # Calcula a similaridade entre os tipos dos locais
+                sim_tipo = jaccard_similarity(set(u_data['tipos']), set(v_data['tipos']))
+                # Adiciona uma aresta ponderada com base na similaridade
+                grafo.add_edge(u, v, similaridade=sim_tipo)
+    
+    # Garante que o grafo seja conectado
+    if not nx.is_connected(grafo):
+        # Encontra as componentes conectadas
+        componentes_conectadas = list(nx.connected_components(grafo))
+        # Conecta as componentes conectadas adicionando uma aresta entre dois vértices de componentes diferentes
+        for i in range(len(componentes_conectadas) - 1):
+            u = min(componentes_conectadas[i], key=lambda x: grafo.degree[x])
+            v = min(componentes_conectadas[i + 1], key=lambda x: grafo.degree[x])
+            grafo.add_edge(u, v)
+
+    # Verifica e adiciona arestas para garantir que cada vértice tenha grau par
+    for node, degree in grafo.degree:
+        if degree % 2 != 0:
+            # Encontra um vértice com grau ímpar para conectar
+            for other_node, other_degree in grafo.degree:
+                if other_degree % 2 != 0 and node != other_node and not grafo.has_edge(node, other_node):
+                    grafo.add_edge(node, other_node)
+                    break
+
+    return grafo
+
+
+# Função para salvar o grafo em um arquivo de texto
+def salvar_grafo_em_txt(grafo, arquivo):
+    with open(arquivo, 'w') as file:
+        # Escrever informações sobre os vértices
+        file.write("Vértices:\n")
+        for node, data in grafo.nodes(data=True):
+            nome_local = data['nome']
+            file.write(f"{nome_local}: {data}\n")
+        
+        # Escrever informações sobre as arestas
+        file.write("\nArestas:\n")
+        for u, v, data in grafo.edges(data=True):
+            nome_local_u = grafo.nodes[u]['nome']
+            nome_local_v = grafo.nodes[v]['nome']
+            file.write(f"{nome_local_u} - {nome_local_v}: Similaridade entre tipos = {data['similaridade']}\n")
+
+
 # Atribuir as configurações do .env a uma variável
 load_dotenv()
 api_key = os.getenv('API_KEY')
@@ -119,4 +173,8 @@ salvar_locais_mapeados('locais_mapeados.txt', locais_encontrados)
 
 print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 
-# similaridade esta sendo calculado com base nos tipos 
+# Criar o grafo
+grafo = criar_grafo(locais_encontrados)
+
+# Salvar o grafo em um arquivo de texto
+salvar_grafo_em_txt(grafo, "grafo.txt")
