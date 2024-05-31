@@ -1,7 +1,7 @@
--5.800040515341294,-35.221718181711076
-gym,restaurant
-Panificadora Cristal,bakery,store,restaurant,food,point_of_interest,establishment,4.5
-Chiletto fisioterapia e Pilates,gym,health,point_of_interest,establishment,5
-Time Fitness,gym,health,point_of_interest,establishment,4.9
-Time Fitness,gym,health,point_of_interest,establishment,4.9
-Kimura Alecrim,gym,health,point_of_interest,establishment,5
+-23.546992526204008,-46.62391662597656
+restaurant,cafe
+Cantina do Gigio,restaurant,food,point_of_interest,establishment,4.6
+BR Mania Conveniência,convenience_store,gas_station,atm,meal_takeaway,car_repair,cafe,finance,store,restaurant,point_of_interest,food,establishment,-1
+Cha drizzle house,cafe,food,point_of_interest,establishment,4.4
+Spot Three Brothers,cafe,point_of_interest,food,establishment,4.6
+BãodiMinas,cafe,store,point_of_interest,food,establishment,4.5

@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from flask import Flask, render_template, request, jsonify
 from gerador_user import gerar_usuario_txt
 from mapeamento import *
+from criar_grafo import *
 
 app = Flask(__name__)
 load_dotenv()
@@ -29,6 +30,9 @@ def click_location():
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
     locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
     salvar_locais_mapeados(arq_locais_map, locais_encontrados)
+
+    grafo = criar_grafo_euleriano(locais_encontrados)
+    salvar_grafo_em_txt(grafo, arq_grafo)
 
     return jsonify(locais_encontrados)
 

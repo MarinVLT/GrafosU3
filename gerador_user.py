@@ -39,10 +39,10 @@ api_key = os.getenv('API_KEY')
 arq_usuario = os.getenv('ARQ_USUARIO')
 
 # Coordenadas de exemplo (Alecrim, Natal, RN, Brasil)
-coordenadas = (-5.800040515341294, -35.221718181711076)
+# coordenadas = (-5.800040515341294, -35.221718181711076)
 
 # Lista de tipos de estabelecimentos disponíveis
 tipos_de_estabelecimentos_disponiveis = ['restaurant', 'cafe', 'bar', 'bakery', 'gym', 'movie_theater'] # aumentar essa lista?
 
 # Gera o arquivo usuario.txt
-gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, arq_usuario, api_key)
+# gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, arq_usuario, api_key)
