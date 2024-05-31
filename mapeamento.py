@@ -2,6 +2,7 @@ import googlemaps
 import os
 from dotenv import load_dotenv
 import networkx as nx
+import math
 
 
 # Jaccard, interseçãos/uniao (varia de 0 a 1, quão mais proximo de 1, mais similar)
@@ -73,21 +74,27 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                     tipos_do_local = lugar.get('types')
                     
                     # Similaridade entre o tipo do local atual e os tipos pedidos ao usuario
-
                     sim_entreTipos = jaccard_similarity(set(tipos_de_estabelecimentos), set(tipos_do_local))
                     
                     # Media de similaridade entre tipos do local atual e tipos dos locais ja visitados
                     similaridades = [jaccard_similarity(set(tipo_local['tipos']), set(tipos_do_local)) for tipo_local in locais_visitados]
                     sim_HistoricoVisitados = sum(similaridades) / len(similaridades) if similaridades else 0
+
+                    # Obtém as coordenadas do local
+                    coordenadas_local = lugar.get('geometry', {}).get('location', {})
+                    latitude = coordenadas_local.get('lat')
+                    longitude = coordenadas_local.get('lng')
                     
                     # Armazena os detalhes do estabelecimento no dicionário
                     todos_estabelecimentos[place_id] = {
+                        'place_id': place_id,
                         'nome': lugar.get('name'),
                         'endereco': lugar.get('formatted_address'),
                         'tipos': tipos_do_local,
                         'avaliacao_geral': lugar.get('rating'),
-                        #'score': score,
-                        #'sim_locais_locais': max([jaccard_similarity(set(tipo_local['tipos']), tipos_do_local) for tipo_local in locais_visitados]),
+                        'latitude': latitude,
+                        'longitude': longitude,
+                        'coordenadas': (latitude, longitude),
                         'score_final': sim_entreTipos + sim_HistoricoVisitados
                     }
     
@@ -96,50 +103,53 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
 
 # Salvar locais mapeados em locais_mapeados.txt
 def salvar_locais_mapeados(arquivo, locais_mapeados):
-    with open(arquivo, 'w', encoding='utf-8') as file:
+    with open(arquivo, 'w') as file:
         for local_id, local in locais_mapeados.items():
             file.write(f"{local['nome']}\n{local['endereco']}\n{','.join(local['tipos'])}\n{local['avaliacao_geral'] 
             if local['avaliacao_geral'] is not None else 'N/A'}\n{local['score_final']}\n\n")
+            print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 
-def criar_grafo(locs_mapeados):
+
+# Uma medida de distância "reta" entre dois pontos em um espaço euclidiano
+def distancia_euclidiana(coord1, coord2):
+    return math.sqrt((coord1[0] - coord2[0]) ** 2 + (coord1[1] - coord2[1]) ** 2)
+
+
+def criar_grafo_euleriano(locs_mapeados):
     grafo = nx.Graph()
-    for place_id, local in locs_mapeados.items():
-        grafo.add_node(place_id, nome=local['nome'], endereco=local['endereco'], tipos=local['tipos'], avaliacao_geral=local['avaliacao_geral'], score_final=local['score_final'])
+
+    # Verifica se o número de locais é impar
+    num_locais = len(locs_mapeados)
+    if num_locais % 2 == 0:
+        print("Número de locais é par. Removendo um local com menor score_final...")
+        menor_score_vertice = min(locs_mapeados.values(), key=lambda x: x['score_final'])
+        del locs_mapeados[menor_score_vertice['place_id']]
+        print(f"Local removido: {menor_score_vertice['nome']}")
     
-    # Adiciona arestas com base na similaridade entre os locais
+    # Adiciona os locais ao grafo
+    for place_id, local in locs_mapeados.items():
+        grafo.add_node(place_id, nome=local['nome'], endereco=local['endereco'], tipos=local['tipos'], avaliacao_geral=local['avaliacao_geral'], score_final=local['score_final'], coordenadas=local['coordenadas'])
+
+
+   # Adiciona as arestas ponderadas com base na distância entre os locais
     for u, u_data in grafo.nodes(data=True):
         for v, v_data in grafo.nodes(data=True):
             if u != v:
-                # Calcula a similaridade entre os tipos dos locais
-                sim_tipo = jaccard_similarity(set(u_data['tipos']), set(v_data['tipos']))
-                # Adiciona uma aresta ponderada com base na similaridade
-                grafo.add_edge(u, v, similaridade=sim_tipo)
+                # Calcula a distância entre as coordenadas dos locais
+                distancia = distancia_euclidiana(u_data['coordenadas'], v_data['coordenadas'])
+                # Adiciona uma aresta ponderada com base na distância
+                grafo.add_edge(u, v, distancia=distancia)
+
+    # Verifica se o grafo é euleriano
+    if not nx.is_eulerian(grafo):
+        raise ValueError("O grafo não é euleriano.")
     
-    # Garante que o grafo seja conectado
-    if not nx.is_connected(grafo):
-        # Encontra as componentes conectadas
-        componentes_conectadas = list(nx.connected_components(grafo))
-        # Conecta as componentes conectadas adicionando uma aresta entre dois vértices de componentes diferentes
-        for i in range(len(componentes_conectadas) - 1):
-            u = min(componentes_conectadas[i], key=lambda x: grafo.degree[x])
-            v = min(componentes_conectadas[i + 1], key=lambda x: grafo.degree[x])
-            grafo.add_edge(u, v)
-
-    # Verifica e adiciona arestas para garantir que cada vértice tenha grau par
-    for node, degree in grafo.degree:
-        if degree % 2 != 0:
-            # Encontra um vértice com grau ímpar para conectar
-            for other_node, other_degree in grafo.degree:
-                if other_degree % 2 != 0 and node != other_node and not grafo.has_edge(node, other_node):
-                    grafo.add_edge(node, other_node)
-                    break
-
+    
     return grafo
-
 
 # Função para salvar o grafo em um arquivo de texto
 def salvar_grafo_em_txt(grafo, arquivo):
-    with open(arquivo, 'w', encoding='utf-8') as file:
+    with open(arquivo, 'w') as file:
         # Escrever informações sobre os vértices
         file.write("Vértices:\n")
         for node, data in grafo.nodes(data=True):
@@ -151,7 +161,8 @@ def salvar_grafo_em_txt(grafo, arquivo):
         for u, v, data in grafo.edges(data=True):
             nome_local_u = grafo.nodes[u]['nome']
             nome_local_v = grafo.nodes[v]['nome']
-            file.write(f"{nome_local_u} - {nome_local_v}: Similaridade entre tipos = {data['similaridade']}\n")
+            file.write(f"{nome_local_u} - {nome_local_v}: Distancia entre os locais = {data['distancia']}\n")
+
 
 
 # Atribuir as configurações do .env a uma variável
@@ -173,7 +184,7 @@ salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 
 # Criar o grafo
-grafo = criar_grafo(locais_encontrados)
+grafo = criar_grafo_euleriano(locais_encontrados)
 
 # Salvar o grafo em um arquivo de texto
-salvar_grafo_em_txt(grafo, "grafo.txt")
+salvar_grafo_em_txt(grafo, arq_grafo)

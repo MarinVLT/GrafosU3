@@ -6,7 +6,7 @@ gym,health,point_of_interest,establishment
 
 Kimura Alecrim
 Av. Coronel Estevam, 1638 - Alecrim, Natal - RN, 59031-270, Brazil
-gym,health,point_of_interest,establishment
+gym,point_of_interest,health,establishment
 5
 1.05
 
@@ -18,7 +18,7 @@ gym,health,point_of_interest,establishment
 
 Magnum Fitness
 R. dos Pajeús - Alecrim, Natal - RN, 59037-800, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 4.9
 1.05
 
@@ -36,19 +36,19 @@ gym,health,point_of_interest,establishment
 
 Club Fitness Academia
 Av. Interventor Mário Câmara, 1574 - Alecrim, Natal - RN, 59032-600, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 5
 1.05
 
 Maxfit New academia
 R. Pres. Mascarenhas, 476 - Alecrim, Natal - RN, 59032-502, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 4.6
 1.05
 
 KAIZEN
 Alecrim, Natal - State of Rio Grande do Norte, 59040-265, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 N/A
 1.05
 
@@ -60,25 +60,25 @@ gym,health,point_of_interest,establishment
 
 G1 Academia
 Rua Presidente José Bento, 729 - Alecrim, Natal - RN, 59037-060, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 4.5
 1.05
 
 Studio Pilates HS
 Rua Presidente José Bento, 731 - Alecrim, Natal - RN, 59037-060, Brazil
-gym,health,point_of_interest,establishment
+gym,point_of_interest,health,establishment
 N/A
 1.05
 
 ML FIT ACADEMIA E SARON BRONZE
 R. dos Pegas, 1743 - Quintas, Natal - RN, 59035-100, Brazil
-gym,health,point_of_interest,establishment
+gym,point_of_interest,health,establishment
 4.5
 1.05
 
 Da Fitness
 Alecrim, Natal - State of Rio Grande do Norte, 59030-200, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 N/A
 1.05
 
@@ -102,19 +102,19 @@ gym,point_of_interest,health,establishment
 
 Total Saúde Academias - Alecrim
 R. Pres. Gonçalves, 857 - Alecrim, Natal - RN, 59031-170, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 4.7
 1.05
 
 WorkOut Club Fitness
 R. Amaro Barreto, 1229 - Alecrim, Natal - RN, 59031-200, Brazil
-gym,point_of_interest,health,establishment
+gym,health,point_of_interest,establishment
 4.7
 1.05
 
 Mma Quintas Fight
 Quintas, Natal - State of Rio Grande do Norte, 59035-290, Brazil
-gym,health,point_of_interest,establishment
+gym,point_of_interest,health,establishment
 N/A
 1.05
 
@@ -126,13 +126,13 @@ bar,restaurant,food,point_of_interest,establishment
 
 De Sá Lanches
 Av. Interventor Mário Câmara, 1577 - Alecrim, Natal - RN, 59032-600, Brazil
-meal_takeaway,restaurant,food,point_of_interest,establishment
+meal_takeaway,restaurant,point_of_interest,food,establishment
 4.6
 0.5095238095238095
 
 Restaurante Oriental
 R. Leonel Leite, 1377 - Alecrim, Natal - RN, 59037-820, Brazil
-restaurant,point_of_interest,food,establishment
+restaurant,food,point_of_interest,establishment
 3.8
 0.6000000000000001
 
@@ -162,7 +162,7 @@ meal_takeaway,restaurant,food,point_of_interest,establishment
 
 Panificadora Cristal
 R. Dr. Manoel Miranda, 719 - Quintas, Natal - RN, 59037-250, Brazil
-bakery,restaurant,food,point_of_interest,store,establishment
+bakery,store,restaurant,food,point_of_interest,establishment
 4.5
 0.5428571428571429
 
@@ -174,7 +174,7 @@ restaurant,bar,food,point_of_interest,establishment
 
 PJ Refeições Coletivas
 R. João Francisco de Oliveira, 32-B - Dix-Sept Rosado, Natal - RN, 59052-140, Brazil
-restaurant,point_of_interest,food,establishment
+restaurant,food,point_of_interest,establishment
 4.2
 0.6000000000000001
 
@@ -192,7 +192,7 @@ restaurant,food,point_of_interest,establishment
 
 G Lanches
 Av. Coronel Estevam, 1584 - Alecrim, Natal - RN, 59035-000, Brazil
-meal_takeaway,restaurant,point_of_interest,food,establishment
+meal_takeaway,restaurant,food,point_of_interest,establishment
 N/A
 0.5095238095238095
 
