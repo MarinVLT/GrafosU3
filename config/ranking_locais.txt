@@ -1,7 +1,7 @@
 
 Ranking:
-1: Centro de Treinamento O Cansaço é Psicológico - R. Dr. Adélino, 41 - Afogados, Recife - PE, 50820-590, Brazil (ChIJpcMF8MYfqwcRNsIKg7BcvBw) (['gym', 'health', 'point_of_interest', 'establishment'])(6.161270508319383)
-2: Cícero Restaurante - R. Dr. Adélino, 41 - Afogados, Recife - PE, 50820-590, Brazil (ChIJKf0IldUeqwcRqlQhK_5v0WM) (['restaurant', 'food', 'point_of_interest', 'establishment'])(4.99468823456094)
-3: Martha e Rita Bar - R. Cosme Viana, 130 - Afogados, Recife - PE, 50820-580, Brazil (ChIJeY7Ifc4fqwcRiXwqhcOJ4uU) (['bar', 'point_of_interest', 'establishment'])(5.596311292490771)
-4: Boteco alpha - Estr. dos Remédios, 895 - Afogados, Recife - PE, 50750-360, Brazil (ChIJocVUeS8ZqwcR2aNbrkFbyZg) (['bar', 'point_of_interest', 'establishment'])(5.1979419316734505)
-5: Asinha do Chinês Full House - R. Cel. Alfredo Duarte, 37b - Afogados, Recife - PE, 50750, Brazil (ChIJ2S5PxCoZqwcR_MR2gco59Oo) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(5.017352385463586)
+1: Pestana Rio Atlântica - Av. Atlântica, 2964 - Copacabana, Rio de Janeiro - RJ, 22070-000, Brazil (ChIJ8R_06UbVmwARDi2tMx9PJr4) (['gym', 'lodging', 'point_of_interest', 'health', 'establishment'])(5.036081251438397)
+2: Bodytech - Av. Nossa Sra. de Copacabana, 801 - Copacabana, Rio de Janeiro - RJ, 22031-000, Brazil (ChIJ3ZnYE0TVmwAR7FP2GEtG02A) (['gym', 'spa', 'health', 'point_of_interest', 'establishment'])(4.920565024477317)
+3: Balance Fitness - R. Xavier da Silveira, 23 - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil (ChIJk_G5xUDVmwARFcFLJcw8dBM) (['gym', 'health', 'point_of_interest', 'establishment'])(5.363429609058406)
+4: Ananda Yoga Space - Av. Nossa Sra. de Copacabana, 647/610 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil (ChIJiYlNaETVmwARk10Jla2S_TM) (['gym', 'health', 'point_of_interest', 'establishment'])(5.770791625775778)
+5: Movimento Pilates - Av. Nossa Sra. de Copacabana, 928/702 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil (ChIJ1bvZHETVmwARCpuDaRCcGTQ) (['gym', 'health', 'point_of_interest', 'establishment'])(5.770162702860504)

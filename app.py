@@ -36,8 +36,8 @@ def click_location():
     grafo = criar_grafo_euleriano(locais_encontrados)
     salvar_grafo_em_txt(grafo, arq_grafo)
 
-    caminho = hierholzer_modificado(grafo)
-    salvar_ranking_em_txt(grafo, caminho, arq_ranking)
+    locais = hierholzer_modificado(grafo)
+    salvar_ranking_em_txt(grafo, locais, arq_ranking)
 
     return jsonify(locais_encontrados)
 

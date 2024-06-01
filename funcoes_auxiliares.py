@@ -9,3 +9,4 @@ def jaccard_similarity(conjunto1, conjunto2):
     intersecao = len(conjunto1.intersection(conjunto2))
     uniao = len(conjunto1.union(conjunto2))
     return intersecao / uniao if uniao > 0 else 0
+

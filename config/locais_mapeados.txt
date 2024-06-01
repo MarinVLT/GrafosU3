@@ -1,78 +1,240 @@
-Coffee Shop São Braz Ilha Do Leite
-R. Dr. João Asfora, 26 - loja 1 - Ilha do Leite, Recife - PE, 50070-430, Brazil
-cafe,store,restaurant,food,point_of_interest,establishment
+Pestana Rio Atlântica
+Av. Atlântica, 2964 - Copacabana, Rio de Janeiro - RJ, 22070-000, Brazil
+gym,lodging,point_of_interest,health,establishment
 4.4
-4.784080759146591
+5.036081251438397
 
-Fórum Café
-Av. Central - Ilha Joana Bezerra, Recife - PE, 50080-410, Brazil
-cafe,store,food,point_of_interest,establishment
-5
-5.449878695504944
+Bodytech
+Av. Nossa Sra. de Copacabana, 801 - Copacabana, Rio de Janeiro - RJ, 22031-000, Brazil
+gym,spa,health,point_of_interest,establishment
+4.2
+4.920565024477317
 
-DOM Restaurante - Hospital Pedro II
-R. dos Coelhos - Coelhos, Recife - PE, 52171-011, Brazil
-cafe,store,food,point_of_interest,establishment
-3
-3.4463217572630174
-
-Casa dos Doces - Ilha do Leite
-Ilha do Leite, Recife - PE, 50030-230, Brazil
-cafe,bakery,store,point_of_interest,food,establishment
-4.5
-4.886295255720847
-
-Café Marie
-R. Sen. José Henrique, 231 - Ilha do Leite, Recife - PE, 50070-460, Brazil
-cafe,store,food,point_of_interest,establishment
-4.3
-4.745347303780836
-
-Benvinda Doceria (Unidade II)
-Condomínio do Empresarial Selecta Center - R. Estado de Israel, 262 - Térreo - Ilha do Leite, Recife - PE, 50070-415, Brazil
-cafe,store,food,point_of_interest,establishment
-4.7
-5.14414515777964
-
-Palatsi Convenience Coffee Shop - Real Hospital Português
-Edf. Garagem - Av. Gov. Agamenon Magalhães, 4760 - Paissandu, Recife - PE, 52010-020, Brazil
-cafe,store,food,point_of_interest,establishment
-4.1
-4.543522974489502
-
-Academy Recife do Coque
-R. S D 9806, 75 - Ilha Joana Bezerra, Recife - PE, 50030-230, Brazil
+Balance Fitness
+R. Xavier da Silveira, 23 - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil
 gym,health,point_of_interest,establishment
 4.6
-5.796936976462911
+5.363429609058406
 
-Em breve: Academia Smart Fit - Shopping Difusora
-Av. Gov. Agamenon Magalhães, 444 - Maurício de Nassau, Recife - PE, 52010-075, Brazil
-gym,health,point_of_interest,establishment
-N/A
-1.195116120901381
-
-Polo Academia da Cidade - Ilha do Leite
-Praça Miguel de Cervantes - Ilha do Leite, Recife - PE, 50030-230, Brazil
+Ananda Yoga Space
+Av. Nossa Sra. de Copacabana, 647/610 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
 gym,health,point_of_interest,establishment
 5
-6.194391107611308
+5.770791625775778
 
-Serfit Academia
-R. Cabo Eutrópio, 211 - Ilha Joana Bezerra, Recife - PE, 50080-180, Brazil
+Movimento Pilates
+Av. Nossa Sra. de Copacabana, 928/702 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
 gym,health,point_of_interest,establishment
-4.8
-5.993264675541804
+5
+5.770162702860504
 
-CAMPO DOS COELHOS
-Coelhos, Recife - PE, 50030-230, Brazil
+Vestfalia Fisioterapia e Pilates
+Av. Nossa Sra. de Copacabana, 500 - sl 805 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
 gym,health,point_of_interest,establishment
-4.6
-5.792763610283998
+5
+5.768126354478883
 
-Posture Saúde e Bem Estar - Clínica de Fisioterapia, Pilates, RPG, Liberação Miofacial e Drenagem Linfática
-Empresarial Cervantes - Praça Dr. Fernando Figueira, 30 - Sala 405 - Ilha do Leite, Recife - PE, 50070-330, Brazil
+Grupo Senzala Mestre Itamar
+Olimpicos Clube - Rua Pompeu Loureiro, 116 - Copacabana, Rio de Janeiro - RJ, 22061-000, Brazil
+gym,health,point_of_interest,establishment
+5
+5.762181791812694
+
+DM Pilates
+R. Santa Clara, 257 - Copacabana, Rio de Janeiro - RJ, 22041-010, Brazil
+gym,health,point_of_interest,establishment
+5
+5.7658312362424935
+
+Samatva • Yoga
+Av. Nossa Sra. de Copacabana, 647 - 812, Rio de Janeiro - RJ, 22050-901, Brazil
 gym,point_of_interest,health,establishment
+5
+5.770791625775778
+
+Ananda Marga Yoga e Meditação
+Av. Nossa Sra. de Copacabana, 610 - Apt. 819 - Copacabana, Rio de Janeiro - RJ, 22050-001, Brazil
+gym,health,point_of_interest,establishment
+3.7
+4.4707648630121
+
+Espaço Saúde Viviane Lopes
+Av. Nossa Sra. de Copacabana, 647 - Sl 315 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
+gym,health,point_of_interest,establishment
+5
+5.7706819218169585
+
+Academia Smart Fit - Nsa. Copacabana 690
+Av. Nossa Sra. de Copacabana, 690 - Copacabana, Rio de Janeiro - RJ, 22060-002, Brazil
+gym,health,point_of_interest,establishment
+4.4
+5.170263047069563
+
+Champion Factory Copacabana
+Rua Barata Ribeiro, 489 Cib - Copacabana, Rio de Janeiro - RJ, 22011-001, Brazil
+gym,point_of_interest,health,establishment
+5
+5.769718199378386
+
+Glück Pilates & Physical Therapy
+R. Santa Clara, 50 - 417/418 - Copacabana, Rio de Janeiro - RJ, 22041-012, Brazil
+gym,health,point_of_interest,establishment
+4.9
+5.669707772695938
+
+Espaço Fisiocopa
+R. Barata Ribeiro, 391 - 1001 - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
+gym,health,point_of_interest,establishment
 N/A
-1.192690797113733
+0.7697173380256133
+
+Fernanda Vilela
+Rua Siqueira Campos, 30 / 204 - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil
+gym,health,point_of_interest,establishment
+N/A
+0.7695064362825361
+
+Smart Fit
+R. Barata Ribeiro, 502 - Copacabana, Rio de Janeiro - RJ, 22040-002, Brazil
+gym,point_of_interest,health,establishment
+4.2
+4.969259627256906
+
+Spazio Pilates
+Av. Nossa Sra. de Copacabana, 540 / 407 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
+gym,health,point_of_interest,establishment
+5
+5.769257017578331
+
+Academia GT e. Carlson Gracie Copacabana
+R. Barata Ribeiro, 370 - gr 307 - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
+gym,health,point_of_interest,establishment
+4.7
+5.468961850508692
+
+Evidence Pilates
+Condomínio Apart Hotel - R. Barata Ribeiro, 370 - Loja 228 - Copacabana, Rio de Janeiro - RJ, 22040-002, Brazil
+gym,point_of_interest,health,establishment
+5
+5.768946861557351
+
+Local Americanas
+Av. Nossa Sra. de Copacabana, 619 - Loja 2 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
+department_store,bakery,grocery_or_supermarket,liquor_store,food,point_of_interest,store,establishment
+3.9
+4.412632907242662
+
+Fábrica de Bolo Vó Alzira
+Rua Figueiredo de Magalhães, 147 - Loja C - Copacabana, Rio de Janeiro - RJ, 22031-011, Brazil
+bakery,store,point_of_interest,food,establishment
+4
+4.706390413628311
+
+Casa do bolo
+R. Barata Ribeiro, 519 - Loja C - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
+bakery,store,point_of_interest,food,establishment
+4.6
+5.304654026952668
+
+Bela Cake
+R. Santa Clara, 122 - Copacabana, Rio de Janeiro - RJ, 22041-012, Brazil
+meal_takeaway,bakery,restaurant,food,point_of_interest,store,establishment
+4.5
+5.03177983301524
+
+Pão de Açúcar
+Rua Siqueira Campos, 97 - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil
+supermarket,convenience_store,bakery,grocery_or_supermarket,store,point_of_interest,food,establishment
+4.2
+4.810533304662513
+
+Bendito Hilário de Gouveia
+Condomínio do Edifício Pilar - R. Hilário de Gouveia, 88 - Copacabana, Rio de Janeiro - RJ, 22040-020, Brazil
+bakery,cafe,food,point_of_interest,store,establishment
+4.5
+5.105154455176988
+
+Pão de Açúcar
+Av. Nossa Sra. de Copacabana, 493 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
+supermarket,convenience_store,bakery,grocery_or_supermarket,store,food,point_of_interest,establishment
+4.2
+4.809669632770854
+
+Casa do Biscoito
+Av. Nossa Sra. de Copacabana, 776 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
+bakery,store,food,point_of_interest,establishment
+4.3
+5.003561619719961
+
+Fábrica de bolo vó alzira
+Rua Siqueira Campos, 143 - 58 - Copacabana, Rio de Janeiro - RJ, 22031-071, Brazil
+bakery,store,food,point_of_interest,establishment
+4.2
+4.902996944632014
+
+Torta e Café
+R. Barata Ribeiro, 318 - Loja A - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
+cafe,bakery,store,restaurant,food,point_of_interest,establishment
+3.6
+4.130117425082444
+
+The Bakers
+R. Santa Clara, 86 - Loja B - Copacabana, Rio de Janeiro - RJ, 22041-010, Brazil
+bakery,cafe,meal_delivery,store,restaurant,food,point_of_interest,establishment
+4.5
+4.974709573740397
+
+Padaria Santa Marta - Copacabana
+Av. Nossa Sra. de Copacabana, 898 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
+bakery,store,restaurant,food,point_of_interest,establishment
+4.1
+4.702093191431121
+
+Pão de Açúcar
+Rua Pompeu Loureiro, 15 - Copacabana, Rio de Janeiro - RJ, 22061-000, Brazil
+supermarket,convenience_store,bakery,grocery_or_supermarket,food,point_of_interest,store,establishment
+4.1
+4.706264249900583
+
+Confeitaria Sulimar - (Copacabana)
+R. Bolívar, 92 - Copacabana, Rio de Janeiro - RJ, 22061-020, Brazil
+bakery,store,restaurant,food,point_of_interest,establishment
+4.4
+5.000761867322678
+
+Pão de Açúcar
+R. Barata Ribeiro, 189 - Lj A e B - Copacabana, Rio de Janeiro - RJ, 22011-002, Brazil
+supermarket,convenience_store,bakery,grocery_or_supermarket,store,food,point_of_interest,establishment
+3.9
+4.505412834671877
+
+Café Cardin
+R. Constante Ramos, 44 - Copacabana, Rio de Janeiro - RJ, 22051-012, Brazil
+bakery,cafe,food,point_of_interest,store,establishment
+4.3
+4.903467485892212
+
+Mania de Torta
+R. Xavier da Silveira, 45 - Loja B - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil
+bakery,store,food,point_of_interest,establishment
+4
+4.69862695980976
+
+Pão & Companhia
+R. Rodolfo Dantas, 102 - Copacabana, Rio de Janeiro - RJ, 22020-040, Brazil
+bakery,cafe,store,restaurant,food,point_of_interest,establishment
+4.6
+5.125720606474426
+
+Confeitaria Marina
+R. Barata Ribeiro, 184 - Lojas A/B - Copacabana, Rio de Janeiro - RJ, 22011-002, Brazil
+bakery,store,food,point_of_interest,establishment
+4.1
+4.79750983585578
+
+Extra Mercado
+Rua Siqueira Campos, 143 - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil
+supermarket,convenience_store,bakery,grocery_or_supermarket,store,point_of_interest,food,establishment
+3.5
+4.108510711265195
 
