@@ -1,94 +1,234 @@
-VÃ©rtices:
-Coffee Shop SÃ£o Braz Ilha Do Leite: {'nome': 'Coffee Shop SÃ£o Braz Ilha Do Leite', 'endereco': 'R. Dr. JoÃ£o Asfora, 26 - loja 1 - Ilha do Leite, Recife - PE, 50070-430, Brazil', 'tipos': ['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.4, 'score_final': 4.784080759146591, 'coordenadas': (-8.0634041, -34.89512489999999)}
-FÃ³rum CafÃ©: {'nome': 'FÃ³rum CafÃ©', 'endereco': 'Av. Central - Ilha Joana Bezerra, Recife - PE, 50080-410, Brazil', 'tipos': ['cafe', 'store', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 5.449878695504944, 'coordenadas': (-8.0733265, -34.8969929)}
-DOM Restaurante - Hospital Pedro II: {'nome': 'DOM Restaurante - Hospital Pedro II', 'endereco': 'R. dos Coelhos - Coelhos, Recife - PE, 52171-011, Brazil', 'tipos': ['cafe', 'store', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 3, 'score_final': 3.4463217572630174, 'coordenadas': (-8.067348799999998, -34.8911065)}
-Casa dos Doces - Ilha do Leite: {'nome': 'Casa dos Doces - Ilha do Leite', 'endereco': 'Ilha do Leite, Recife - PE, 50030-230, Brazil', 'tipos': ['cafe', 'bakery', 'store', 'point_of_interest', 'food', 'establishment'], 'avaliacao_geral': 4.5, 'score_final': 4.886295255720847, 'coordenadas': (-8.065667699999999, -34.8956291)}
-CafÃ© Marie: {'nome': 'CafÃ© Marie', 'endereco': 'R. Sen. JosÃ© Henrique, 231 - Ilha do Leite, Recife - PE, 50070-460, Brazil', 'tipos': ['cafe', 'store', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.3, 'score_final': 4.745347303780836, 'coordenadas': (-8.065297199999998, -34.8962521)}
-Benvinda Doceria (Unidade II): {'nome': 'Benvinda Doceria (Unidade II)', 'endereco': 'CondomÃ­nio do Empresarial Selecta Center - R. Estado de Israel, 262 - TÃ©rreo - Ilha do Leite, Recife - PE, 50070-415, Brazil', 'tipos': ['cafe', 'store', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.7, 'score_final': 5.14414515777964, 'coordenadas': (-8.0639437, -34.8944552)}
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: {'nome': 'Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs', 'endereco': 'Edf. Garagem - Av. Gov. Agamenon MagalhÃ£es, 4760 - Paissandu, Recife - PE, 52010-020, Brazil', 'tipos': ['cafe', 'store', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.1, 'score_final': 4.543522974489502, 'coordenadas': (-8.0641346, -34.89849259999999)}
-Academy Recife do Coque: {'nome': 'Academy Recife do Coque', 'endereco': 'R. S D 9806, 75 - Ilha Joana Bezerra, Recife - PE, 50030-230, Brazil', 'tipos': ['gym', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.6, 'score_final': 5.796936976462911, 'coordenadas': (-8.0699802, -34.8969104)}
-Em breve: Academia Smart Fit - Shopping Difusora: {'nome': 'Em breve: Academia Smart Fit - Shopping Difusora', 'endereco': 'Av. Gov. Agamenon MagalhÃ£es, 444 - MaurÃ­cio de Nassau, Recife - PE, 52010-075, Brazil', 'tipos': ['gym', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 1.195116120901381, 'coordenadas': (-8.067698499999999, -34.8967286)}
-Polo Academia da Cidade - Ilha do Leite: {'nome': 'Polo Academia da Cidade - Ilha do Leite', 'endereco': 'PraÃ§a Miguel de Cervantes - Ilha do Leite, Recife - PE, 50030-230, Brazil', 'tipos': ['gym', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.194391107611308, 'coordenadas': (-8.0666963, -34.8935634)}
-Serfit Academia: {'nome': 'Serfit Academia', 'endereco': 'R. Cabo EutrÃ³pio, 211 - Ilha Joana Bezerra, Recife - PE, 50080-180, Brazil', 'tipos': ['gym', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.8, 'score_final': 5.993264675541804, 'coordenadas': (-8.0767215, -34.89974)}
-CAMPO DOS COELHOS: {'nome': 'CAMPO DOS COELHOS', 'endereco': 'Coelhos, Recife - PE, 50030-230, Brazil', 'tipos': ['gym', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.6, 'score_final': 5.792763610283998, 'coordenadas': (-8.069649199999999, -34.8879903)}
-Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: {'nome': 'Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica', 'endereco': 'Empresarial Cervantes - PraÃ§a Dr. Fernando Figueira, 30 - Sala 405 - Ilha do Leite, Recife - PE, 50070-330, Brazil', 'tipos': ['gym', 'point_of_interest', 'health', 'establishment'], 'avaliacao_geral': None, 'score_final': 1.192690797113733, 'coordenadas': (-8.0649585, -34.89360179999999)}
+Vértices:
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN: {'nome': 'Tv. Santa isabel, 69 - Felipe camarão Natal-RN', 'endereco': 'Tv. Santa Isabel, 63 - Felipe Camarão, Natal - RN, 59072-445, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 5.998943345247831, 'coordenadas': (-5.834366900000001, -35.251313)}
+Casa de nier: {'nome': 'Casa de nier', 'endereco': 'Tv. Santa Isabel - Felipe Camarão, Natal - RN, 59072-445, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.9983105153190304, 'coordenadas': (-5.835004, -35.24864179999999)}
+Bar Do Dudé: {'nome': 'Bar Do Dudé', 'endereco': 'R. Padre João Maria, 364 - Felipe Camarão, Natal - RN, 59072-460, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.9973289828748383, 'coordenadas': (-5.834156499999999, -35.247655)}
+Bar do coutinho: {'nome': 'Bar do coutinho', 'endereco': 'R. São João, 336 - Felipe Camarão, Natal - RN, 59072-410, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.8, 'score_final': 5.79722515336462, 'coordenadas': (-5.832408499999999, -35.24860510000001)}
+DARIS BAR: {'nome': 'DARIS BAR', 'endereco': 'Felipe Camarão, Natal - State of Rio Grande do Norte, 59072-440, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4, 'score_final': 4.995923295192309, 'coordenadas': (-5.835849500000001, -35.24640049999999)}
+Bar Do Assis&Sucata: {'nome': 'Bar Do Assis&Sucata', 'endereco': 'Tv. Santa Isabel, 152 - Felipe Camarão, Natal - RN, 59072-440, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 3.6, 'score_final': 4.595224820205822, 'coordenadas': (-5.8361213, -35.2457544)}
+Espetinho do Amigo: {'nome': 'Espetinho do Amigo', 'endereco': 'Av. Nossa Sra. do Livramento, 69 - Felipe Camarão, Natal - RN, 59072-420, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.2, 'score_final': 5.194733665482232, 'coordenadas': (-5.829624099999999, -35.2486088)}
+Bodega do Júnior Espetos: {'nome': 'Bodega do Júnior Espetos', 'endereco': 'R. Nossa Sra. do Rosário, 115 - Felipe Camarão, Natal - RN, 59072-220, Brazil', 'tipos': ['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.4, 'score_final': 5.127974639812299, 'coordenadas': (-5.830204999999999, -35.2472436)}
+Bar Do Bigode: {'nome': 'Bar Do Bigode', 'endereco': 'R. Oeste - Cidade Nova, Natal - RN, 59072-750, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 3.5, 'score_final': 4.49441056014215, 'coordenadas': (-5.8376161, -35.24557)}
+BAR DO ROBERTO: {'nome': 'BAR DO ROBERTO', 'endereco': 'R. Prof. Antônio Trigueiro - Felipe Camarão, Natal - RN, 59074-100, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.9937884259389356, 'coordenadas': (-5.829685100000001, -35.25406349999999)}
+NOSSO Boteco: {'nome': 'NOSSO Boteco', 'endereco': 'Av. da Divisão, 60 - Cidade Nova, Natal - RN, 59072-800, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.7, 'score_final': 5.693300683506274, 'coordenadas': (-5.8312439, -35.2444975)}
+Eskina Beer: {'nome': 'Eskina Beer', 'endereco': 'R. Bela Vista, 50 - Cidade Nova, Natal - RN, 59072-710, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.9932427650365344, 'coordenadas': (-5.8371994, -35.2440422)}
+Karoll Micropigmentação: {'nome': 'Karoll Micropigmentação', 'endereco': 'R. Santa Maria Madalena - Felipe Camarão, Natal - RN, 59074-550, Brazil', 'tipos': ['night_club', 'bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.7672581805923092, 'coordenadas': (-5.829195, -35.2461549)}
+Bar Do Djalma: {'nome': 'Bar Do Djalma', 'endereco': 'R. Pai Celestial, 878 - Felipe Camarão, Natal - RN, 59072-477, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.7, 'score_final': 5.692829914067124, 'coordenadas': (-5.829071, -35.24574069999999)}
+Espetinho Do Jr: {'nome': 'Espetinho Do Jr', 'endereco': 'R. Francisca Campos, 389-523 - Guarapes, Natal - RN, 59074-564, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.5, 'score_final': 5.492720650182536, 'coordenadas': (-5.828810100000001, -35.2546769)}
+Retrô beer: {'nome': 'Retrô beer', 'endereco': 'R. São Nicolau, 99 - Felipe Camarão, Natal - RN, 59072-230, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.9926839169856305, 'coordenadas': (-5.8277455, -35.2477724)}
+Bar do véio: {'nome': 'Bar do véio', 'endereco': 'Rua Monte Calvo, 390 - Cidade Nova, Natal - RN, 59072-780, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.4, 'score_final': 5.392587552805711, 'coordenadas': (-5.833911400000001, -35.2429073)}
+T&L Bar e Petiscaria: {'nome': 'T&L Bar e Petiscaria', 'endereco': 'R. São Martins, 5 - Guarapes, Natal - RN, 59073, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 5.99244518591694, 'coordenadas': (-5.837578199999999, -35.2572361)}
+Bar Do Bigode: {'nome': 'Bar Do Bigode', 'endereco': 'Rua Senador José Arimateia, 14 - Cidade Nova, Natal - RN, 59069-720, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.9922573344853322, 'coordenadas': (-5.830132399999999, -35.2439739)}
+BAR DO ZECA: {'nome': 'BAR DO ZECA', 'endereco': 'R. Francisca Campos, 576 - Felipe Camarão, Natal - RN, 59074-564, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 3, 'score_final': 3.9922595695858285, 'coordenadas': (-5.828955800000001, -35.2555658)}
+Fé salgados: {'nome': 'Fé salgados', 'endereco': 'R. Santa Cristina, 921 - Felipe Camarão, Natal - RN, 59072-150, Brazil', 'tipos': ['cafe', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.6193858612696141, 'coordenadas': (-5.829889999999999, -35.247256)}
 
 Arestas:
-Coffee Shop SÃ£o Braz Ilha Do Leite - FÃ³rum CafÃ©: Distancia entre os locais = 0.010096704698070865
-Coffee Shop SÃ£o Braz Ilha Do Leite - DOM Restaurante - Hospital Pedro II: Distancia entre os locais = 0.005631003165504823
-Coffee Shop SÃ£o Braz Ilha Do Leite - Casa dos Doces - Ilha do Leite: Distancia entre os locais = 0.002319073651267901
-Coffee Shop SÃ£o Braz Ilha Do Leite - CafÃ© Marie: Distancia entre os locais = 0.0022032719872970854
-Coffee Shop SÃ£o Braz Ilha Do Leite - Benvinda Doceria (Unidade II): Distancia entre os locais = 0.0008600385165705401
-Coffee Shop SÃ£o Braz Ilha Do Leite - Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: Distancia entre os locais = 0.0034460170545120507
-Coffee Shop SÃ£o Braz Ilha Do Leite - Academy Recife do Coque: Distancia entre os locais = 0.006814183844015526
-Coffee Shop SÃ£o Braz Ilha Do Leite - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.0045840729760801375
-Coffee Shop SÃ£o Braz Ilha Do Leite - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.0036437430054801377
-Coffee Shop SÃ£o Braz Ilha Do Leite - Serfit Academia: Distancia entre os locais = 0.014094406364586197
-Coffee Shop SÃ£o Braz Ilha Do Leite - CAMPO DOS COELHOS: Distancia entre os locais = 0.00948176097409636
-Coffee Shop SÃ£o Braz Ilha Do Leite - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.0021762336662223374
-FÃ³rum CafÃ© - DOM Restaurante - Hospital Pedro II: Distancia entre os locais = 0.00838943396481829
-FÃ³rum CafÃ© - Casa dos Doces - Ilha do Leite: Distancia entre os locais = 0.007779278107898145
-FÃ³rum CafÃ© - CafÃ© Marie: Distancia entre os locais = 0.008063401461544616
-FÃ³rum CafÃ© - Benvinda Doceria (Unidade II): Distancia entre os locais = 0.009719920633935532
-FÃ³rum CafÃ© - Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: Distancia entre os locais = 0.009313437909815543
-FÃ³rum CafÃ© - Academy Recife do Coque: Distancia entre os locais = 0.00334731682695301
-FÃ³rum CafÃ© - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.0056342025602578345
-FÃ³rum CafÃ© - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.007464651518324216
-FÃ³rum CafÃ© - Serfit Academia: Distancia entre os locais = 0.004367216895231881
-FÃ³rum CafÃ© - CAMPO DOS COELHOS: Distancia entre os locais = 0.009724676963789185
-FÃ³rum CafÃ© - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.009029007875180628
-DOM Restaurante - Hospital Pedro II - Casa dos Doces - Ilha do Leite: Distancia entre os locais = 0.004824936058644617
-DOM Restaurante - Hospital Pedro II - CafÃ© Marie: Distancia entre os locais = 0.005539518202875225
-DOM Restaurante - Hospital Pedro II - Benvinda Doceria (Unidade II): Distancia entre os locais = 0.004775824295345612
-DOM Restaurante - Hospital Pedro II - Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: Distancia entre os locais = 0.008055157034462822
-DOM Restaurante - Hospital Pedro II - Academy Recife do Coque: Distancia entre os locais = 0.00637256001698321
-DOM Restaurante - Hospital Pedro II - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.00563296533808273
-DOM Restaurante - Hospital Pedro II - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.0025420688149594946
-DOM Restaurante - Hospital Pedro II - Serfit Academia: Distancia entre os locais = 0.012743030547717816
-DOM Restaurante - Hospital Pedro II - CAMPO DOS COELHOS: Distancia entre os locais = 0.0038733115805484374
-DOM Restaurante - Hospital Pedro II - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.003455438637851148
-Casa dos Doces - Ilha do Leite - CafÃ© Marie: Distancia entre os locais = 0.0007248442936226109
-Casa dos Doces - Ilha do Leite - Benvinda Doceria (Unidade II): Distancia entre os locais = 0.0020857174329214816
-Casa dos Doces - Ilha do Leite - Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: Distancia entre os locais = 0.0032480806424623363
-Casa dos Doces - Ilha do Leite - Academy Recife do Coque: Distancia entre os locais = 0.004498820505423045
-Casa dos Doces - Ilha do Leite - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.0023093394921502876
-Casa dos Doces - Ilha do Leite - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.0023076252837093757
-Casa dos Doces - Ilha do Leite - Serfit Academia: Distancia entre os locais = 0.011793472484812287
-Casa dos Doces - Ilha do Leite - CAMPO DOS COELHOS: Distancia entre os locais = 0.008614151594326365
-Casa dos Doces - Ilha do Leite - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.0021477685932229365
-CafÃ© Marie - Benvinda Doceria (Unidade II): Distancia entre os locais = 0.0022496248264941474
-CafÃ© Marie - Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: Distancia entre os locais = 0.0025241788783606505
-CafÃ© Marie - Academy Recife do Coque: Distancia entre os locais = 0.004729043020529947
-CafÃ© Marie - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.002448120491317388
-CafÃ© Marie - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.0030309385510114365
-CafÃ© Marie - Serfit Academia: Distancia entre os locais = 0.011944876596267504
-CafÃ© Marie - CAMPO DOS COELHOS: Distancia entre os locais = 0.009337946414496135
-CafÃ© Marie - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.0026718547453093264
-Benvinda Doceria (Unidade II) - Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs: Distancia entre os locais = 0.004041910633586121
-Benvinda Doceria (Unidade II) - Academy Recife do Coque: Distancia entre os locais = 0.006516696961652069
-Benvinda Doceria (Unidade II) - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.00438940435594573
-Benvinda Doceria (Unidade II) - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.0028934605578811614
-Benvinda Doceria (Unidade II) - Serfit Academia: Distancia entre os locais = 0.013827555238724936
-Benvinda Doceria (Unidade II) - CAMPO DOS COELHOS: Distancia entre os locais = 0.008622509046678514
-Benvinda Doceria (Unidade II) - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.001325937630516287
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs - Academy Recife do Coque: Distancia entre os locais = 0.006055938919768544
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.0039765662587152
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.005555116518123616
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs - Serfit Academia: Distancia entre os locais = 0.012648559537356047
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs - CAMPO DOS COELHOS: Distancia entre os locais = 0.011862087440658302
-Palatsi Convenience Coffee Shop - Real Hospital PortuguÃªs - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.0049597112667960795
-Academy Recife do Coque - Em breve: Academia Smart Fit - Shopping Difusora: Distancia entre os locais = 0.002288931220024928
-Academy Recife do Coque - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.004688966646291188
-Academy Recife do Coque - Serfit Academia: Distancia entre os locais = 0.007311071183485245
-Academy Recife do Coque - CAMPO DOS COELHOS: Distancia entre os locais = 0.008926239130231814
-Academy Recife do Coque - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.00601367648365598
-Em breve: Academia Smart Fit - Shopping Difusora - Polo Academia da Cidade - Ilha do Leite: Distancia entre os locais = 0.0033200746798873683
-Em breve: Academia Smart Fit - Shopping Difusora - Serfit Academia: Distancia entre os locais = 0.009512258352252952
-Em breve: Academia Smart Fit - Shopping Difusora - CAMPO DOS COELHOS: Distancia entre os locais = 0.008953385805385551
-Em breve: Academia Smart Fit - Shopping Difusora - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.004157460551835157
-Polo Academia da Cidade - Ilha do Leite - Serfit Academia: Distancia entre os locais = 0.011775186733127854
-Polo Academia da Cidade - Ilha do Leite - CAMPO DOS COELHOS: Distancia entre os locais = 0.006307064453451024
-Polo Academia da Cidade - Ilha do Leite - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.0017382242087838613
-Serfit Academia - CAMPO DOS COELHOS: Distancia entre os locais = 0.013713966507910054
-Serfit Academia - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.013268220236343685
-CAMPO DOS COELHOS - Posture SaÃºde e Bem Estar - ClÃ­nica de Fisioterapia, Pilates, RPG, LiberaÃ§Ã£o Miofacial e Drenagem LinfÃ¡tica: Distancia entre os locais = 0.007313795098300238
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Casa de nier: Distancia entre os locais = 0.00274612560712064
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar Do Dudé: Distancia entre os locais = 0.00366404587307689
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar do coutinho: Distancia entre os locais = 0.0033418636970939993
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - DARIS BAR: Distancia entre os locais = 0.005131350602921383
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar Do Assis&Sucata: Distancia entre os locais = 0.005828889544330348
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Espetinho do Amigo: Distancia entre os locais = 0.0054595649533671865
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bodega do Júnior Espetos: Distancia entre os locais = 0.005820775547129466
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar Do Bigode: Distancia entre os locais = 0.006598435393335498
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - BAR DO ROBERTO: Distancia entre os locais = 0.005429963304655993
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - NOSSO Boteco: Distancia entre os locais = 0.0074969439940574195
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Eskina Beer: Distancia entre os locais = 0.007803049973568329
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Karoll Micropigmentação: Distancia entre os locais = 0.007304419567633958
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar Do Djalma: Distancia entre os locais = 0.0076874627869107735
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Espetinho Do Jr: Distancia entre os locais = 0.006495679290880651
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Retrô beer: Distancia entre os locais = 0.007508580845940265
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar do véio: Distancia entre os locais = 0.00841803259319386
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - T&L Bar e Petiscaria: Distancia entre os locais = 0.0067376228226246745
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Bar Do Bigode: Distancia entre os locais = 0.008473097371095022
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - BAR DO ZECA: Distancia entre os locais = 0.006882318726269966
+Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Fé salgados: Distancia entre os locais = 0.006041678790704037
+Casa de nier - Bar Do Dudé: Distancia entre os locais = 0.001300780723247675
+Casa de nier - Bar do coutinho: Distancia entre os locais = 0.002595759453416778
+Casa de nier - DARIS BAR: Distancia entre os locais = 0.0023954740532881945
+Casa de nier - Bar Do Assis&Sucata: Distancia entre os locais = 0.0030960358605662585
+Casa de nier - Espetinho do Amigo: Distancia entre os locais = 0.005380001209107922
+Casa de nier - Bodega do Júnior Espetos: Distancia entre os locais = 0.0049985362097291946
+Casa de nier - Bar Do Bigode: Distancia entre os locais = 0.004032247716834741
+Casa de nier - BAR DO ROBERTO: Distancia entre os locais = 0.007595098952612932
+Casa de nier - NOSSO Boteco: Distancia entre os locais = 0.005595853330805175
+Casa de nier - Eskina Beer: Distancia entre os locais = 0.005096675516438252
+Casa de nier - Karoll Micropigmentação: Distancia entre os locais = 0.006318951860073457
+Casa de nier - Bar Do Djalma: Distancia entre os locais = 0.006604306943954868
+Casa de nier - Espetinho Do Jr: Distancia entre os locais = 0.008647937859405219
+Casa de nier - Retrô beer: Distancia entre os locais = 0.007310381563911106
+Casa de nier - Bar do véio: Distancia entre os locais = 0.005837659206382715
+Casa de nier - T&L Bar e Petiscaria: Distancia entre os locais = 0.008971538225422612
+Casa de nier - Bar Do Bigode: Distancia entre os locais = 0.006746982804919716
+Casa de nier - BAR DO ZECA: Distancia entre os locais = 0.009193611871302345
+Casa de nier - Fé salgados: Distancia entre os locais = 0.005298437282819505
+Bar Do Dudé - Bar do coutinho: Distancia entre os locais = 0.0019895210504093518
+Bar Do Dudé - DARIS BAR: Distancia entre os locais = 0.0021071353183954407
+Bar Do Dudé - Bar Do Assis&Sucata: Distancia entre os locais = 0.002733627516689489
+Bar Do Dudé - Espetinho do Amigo: Distancia entre os locais = 0.00463167185797868
+Bar Do Dudé - Bodega do Júnior Espetos: Distancia entre os locais = 0.003972858191529016
+Bar Do Dudé - Bar Do Bigode: Distancia entre os locais = 0.004039313946700839
+Bar Do Dudé - BAR DO ROBERTO: Distancia entre os locais = 0.007814236380465479
+Bar Do Dudé - NOSSO Boteco: Distancia entre os locais = 0.004295700758898139
+Bar Do Dudé - Eskina Beer: Distancia entre os locais = 0.004723511855600863
+Bar Do Dudé - Karoll Micropigmentação: Distancia entre os locais = 0.005183317688506935
+Bar Do Dudé - Bar Do Djalma: Distancia entre os locais = 0.005433861862435173
+Bar Do Dudé - Espetinho Do Jr: Distancia entre os locais = 0.008825591910458438
+Bar Do Dudé - Retrô beer: Distancia entre os locais = 0.006412074840485569
+Bar Do Dudé - Bar do véio: Distancia entre os locais = 0.004754022433689884
+Bar Do Dudé - T&L Bar e Petiscaria: Distancia entre os locais = 0.010173765679431184
+Bar Do Dudé - Bar Do Bigode: Distancia entre os locais = 0.0054537948274580045
+Bar Do Dudé - BAR DO ZECA: Distancia entre os locais = 0.009467208518351148
+Bar Do Dudé - Fé salgados: Distancia entre os locais = 0.004285116480330593
+Bar do coutinho - DARIS BAR: Distancia entre os locais = 0.004086654152250293
+Bar do coutinho - Bar Do Assis&Sucata: Distancia entre os locais = 0.004680958697753128
+Bar do coutinho - Espetinho do Amigo: Distancia entre os locais = 0.002784402458337681
+Bar do coutinho - Bodega do Júnior Espetos: Distancia entre os locais = 0.0025901919813095214
+Bar do coutinho - Bar Do Bigode: Distancia entre os locais = 0.006027514394017465
+Bar do coutinho - BAR DO ROBERTO: Distancia entre os locais = 0.006100085091185254
+Bar do coutinho - NOSSO Boteco: Distancia entre os locais = 0.004269504762861225
+Bar do coutinho - Eskina Beer: Distancia entre os locais = 0.00661610000076403
+Bar do coutinho - Karoll Micropigmentação: Distancia entre os locais = 0.0040410471774097985
+Bar do coutinho - Bar Do Djalma: Distancia entre os locais = 0.004398146610802623
+Bar do coutinho - Espetinho Do Jr: Distancia entre os locais = 0.00705799105977202
+Bar do coutinho - Retrô beer: Distancia entre os locais = 0.004736766649309251
+Bar do coutinho - Bar do véio: Distancia entre os locais = 0.005892676238363079
+Bar do coutinho - T&L Bar e Petiscaria: Distancia entre os locais = 0.010060813043178027
+Bar do coutinho - Bar Do Bigode: Distancia entre os locais = 0.005160295015802564
+Bar do coutinho - BAR DO ZECA: Distancia entre os locais = 0.007769973087456187
+Bar do coutinho - Fé salgados: Distancia entre os locais = 0.002857081213412451
+DARIS BAR - Bar Do Assis&Sucata: Distancia entre os locais = 0.000700942543998404
+DARIS BAR - Espetinho do Amigo: Distancia entre os locais = 0.006605466981981704
+DARIS BAR - Bodega do Júnior Espetos: Distancia entre os locais = 0.005707118174703026
+DARIS BAR - Bar Do Bigode: Distancia entre os locais = 0.0019520773063542636
+DARIS BAR - BAR DO ROBERTO: Distancia entre os locais = 0.00983470367422974
+DARIS BAR - NOSSO Boteco: Distancia entre os locais = 0.00498326804015006
+DARIS BAR - Eskina Beer: Distancia entre os locais = 0.002717316488735169
+DARIS BAR - Karoll Micropigmentação: Distancia entre os locais = 0.006659030680962901
+DARIS BAR - Bar Do Djalma: Distancia entre os locais = 0.006810535829875413
+DARIS BAR - Espetinho Do Jr: Distancia entre os locais = 0.010865171389357543
+DARIS BAR - Retrô beer: Distancia entre os locais = 0.008219302014772644
+DARIS BAR - Bar do véio: Distancia entre os locais = 0.0039948313919313016
+DARIS BAR - T&L Bar e Petiscaria: Distancia entre os locais = 0.010972630999452662
+DARIS BAR - Bar Do Bigode: Distancia entre os locais = 0.006210766455920303
+DARIS BAR - BAR DO ZECA: Distancia entre os locais = 0.0114684708562266
+DARIS BAR - Fé salgados: Distancia entre os locais = 0.006020591374610768
+Bar Do Assis&Sucata - Espetinho do Amigo: Distancia entre os locais = 0.007096563055451178
+Bar Do Assis&Sucata - Bodega do Júnior Espetos: Distancia entre os locais = 0.006100846033952534
+Bar Do Assis&Sucata - Bar Do Bigode: Distancia entre os locais = 0.0015061309372029332
+Bar Do Assis&Sucata - BAR DO ROBERTO: Distancia entre os locais = 0.010510271797138641
+Bar Do Assis&Sucata - NOSSO Boteco: Distancia entre os locais = 0.005036747796943001
+Bar Do Assis&Sucata - Eskina Beer: Distancia entre os locais = 0.0020233458552605674
+Bar Do Assis&Sucata - Karoll Micropigmentação: Distancia entre os locais = 0.006937869409263727
+Bar Do Assis&Sucata - Bar Do Djalma: Distancia entre os locais = 0.007050313310768956
+Bar Do Assis&Sucata - Espetinho Do Jr: Distancia entre os locais = 0.011535365260360732
+Bar Do Assis&Sucata - Retrô beer: Distancia entre os locais = 0.008615471527432883
+Bar Do Assis&Sucata - Bar do véio: Distancia entre os locais = 0.0036041138189602247
+Bar Do Assis&Sucata - T&L Bar e Petiscaria: Distancia entre os locais = 0.011573763108856905
+Bar Do Assis&Sucata - Bar Do Bigode: Distancia entre os locais = 0.006247967946462388
+Bar Do Assis&Sucata - BAR DO ZECA: Distancia entre os locais = 0.012149401639995472
+Bar Do Assis&Sucata - Fé salgados: Distancia entre os locais = 0.0064096725540396795
+Espetinho do Amigo - Bodega do Júnior Espetos: Distancia entre os locais = 0.0014836495037595856
+Espetinho do Amigo - Bar Do Bigode: Distancia entre os locais = 0.008550226280046818
+Espetinho do Amigo - BAR DO ROBERTO: Distancia entre os locais = 0.0054550410713266
+Espetinho do Amigo - NOSSO Boteco: Distancia entre os locais = 0.004418884444063425
+Espetinho do Amigo - Eskina Beer: Distancia entre os locais = 0.008845281547242336
+Espetinho do Amigo - Karoll Micropigmentação: Distancia entre os locais = 0.0024911346852376825
+Espetinho do Amigo - Bar Do Djalma: Distancia entre os locais = 0.0029209445766812366
+Espetinho do Amigo - Espetinho Do Jr: Distancia entre os locais = 0.006122453234611124
+Espetinho do Amigo - Retrô beer: Distancia entre os locais = 0.002056381025003256
+Espetinho do Amigo - Bar do véio: Distancia entre os locais = 0.007133585601927001
+Espetinho do Amigo - T&L Bar e Petiscaria: Distancia entre os locais = 0.01173447962629834
+Espetinho do Amigo - Bar Do Bigode: Distancia entre os locais = 0.004662688805827885
+Espetinho do Amigo - BAR DO ZECA: Distancia entre os locais = 0.006989025246055135
+Espetinho do Amigo - Fé salgados: Distancia entre os locais = 0.0013786843910040104
+Bodega do Júnior Espetos - Bar Do Bigode: Distancia entre os locais = 0.007597719405847846
+Bodega do Júnior Espetos - BAR DO ROBERTO: Distancia entre os locais = 0.006839688006031643
+Bodega do Júnior Espetos - NOSSO Boteco: Distancia entre os locais = 0.0029360480956514097
+Bodega do Júnior Espetos - Eskina Beer: Distancia entre os locais = 0.007692242411675403
+Bodega do Júnior Espetos - Karoll Micropigmentação: Distancia entre os locais = 0.0014850480429909403
+Bodega do Júnior Espetos - Bar Do Djalma: Distancia entre os locais = 0.0018827279171498806
+Bodega do Júnior Espetos - Espetinho Do Jr: Distancia entre os locais = 0.007563047990065352
+Bodega do Júnior Espetos - Retrô beer: Distancia entre os locais = 0.0025157046110390988
+Bodega do Júnior Espetos - Bar do véio: Distancia entre os locais = 0.0057044630465975495
+Bodega do Júnior Espetos - T&L Bar e Petiscaria: Distancia entre os locais = 0.01241829837337041
+Bodega do Júnior Espetos - Bar Do Bigode: Distancia entre os locais = 0.0032705059012300684
+Bodega do Júnior Espetos - BAR DO ZECA: Distancia entre os locais = 0.00841543305362417
+Bodega do Júnior Espetos - Fé salgados: Distancia entre os locais = 0.0003152439690150952
+Bar Do Bigode - BAR DO ROBERTO: Distancia entre os locais = 0.011620684284918388
+Bar Do Bigode - NOSSO Boteco: Distancia entre os locais = 0.006461825523023932
+Bar Do Bigode - Eskina Beer: Distancia entre os locais = 0.0015836071892972377
+Bar Do Bigode - Karoll Micropigmentação: Distancia entre os locais = 0.008441388109783452
+Bar Do Bigode - Bar Do Djalma: Distancia entre os locais = 0.00854680481232597
+Bar Do Bigode - Espetinho Do Jr: Distancia entre os locais = 0.012668119971407139
+Bar Do Bigode - Retrô beer: Distancia entre os locais = 0.010113323396392034
+Bar Do Bigode - Bar do véio: Distancia entre os locais = 0.004562321051833642
+Bar Do Bigode - T&L Bar e Petiscaria: Distancia entre os locais = 0.011666161563255706
+Bar Do Bigode - Bar Do Bigode: Distancia entre os locais = 0.007652012865907424
+Bar Do Bigode - BAR DO ZECA: Distancia entre os locais = 0.013225612036119737
+Bar Do Bigode - Fé salgados: Distancia entre os locais = 0.007907921168677298
+BAR DO ROBERTO - NOSSO Boteco: Distancia entre os locais = 0.009692172792501967
+BAR DO ROBERTO - Eskina Beer: Distancia entre os locais = 0.012525620071664027
+BAR DO ROBERTO - Karoll Micropigmentação: Distancia entre os locais = 0.007923771322405864
+BAR DO ROBERTO - Bar Do Djalma: Distancia entre os locais = 0.008345425013138362
+BAR DO ROBERTO - Espetinho Do Jr: Distancia entre os locais = 0.0010685899868591296
+BAR DO ROBERTO - Retrô beer: Distancia entre os locais = 0.006583311276994774
+BAR DO ROBERTO - Bar do véio: Distancia entre os locais = 0.011929895646221262
+BAR DO ROBERTO - T&L Bar e Petiscaria: Distancia entre os locais = 0.008506845382987974
+BAR DO ROBERTO - Bar Do Bigode: Distancia entre os locais = 0.01009951015889997
+BAR DO ROBERTO - BAR DO ZECA: Distancia entre os locais = 0.0016699652032416152
+BAR DO ROBERTO - Fé salgados: Distancia entre os locais = 0.00681058296035045
+NOSSO Boteco - Eskina Beer: Distancia entre os locais = 0.005972878563976234
+NOSSO Boteco - Karoll Micropigmentação: Distancia entre os locais = 0.0026353303341315783
+NOSSO Boteco - Bar Do Djalma: Distancia entre os locais = 0.002503405810086522
+NOSSO Boteco - Espetinho Do Jr: Distancia entre os locais = 0.010466306263432219
+NOSSO Boteco - Retrô beer: Distancia entre os locais = 0.004792053064189177
+NOSSO Boteco - Bar do véio: Distancia entre os locais = 0.0031055260890892927
+NOSSO Boteco - T&L Bar e Petiscaria: Distancia entre os locais = 0.01422656973588379
+NOSSO Boteco - Bar Do Bigode: Distancia entre os locais = 0.0012286534132952035
+NOSSO Boteco - BAR DO ZECA: Distancia entre os locais = 0.011302330135859151
+NOSSO Boteco - Fé salgados: Distancia entre os locais = 0.003072843546293091
+Eskina Beer - Karoll Micropigmentação: Distancia entre os locais = 0.0082785216464046
+Eskina Beer - Bar Do Djalma: Distancia entre os locais = 0.00830396223558183
+Eskina Beer - Espetinho Do Jr: Distancia entre os locais = 0.013545375542225702
+Eskina Beer - Retrô beer: Distancia entre os locais = 0.010163199164141492
+Eskina Beer - Bar do véio: Distancia entre os locais = 0.0034783533474915225
+Eskina Beer - T&L Bar e Petiscaria: Distancia entre os locais = 0.01319933659885721
+Eskina Beer - Bar Do Bigode: Distancia entre os locais = 0.007067330039697813
+Eskina Beer - BAR DO ZECA: Distancia entre os locais = 0.014168637828666258
+Eskina Beer - Fé salgados: Distancia entre os locais = 0.007984725342803199
+Karoll Micropigmentação - Bar Do Djalma: Distancia entre os locais = 0.0004323628568775455
+Karoll Micropigmentação - Espetinho Do Jr: Distancia entre os locais = 0.0085306876633708
+Karoll Micropigmentação - Retrô beer: Distancia entre os locais = 0.00217194762828377
+Karoll Micropigmentação - Bar do véio: Distancia entre os locais = 0.005726371863581222
+Karoll Micropigmentação - T&L Bar e Petiscaria: Distancia entre os locais = 0.013895000384309972
+Karoll Micropigmentação - Bar Do Bigode: Distancia entre os locais = 0.0023739165444469175
+Karoll Micropigmentação - BAR DO ZECA: Distancia entre os locais = 0.009413939422472336
+Karoll Micropigmentação - Fé salgados: Distancia entre os locais = 0.00130209301126962
+Bar Do Djalma - Espetinho Do Jr: Distancia entre os locais = 0.008940007788035834
+Bar Do Djalma - Retrô beer: Distancia entre os locais = 0.002425851425797337
+Bar Do Djalma - Bar do véio: Distancia entre os locais = 0.0056087099871511064
+Bar Do Djalma - T&L Bar e Petiscaria: Distancia entre os locais = 0.014300932591973898
+Bar Do Djalma - Bar Do Bigode: Distancia entre os locais = 0.0020611046067506127
+Bar Do Djalma - BAR DO ZECA: Distancia entre os locais = 0.009825775340915785
+Bar Do Djalma - Fé salgados: Distancia entre os locais = 0.0017224677326509233
+Espetinho Do Jr - Retrô beer: Distancia entre os locais = 0.006986092857239088
+Espetinho Do Jr - Bar do véio: Distancia entre os locais = 0.012827577551900417
+Espetinho Do Jr - T&L Bar e Petiscaria: Distancia entre os locais = 0.009133952170335325
+Espetinho Do Jr - Bar Do Bigode: Distancia entre os locais = 0.010784372317848814
+Espetinho Do Jr - BAR DO ZECA: Distancia entre os locais = 0.0009007617332010517
+Espetinho Do Jr - Fé salgados: Distancia entre os locais = 0.007499062662759249
+Retrô beer - Bar do véio: Distancia entre os locais = 0.007854140361621112
+Retrô beer - T&L Bar e Petiscaria: Distancia entre os locais = 0.013647109839814037
+Retrô beer - Bar Do Bigode: Distancia entre os locais = 0.0044861892358674165
+Retrô beer - BAR DO ZECA: Distancia entre os locais = 0.00788681872810306
+Retrô beer - Fé salgados: Distancia entre os locais = 0.0022057989958285925
+Bar do véio - T&L Bar e Petiscaria: Distancia entre os locais = 0.014790535206003395
+Bar do véio - Bar Do Bigode: Distancia entre os locais = 0.003926636800114662
+Bar do véio - BAR DO ZECA: Distancia entre os locais = 0.013593954303660572
+Bar do véio - Fé salgados: Distancia entre os locais = 0.005923077717709454
+T&L Bar e Petiscaria - Bar Do Bigode: Distancia entre os locais = 0.015209401253172218
+T&L Bar e Petiscaria - BAR DO ZECA: Distancia entre os locais = 0.00878269228938223
+T&L Bar e Petiscaria - Fé salgados: Distancia entre os locais = 0.012598048073015362
+Bar Do Bigode - BAR DO ZECA: Distancia entre os locais = 0.011651460559516772
+Bar Do Bigode - Fé salgados: Distancia entre os locais = 0.0032910390714786606
+BAR DO ZECA - Fé salgados: Distancia entre os locais = 0.00836214719315462

@@ -1,6 +1,8 @@
 import os
 from dotenv import load_dotenv
 from flask import Flask, render_template, request, jsonify
+from folium import folium
+
 from gerador_user import gerar_usuario_txt
 from mapeamento import *
 from criar_grafo import *
@@ -14,9 +16,10 @@ arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
 arq_usuario = os.getenv('ARQ_USUARIO')
 arq_ranking = os.getenv('ARQ_RANKING')
 
-@app.route('/')
+
+@app.route('/', methods=['GET', 'POST'])
 def index():
-    return render_template('map.html')
+    return render_template('index.html')
 
 @app.route('/click_location', methods=['POST'])
 def click_location():

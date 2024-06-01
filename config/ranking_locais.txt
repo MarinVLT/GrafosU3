@@ -1,7 +1,7 @@
 
 Ranking:
-1: Centro de Treinamento O Cansa√ßo √© Psicol√≥gico - R. Dr. Ad√©lino, 41 - Afogados, Recife - PE, 50820-590, Brazil (ChIJpcMF8MYfqwcRNsIKg7BcvBw) (['gym', 'health', 'point_of_interest', 'establishment'])(6.161270508319383)
-2: C√≠cero Restaurante - R. Dr. Ad√©lino, 41 - Afogados, Recife - PE, 50820-590, Brazil (ChIJKf0IldUeqwcRqlQhK_5v0WM) (['restaurant', 'food', 'point_of_interest', 'establishment'])(4.99468823456094)
-3: Martha e Rita Bar - R. Cosme Viana, 130 - Afogados, Recife - PE, 50820-580, Brazil (ChIJeY7Ifc4fqwcRiXwqhcOJ4uU) (['bar', 'point_of_interest', 'establishment'])(5.596311292490771)
-4: Boteco alpha - Estr. dos Rem√©dios, 895 - Afogados, Recife - PE, 50750-360, Brazil (ChIJocVUeS8ZqwcR2aNbrkFbyZg) (['bar', 'point_of_interest', 'establishment'])(5.1979419316734505)
-5: Asinha do Chin√™s Full House - R. Cel. Alfredo Duarte, 37b - Afogados, Recife - PE, 50750, Brazil (ChIJ2S5PxCoZqwcR_MR2gco59Oo) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(5.017352385463586)
+1: Tv. Santa isabel, 69 - Felipe camar„o Natal-RN - Tv. Santa Isabel, 63 - Felipe Camar„o, Natal - RN, 59072-445, Brazil (ChIJUSr0Na9VsgcRFEjGXOmhGME) (['bar', 'point_of_interest', 'establishment'])(5.998943345247831)
+2: Casa de nier - Tv. Santa Isabel - Felipe Camar„o, Natal - RN, 59072-445, Brazil (ChIJZfu3xFVVsgcR016z31fBLi4) (['bar', 'point_of_interest', 'establishment'])(0.9983105153190304)
+3: Bar Do DudÈ - R. Padre Jo„o Maria, 364 - Felipe Camar„o, Natal - RN, 59072-460, Brazil (ChIJoxrioAhVsgcRGzvM3o86Rn8) (['bar', 'point_of_interest', 'establishment'])(0.9973289828748383)
+4: Bar do coutinho - R. S„o Jo„o, 336 - Felipe Camar„o, Natal - RN, 59072-410, Brazil (ChIJ-4WJJqBVsgcRNxBophZEVH8) (['bar', 'point_of_interest', 'establishment'])(5.79722515336462)
+5: Bodega do J˙nior Espetos - R. Nossa Sra. do Ros·rio, 115 - Felipe Camar„o, Natal - RN, 59072-220, Brazil (ChIJPYhYkA9VsgcR7scYfWXp758) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(5.127974639812299)

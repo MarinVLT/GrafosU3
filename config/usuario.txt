@@ -1,3 +1,2 @@
--8.072173392672426,-34.89477217197419
-cafe,gym
-Academy Recife do Coque,gym,health,point_of_interest,establishment,4.6
+-7.667441482726056,-38.164040012419676
+bakery,restaurant

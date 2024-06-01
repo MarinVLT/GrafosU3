@@ -35,7 +35,7 @@ def create_map():
 
     m.get_root().html.add_child(folium.Element(script))
 
-    m.save('templates/map.html')
+    m.save('templates/mapa.html')
 
 
 if __name__ == "__main__":
