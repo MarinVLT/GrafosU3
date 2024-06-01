@@ -1,3 +1,22 @@
+# Como rodar o projeto
+
+Com o python instalado, instalar o gerenciador de pacotes pipenv:
+
+```
+pip install pipenv
+```
+
+Com o pipenv instalado, fazer o download das dependências do projeto:
+
+```
+pipenv install
+```
+
+## Etapas de Execução
+### 1. Gerar usuário
+### 2. Gerar mapa
+### 
+
 # Google Maps
 📌🗺 [Places API](https://console.cloud.google.com/marketplace/product/google/places.googleapis.com?hl=en&project=level-epoch-424911-t1)
 

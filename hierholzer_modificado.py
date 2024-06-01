@@ -4,7 +4,7 @@ from criar_grafo import *
 def hierholzer_modificado(grafo, num_locais=5):
 
     if len (grafo.nodes) < num_locais:
-        tam = le(grafo.nodes)
+        tam = len (grafo.nodes)
         print("Número de vértices no grafo é menor que o número de locais desejado.")
     else:
         tam = num_locais

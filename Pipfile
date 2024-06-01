@@ -11,6 +11,7 @@ folium = "*"
 networkx = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.12"
