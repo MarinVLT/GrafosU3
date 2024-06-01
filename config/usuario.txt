@@ -1,2 +1,6 @@
--7.667441482726056,-38.164040012419676
-bakery,restaurant
+-22.970208070693023,-43.1859576702118
+gym,bakery
+Pão de Açúcar,supermarket,convenience_store,bakery,grocery_or_supermarket,food,store,point_of_interest,establishment,3.9
+Bodytech,gym,spa,health,point_of_interest,establishment,4.2
+Mania de Torta,bakery,store,food,point_of_interest,establishment,4
+Ananda Marga Yoga e Meditação,gym,health,point_of_interest,establishment,3.7

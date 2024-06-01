@@ -1,7 +1,7 @@
 
 Ranking:
-1: Tv. Santa isabel, 69 - Felipe camarão Natal-RN - Tv. Santa Isabel, 63 - Felipe Camarão, Natal - RN, 59072-445, Brazil (ChIJUSr0Na9VsgcRFEjGXOmhGME) (['bar', 'point_of_interest', 'establishment'])(5.998943345247831)
-2: Casa de nier - Tv. Santa Isabel - Felipe Camarão, Natal - RN, 59072-445, Brazil (ChIJZfu3xFVVsgcR016z31fBLi4) (['bar', 'point_of_interest', 'establishment'])(0.9983105153190304)
-3: Bar Do Dudé - R. Padre João Maria, 364 - Felipe Camarão, Natal - RN, 59072-460, Brazil (ChIJoxrioAhVsgcRGzvM3o86Rn8) (['bar', 'point_of_interest', 'establishment'])(0.9973289828748383)
-4: Bar do coutinho - R. São João, 336 - Felipe Camarão, Natal - RN, 59072-410, Brazil (ChIJ-4WJJqBVsgcRNxBophZEVH8) (['bar', 'point_of_interest', 'establishment'])(5.79722515336462)
-5: Bodega do Júnior Espetos - R. Nossa Sra. do Rosário, 115 - Felipe Camarão, Natal - RN, 59072-220, Brazil (ChIJPYhYkA9VsgcR7scYfWXp758) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(5.127974639812299)
+1: Pestana Rio AtlÃ¢ntica - Av. AtlÃ¢ntica, 2964 - Copacabana, Rio de Janeiro - RJ, 22070-000, Brazil (ChIJ8R_06UbVmwARDi2tMx9PJr4) (['gym', 'lodging', 'point_of_interest', 'health', 'establishment'])(5.036081251438397)
+2: Bodytech - Av. Nossa Sra. de Copacabana, 801 - Copacabana, Rio de Janeiro - RJ, 22031-000, Brazil (ChIJ3ZnYE0TVmwAR7FP2GEtG02A) (['gym', 'spa', 'health', 'point_of_interest', 'establishment'])(4.920565024477317)
+3: Balance Fitness - R. Xavier da Silveira, 23 - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil (ChIJk_G5xUDVmwARFcFLJcw8dBM) (['gym', 'health', 'point_of_interest', 'establishment'])(5.363429609058406)
+4: Ananda Yoga Space - Av. Nossa Sra. de Copacabana, 647/610 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil (ChIJiYlNaETVmwARk10Jla2S_TM) (['gym', 'health', 'point_of_interest', 'establishment'])(5.770791625775778)
+5: Movimento Pilates - Av. Nossa Sra. de Copacabana, 928/702 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil (ChIJ1bvZHETVmwARCpuDaRCcGTQ) (['gym', 'health', 'point_of_interest', 'establishment'])(5.770162702860504)
