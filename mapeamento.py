@@ -1,13 +1,9 @@
 import googlemaps
 import os
 from dotenv import load_dotenv
+from funcoes_auxiliares import *
 
 
-# Jaccard, interseçãos/uniao (varia de 0 a 1, quão mais proximo de 1, mais similar)
-def jaccard_similarity(conjunto1, conjunto2):
-    intersecao = len(conjunto1.intersection(conjunto2))
-    uniao = len(conjunto1.union(conjunto2))
-    return intersecao / uniao if uniao > 0 else 0
 
 def ler_informacoes_usuario(arquivo):
     with open(arquivo, 'r', encoding='utf-8') as file:
@@ -82,6 +78,9 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                     coordenadas_local = lugar.get('geometry', {}).get('location', {})
                     latitude = coordenadas_local.get('lat')
                     longitude = coordenadas_local.get('lng')
+
+                    #calculo da distancia entre o local e a coordenada passada
+                    distancia = distancia_euclidiana((latitude, longitude), coordenadas);
                     
                     # Armazena os detalhes do estabelecimento no dicionário
                     todos_estabelecimentos[place_id] = {
@@ -93,7 +92,8 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                         'latitude': latitude,
                         'longitude': longitude,
                         'coordenadas': (latitude, longitude),
-                        'score_final': sim_entreTipos + sim_HistoricoVisitados
+                        #'distancia': distancia,
+                        'score_final': sim_entreTipos + sim_HistoricoVisitados - distancia
                     }
     
     # Retorna o dicionário com todos os estabelecimentos encontrados e seus scores

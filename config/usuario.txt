@@ -1,7 +1,4 @@
--23.546992526204008,-46.62391662597656
-restaurant,cafe
-Cantina do Gigio,restaurant,food,point_of_interest,establishment,4.6
-BR Mania Conveniência,convenience_store,gas_station,atm,meal_takeaway,car_repair,cafe,finance,store,restaurant,point_of_interest,food,establishment,-1
-Cha drizzle house,cafe,food,point_of_interest,establishment,4.4
-Spot Three Brothers,cafe,point_of_interest,food,establishment,4.6
-BãodiMinas,cafe,store,point_of_interest,food,establishment,4.5
+-5.815702839058756,-35.21377801895142
+gym,bar
+A Confraria 084 Gastrobar - Lagoa Nova,bar,point_of_interest,establishment,4.5
+Carne Assada do Picuí | Restaurante,restaurant,bar,point_of_interest,food,establishment,5

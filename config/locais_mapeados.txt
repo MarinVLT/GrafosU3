@@ -1,240 +1,240 @@
-Castelões Cantina & Pizzaria
-R. Jairo Gois, 126 - Brás, São Paulo - SP, 03004-010, Brazil
-restaurant,food,point_of_interest,establishment
-4.2
-0.8066666666666666
-
-Sesc Carmo
-R. do Carmo, 147 - Sé, São Paulo - SP, 01019-020, Brazil
-restaurant,food,point_of_interest,establishment
-4.5
-0.8066666666666666
-
-Cantina do Gigio
-Rua do Gasômetro, 254 - Brás, São Paulo - SP, 03004-000, Brazil
-restaurant,food,point_of_interest,establishment
-4.6
-0.8066666666666666
-
-Cantina do Marinheiro
-Av. Alcântara Machado, 592 - Mooca, São Paulo - SP, 03102-000, Brazil
-restaurant,food,point_of_interest,establishment
-4.3
-0.8066666666666666
-
-Bar do Mané
-Rua da Cantareira - Rua E, 306 - Box 14 - Centro Histórico de São Paulo, São Paulo - SP, 01024-000, Brazil
-bar,restaurant,food,point_of_interest,establishment
+BurnFit - Lagoa Nova
+R. São José, 2001 - Lagoa Nova, Natal - RN, 59054-630, Brazil
+gym,health,point_of_interest,establishment
 4.7
-0.6739194139194139
+0.5386112697272737
 
-Hocca Bar - Mercadão
-R. da Cantareira, 306 (Mercado Municipal de São Paulo) Mezanino Box 05 - Loja 2 - Centro Histórico de São Paulo, São Paulo - SP, 01024-000, Brazil
-bar,restaurant,point_of_interest,food,establishment
-4.3
-0.6739194139194139
-
-Restaurante ADC (Oliveira & Souza)
-R. Claudino Pinto, 12 - Brás, São Paulo - SP, 03040-040, Brazil
-restaurant,point_of_interest,food,establishment
-4.3
-0.8066666666666666
-
-Bom Prato
-R. Vinte e Cinco de Março, 166 - Centro Histórico de São Paulo, São Paulo - SP, 01021-000, Brazil
-restaurant,food,point_of_interest,establishment
-4.2
-0.8066666666666666
-
-Finesse
-R. Mons. Anacleto, 142 - Brás, São Paulo - SP, 03003-020, Brazil
-meal_takeaway,bar,restaurant,food,point_of_interest,establishment
-3.8
-0.5995421245421245
-
-Restaurante O Lavrador
-R. Mons. Anacleto, 182 - Brás, São Paulo - SP, 03003-020, Brazil
-restaurant,food,point_of_interest,establishment
+Vitally Fitness - Atacado e Varejo.
+Av. Prudente de Morais, 3503 - Lagoa Nova, Natal - RN, 59063-200, Brazil
+clothing_store,gym,health,store,point_of_interest,establishment
 4.4
-0.8066666666666666
+0.3925454580577716
 
-Pizzaria São Vito
-Atendimento online via watssap (11)98862-8704do - R. do Lucas - Brás, São Paulo - SP, 03005-000, Brazil
-restaurant,food,point_of_interest,establishment
-4.1
-0.8066666666666666
-
-Lanchonete NSA
-Rua do Gasômetro, 614 - Brás, São Paulo - SP, 03004-000, Brazil
-meal_takeaway,restaurant,food,point_of_interest,establishment
-4.1
-0.6957142857142856
-
-Jack Pizzas
-R. Piratininga, 341 - Brás, São Paulo - SP, 03043-040, Brazil
-restaurant,point_of_interest,food,establishment
-4.2
-0.8066666666666666
-
-Novo Parque
-Parque Dom Pedro II - Praça da Sé, 148 - Centro Histórico de São Paulo, São Paulo - SP, 01022-000, Brazil
-restaurant,bar,point_of_interest,food,establishment
-4.6
-0.6739194139194139
-
-Jo Bras
-Av. Rangel Pestana, 1767 - Brás, São Paulo - SP, 03001-000, Brazil
-meal_takeaway,bar,restaurant,food,point_of_interest,establishment
-4.5
-0.5995421245421245
-
-Schiafino Restaurante
-R. Visc. de Parnaíba, 561 - Brás, São Paulo - SP, 03045-000, Brazil
-restaurant,food,point_of_interest,establishment
-4.5
-0.8066666666666666
-
-Cianflone Agro Comercial
-R. Prof. Eurípedes Simões de Paula, 260 - Brás, São Paulo - SP, 03006-010, Brazil
-restaurant,food,point_of_interest,store,establishment
-4.8
-0.7433333333333333
-
-Pizzaria Brandão
-R. Tabatinguera, 477 - Sé, São Paulo - SP, 01020-001, Brazil
-restaurant,point_of_interest,food,establishment
-4.2
-0.8066666666666666
-
-Lanchonete Arouca
-R. Dr. Bitencourt Rodrigues, 21 - Centro Histórico de São Paulo, São Paulo - SP, 01017-010, Brazil
-meal_takeaway,restaurant,food,point_of_interest,establishment
-4
-0.6957142857142856
-
-Adega & Lanches Irmãos Gomes
-Rua Da Cantareira - Rua K, 306 - Box 19 - Centro Histórico de São Paulo, São Paulo - SP, 01024-000, Brazil
-meal_takeaway,liquor_store,store,restaurant,food,point_of_interest,establishment
-4.5
-0.5815934065934065
-
-Da Terra Alimentos
-R. Caetano Pinto, 549 - Brás, São Paulo - SP, 03041-000, Brazil
-bakery,cafe,food,point_of_interest,store,establishment
-4.5
-0.7388278388278389
-
-Forno De Minas
-Estação, Itaquaquecetuba - SP, 03043-070, Brazil
-cafe,food,point_of_interest,establishment
-3.8
-0.9466666666666668
-
-Cha drizzle house
-R. Boa Vista, 155 - Centro Histórico de São Paulo, São Paulo - SP, 01014-000, Brazil
-cafe,food,point_of_interest,establishment
-4.4
-0.9466666666666668
-
-Cafeteria Calina
-R. Caetano Pinto, 98 - Brás, São Paulo - SP, 03041-000, Brazil
-cafe,food,point_of_interest,establishment
-5
-0.9466666666666668
-
-Spot Three Brothers
-R. da Figueira, 611 - Brás, São Paulo - SP, 03102-010, Brazil
-cafe,food,point_of_interest,establishment
-4.6
-0.9466666666666668
-
-DeLuca Bistrô & Coffee
-R. Piratininga, 201 - loja 1 - Brás, São Paulo - SP, 04884-370, Brazil
-cafe,bakery,restaurant,store,point_of_interest,food,establishment
-4.6
-0.8637362637362637
-
-BãodiMinas
-R. Azevedo Júnior, 250 - Brás, São Paulo - SP, 03040-020, Brazil
-cafe,store,point_of_interest,food,establishment
-4.5
-0.87
-
-BR Mania Conveniência
-Rua do Gasômetro, 570 - Brás, São Paulo - SP, 03004-000, Brazil
-convenience_store,atm,gas_station,meal_takeaway,car_repair,finance,cafe,restaurant,food,point_of_interest,store,establishment
-N/A
-0.6499999999999999
-
-Santa Terra Vitta
-R. Polignano A Mare, 70 - Brás, São Paulo - SP, 03005-040, Brazil
-cafe,store,food,point_of_interest,health,establishment
-3
-0.7388278388278389
-
-Celeiro Da Terra
-Av. Mercúrio - Brás, São Paulo - SP, 03007-000, Brazil
-cafe,health,store,food,point_of_interest,establishment
-4.4
-0.7388278388278389
-
-Grão Espresso Figueira
-R. da Figueira, 831 - Mooca, São Paulo - SP, 03102-010, Brazil
-cafe,store,food,point_of_interest,establishment
-2.8
-0.87
-
-Empório Maná Brasil
-Rua Benjamim de Oliveira, 71 - Brás, São Paulo - SP, 03006-020, Brazil
-cafe,food,point_of_interest,store,establishment
-5
-0.87
-
-Lanchonete Pegada Do Sabor
-R. da Mooca, 374 - Mooca, São Paulo - SP, 03104-000, Brazil
-restaurant,cafe,food,point_of_interest,establishment
-4.8
-1.0966666666666667
-
-Roma Cafe
-R. Venceslau Brás, 168 - Centro Histórico de São Paulo, São Paulo - SP, 01016-000, Brazil
-cafe,food,point_of_interest,establishment
+Pulse Health & Fitness
+Rua Aluízio Bezerra, 116 - Lagoa Nova, Natal - RN, 59056-170, Brazil
+gym,point_of_interest,health,establishment
 4.7
-0.9466666666666668
+0.5368805958681947
 
-Café Grão e Flor
-R. Vinte e Cinco de Março, 477 - Centro Histórico de São Paulo, São Paulo - SP, 01021-000, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-0.87
+Physio and Pilates Clinic
+R. Gen. Francisco Monteiro, 1451 - Lagoa Nova, Natal - RN, 59054-380, Brazil
+gym,health,point_of_interest,establishment
+2.5
+0.5368524909307735
 
-Grão do Pátio
-R. Roberto Simonsen, 88 - Sé, São Paulo - SP, 01016-010, Brazil
-cafe,food,point_of_interest,store,establishment
-4.7
-0.87
-
-Café Napoli
-Shopping Duprat - R. Barão de Duprat, 177 - Centro Histórico de São Paulo, São Paulo - SP, 01023-001, Brazil
-cafe,store,point_of_interest,food,establishment
+Isabelle Melo
+Corporate Tower Centre - Av. Amintas Barros, 3700 - Sala 2402 Torre - Lagoa Nova, Natal - RN, 59075-810, Brazil
+gym,doctor,health,point_of_interest,establishment
 4.9
-0.87
+0.4521598208806995
 
-Café do Padre
-R. Barão de Duprat, Loja 49 - Centro Histórico de São Paulo, São Paulo - SP, 01023-001, Brazil
-cafe,food,point_of_interest,establishment
-N/A
-0.9466666666666668
+Selfit Academias Lagoa Nova
+Estacionamento PISO G4 - Av. Sen. Salgado Filho, 1656 - Lagoa Nova, Natal - RN, 59056-000, Brazil
+gym,health,point_of_interest,establishment
+4.4
+0.5353257578469117
 
-Tapioca da Dora
-R. Dr. Almeida Lima, 91 - Brás, São Paulo - SP, 03046-010, Brazil
-cafe,store,point_of_interest,food,establishment
+Academia Feroli
+Av. Sen. Salgado Filho, 1985 - Lagoa Nova, Natal - RN, 59056-000, Brazil
+gym,health,point_of_interest,establishment
 4.2
-0.87
+0.5353085947838194
 
-Bomboniere e Cafeteria Carvalho e Silva
-R. Venceslau Brás, 96 - Sé, São Paulo - SP, 01016-000, Brazil
-convenience_store,cafe,bakery,store,point_of_interest,food,establishment
+CARBOFIT
+Av. Lima e Silva, 1497 - Lagoa Nova, Natal - RN, 59075-710, Brazil
+gym,health,point_of_interest,establishment
+4.7
+0.5345177647661059
+
+Krav Maga - A Defesa Pessoal do Exército Israelense
+Av. Sen. Salgado Filho, 1609 A - 1º andar - Lagoa Nova, Natal - RN, 59056-000, Brazil
+gym,health,point_of_interest,establishment
 5
-0.6637362637362637
+0.5343169060665481
+
+Fisiovida Studio Pilates
+R. São José, 2153 - Lagoa Nova, Natal - RN, 59064-150, Brazil
+gym,point_of_interest,health,establishment
+5
+0.5379009479233691
+
+Smart Fit - Midway
+Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-900, Brazil
+gym,point_of_interest,health,establishment
+4.5
+0.5338964844216181
+
+Academia Engenharia do Corpo
+Av. Prudente de Morais, 3720 - Lagoa Nova, Natal - RN, 59054-700, Brazil
+gym,health,point_of_interest,establishment
+4.4
+0.5408837805444096
+
+Hit Studio Fight
+R. Jaguarari, 1912 - 1° Andar, Sala 05 - Lagoa Nova, Natal - RN, 59054-500, Brazil
+gym,health,point_of_interest,establishment
+N/A
+0.5394363202991732
+
+João Paulo Correia
+Av. Jaguarari, 1912, 1st floor, room 01 - Lagoa Nova (Office - Lagoa Nova, Natal - RN, 59054-180, Brazil
+gym,health,point_of_interest,establishment
+N/A
+0.5393739422899351
+
+ALEXANDRA FERNANDES STUDIO PILATES
+Av. Antônio Basílio, 2312 - Lagoa Nova, Natal - RN, 59054-735, Brazil
+gym,point_of_interest,health,establishment
+N/A
+0.538927446387967
+
+Artro pilates
+R. Des. Adauto Maia, 1084-A - Lagoa Nova, Natal - RN, 59054-480, Brazil
+gym,health,point_of_interest,establishment
+5
+0.5385313132961382
+
+Pilates Center
+Loja 6 e 7 Avenida Antônio Basílio, 3006, Shopping Lagoa Center - Lagoa Nova, Natal - RN, 59056-500, Brazil
+gym,health,point_of_interest,establishment
+5
+0.5384921875337664
+
+Clinica Equilibreme
+Rua Sérgio Severo, 1114 - Lagoa Nova, Natal - RN, 59063-380, Brazil
+gym,doctor,health,point_of_interest,establishment
+5
+0.4539161023833847
+
+Clínica Aura
+Av. Nascimento de Castro, 1527 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+gym,health,point_of_interest,establishment
+5
+0.538402085296859
+
+Glauce Glayeb - Estética de Resultado
+Av. Antônio Basílio, 3025 - Lagoa Nova, Natal - RN, 59056-500, Brazil
+gym,health,point_of_interest,store,establishment
+5
+0.45345751740492996
+
+Boteco Pai Dégua - Bar
+R. Jaguarari, 2081 - Lagoa Nova, Natal - RN, 59054-500, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.5
+0.9618521947446416
+
+Barcanas Espetto's
+206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil
+bar,point_of_interest,establishment
+4.8
+1.0416716781111655
+
+Nalva Lopes Hairdresser
+Av. Amintas Barros, 2107 - Lagoa Nova, Natal - RN, 59054-465, Brazil
+beauty_salon,night_club,bar,doctor,hair_care,health,point_of_interest,establishment
+4.7
+0.44008731646032095
+
+Restaurante Outback Steakhouse
+Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-900, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.5
+0.9577060082311418
+
+Bar da Asa
+Av. Nascimento de Castro - Dix-Sept Rosado, Natal - RN, 59054-630, Brazil
+bar,point_of_interest,establishment
+4.5
+1.0496966033275057
+
+Belle de Jour Gastrobar
+Av. Nascimento de Castro, 1826 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.2
+0.9654371292520126
+
+Adriana Oliver Studio Hair | Salão de Beleza em Natal
+Galeria Moniz - R. São José, 1949 - Lagoa Nova, Natal - RN, 59063-150, Brazil
+beauty_salon,night_club,bar,health,store,point_of_interest,establishment
+5
+0.5046743535883336
+
+Caves Priorato - Wine Shop
+Av. Nascimento de Castro, 1677 - celular (84)9.9604-0071 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+liquor_store,meal_delivery,bar,store,food,point_of_interest,establishment
+5
+0.5879294661026268
+
+Bar do Motoqueiro
+Rua Padre Champagnat, 25 - Lagoa Nova, Natal - RN, 59054-840, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.4
+0.9647792446946108
+
+Espetinho do Ronaldo
+Av. Antônio Basílio, 2652 - Lagoa Nova, Natal - RN, 59056-385, Brazil
+bar,point_of_interest,establishment
+5
+1.0473051406114393
+
+Leo Bar
+R. Jaguarari, 1866 - Lagoa Nova, Natal - RN, 59062-500, Brazil
+bar,point_of_interest,establishment
+4.6
+1.0462105452255654
+
+A Confraria 084 Gastrobar - Lagoa Nova
+Av. Amintas Barros, 3331 - Lagoa Nova, Natal - RN, 59075-700, Brazil
+bar,point_of_interest,establishment
+4.5
+1.0461282437069686
+
+Petisqueria Natal - Petiscos e Buffet
+Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil
+meal_delivery,bar,restaurant,point_of_interest,food,establishment
+4.8
+0.8056064683142876
+
+PINGA CHAMA Restaurante ,Bar ,Churrascaria
+WHATSAPP ATENDIMENTO 84 98636 - 6333___ - R. Perito José Lourenço, 262a - Lagoa Nova, Natal - RN, 59054-650, Brazil
+restaurant,bar,food,point_of_interest,establishment
+4.6
+0.9627294677871825
+
+Caravela Gastrobar e bistro
+Av. Nascimento de Castro, 1551 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bar,point_of_interest,establishment
+4.6
+1.0458572869436014
+
+Self-Service e Bar do Careca
+R. Contador Manoel Raimundo de Águiar, 5111 - Lagoa Nova, Natal - RN, 59056-020, Brazil
+bar,point_of_interest,establishment
+4.7
+1.0455429442999884
+
+Bar do Ku
+Ve - Vila Gerda Maria, 155 - Lagoa Nova, Natal - RN, 59056-106, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.3
+0.9615684258705688
+
+Carne Assada do Picuí | Restaurante
+Av. Antônio Basílio, 3106 - Lagoa Nova, Natal - RN, 59056-015, Brazil
+restaurant,bar,food,point_of_interest,establishment
+5
+0.9614999993270356
+
+KAMÁI
+Av. Amintas Barros, 2509 - Lagoa Nova, Natal - RN, 59054-465, Brazil
+restaurant,bar,food,point_of_interest,establishment
+5
+0.961444709352168
+
+R.G. Bar
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59054-630, Brazil
+bar,point_of_interest,establishment
+4.5
+1.0446619058207334
 

@@ -1,10 +1,6 @@
 import networkx as nx
-import math
+from funcoes_auxiliares import *
 from mapeamento import *
-
-# Uma medida de distância "reta" entre dois pontos em um espaço euclidiano
-def distancia_euclidiana(coord1, coord2):
-    return math.sqrt((coord1[0] - coord2[0]) ** 2 + (coord1[1] - coord2[1]) ** 2)
 
 
 def criar_grafo_euleriano(locs_mapeados):
@@ -35,7 +31,6 @@ def criar_grafo_euleriano(locs_mapeados):
     # Verifica se o grafo é euleriano
     if not nx.is_eulerian(grafo):
         raise ValueError("O grafo não é euleriano.")
-    
     
     return grafo
 
