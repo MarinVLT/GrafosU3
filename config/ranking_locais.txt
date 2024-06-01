@@ -1,0 +1,7 @@
+
+Ranking:
+1: Centro de Treinamento O Cansaço é Psicológico - R. Dr. Adélino, 41 - Afogados, Recife - PE, 50820-590, Brazil (ChIJpcMF8MYfqwcRNsIKg7BcvBw) (['gym', 'health', 'point_of_interest', 'establishment'])(6.161270508319383)
+2: Cícero Restaurante - R. Dr. Adélino, 41 - Afogados, Recife - PE, 50820-590, Brazil (ChIJKf0IldUeqwcRqlQhK_5v0WM) (['restaurant', 'food', 'point_of_interest', 'establishment'])(4.99468823456094)
+3: Martha e Rita Bar - R. Cosme Viana, 130 - Afogados, Recife - PE, 50820-580, Brazil (ChIJeY7Ifc4fqwcRiXwqhcOJ4uU) (['bar', 'point_of_interest', 'establishment'])(5.596311292490771)
+4: Boteco alpha - Estr. dos Remédios, 895 - Afogados, Recife - PE, 50750-360, Brazil (ChIJocVUeS8ZqwcR2aNbrkFbyZg) (['bar', 'point_of_interest', 'establishment'])(5.1979419316734505)
+5: Asinha do Chinês Full House - R. Cel. Alfredo Duarte, 37b - Afogados, Recife - PE, 50750, Brazil (ChIJ2S5PxCoZqwcR_MR2gco59Oo) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(5.017352385463586)

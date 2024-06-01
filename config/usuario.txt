@@ -1,4 +1,3 @@
--5.815702839058756,-35.21377801895142
-gym,bar
-A Confraria 084 Gastrobar - Lagoa Nova,bar,point_of_interest,establishment,4.5
-Carne Assada do Picuí | Restaurante,restaurant,bar,point_of_interest,food,establishment,5
+-8.072173392672426,-34.89477217197419
+cafe,gym
+Academy Recife do Coque,gym,health,point_of_interest,establishment,4.6

@@ -4,6 +4,7 @@ from flask import Flask, render_template, request, jsonify
 from gerador_user import gerar_usuario_txt
 from mapeamento import *
 from criar_grafo import *
+from hierholzer_modificado import *
 
 app = Flask(__name__)
 load_dotenv()
@@ -11,6 +12,7 @@ api_key = os.getenv('API_KEY')
 raio = os.getenv('RAIO')
 arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
 arq_usuario = os.getenv('ARQ_USUARIO')
+arq_ranking = os.getenv('ARQ_RANKING')
 
 @app.route('/')
 def index():
@@ -33,6 +35,9 @@ def click_location():
 
     grafo = criar_grafo_euleriano(locais_encontrados)
     salvar_grafo_em_txt(grafo, arq_grafo)
+
+    caminho = hierholzer_modificado(grafo)
+    salvar_ranking_em_txt(grafo, caminho, arq_ranking)
 
     return jsonify(locais_encontrados)
 

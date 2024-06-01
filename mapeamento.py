@@ -80,7 +80,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                     longitude = coordenadas_local.get('lng')
 
                     #calculo da distancia entre o local e a coordenada passada
-                    distancia = distancia_euclidiana((latitude, longitude), coordenadas);
+                    distancia = distancia_euclidiana((latitude, longitude), coordenadas)
                     
                     # Armazena os detalhes do estabelecimento no dicionário
                     todos_estabelecimentos[place_id] = {
@@ -93,7 +93,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                         'longitude': longitude,
                         'coordenadas': (latitude, longitude),
                         #'distancia': distancia,
-                        'score_final': sim_entreTipos + sim_HistoricoVisitados - distancia
+                        'score_final': sim_entreTipos + sim_HistoricoVisitados - distancia + (lugar.get('rating') or 0)
                     }
     
     # Retorna o dicionário com todos os estabelecimentos encontrados e seus scores

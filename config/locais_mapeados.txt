@@ -1,240 +1,78 @@
-BurnFit - Lagoa Nova
-R. São José, 2001 - Lagoa Nova, Natal - RN, 59054-630, Brazil
-gym,health,point_of_interest,establishment
-4.7
-0.5386112697272737
-
-Vitally Fitness - Atacado e Varejo.
-Av. Prudente de Morais, 3503 - Lagoa Nova, Natal - RN, 59063-200, Brazil
-clothing_store,gym,health,store,point_of_interest,establishment
+Coffee Shop São Braz Ilha Do Leite
+R. Dr. João Asfora, 26 - loja 1 - Ilha do Leite, Recife - PE, 50070-430, Brazil
+cafe,store,restaurant,food,point_of_interest,establishment
 4.4
-0.3925454580577716
+4.784080759146591
 
-Pulse Health & Fitness
-Rua Aluízio Bezerra, 116 - Lagoa Nova, Natal - RN, 59056-170, Brazil
-gym,point_of_interest,health,establishment
-4.7
-0.5368805958681947
-
-Physio and Pilates Clinic
-R. Gen. Francisco Monteiro, 1451 - Lagoa Nova, Natal - RN, 59054-380, Brazil
-gym,health,point_of_interest,establishment
-2.5
-0.5368524909307735
-
-Isabelle Melo
-Corporate Tower Centre - Av. Amintas Barros, 3700 - Sala 2402 Torre - Lagoa Nova, Natal - RN, 59075-810, Brazil
-gym,doctor,health,point_of_interest,establishment
-4.9
-0.4521598208806995
-
-Selfit Academias Lagoa Nova
-Estacionamento PISO G4 - Av. Sen. Salgado Filho, 1656 - Lagoa Nova, Natal - RN, 59056-000, Brazil
-gym,health,point_of_interest,establishment
-4.4
-0.5353257578469117
-
-Academia Feroli
-Av. Sen. Salgado Filho, 1985 - Lagoa Nova, Natal - RN, 59056-000, Brazil
-gym,health,point_of_interest,establishment
-4.2
-0.5353085947838194
-
-CARBOFIT
-Av. Lima e Silva, 1497 - Lagoa Nova, Natal - RN, 59075-710, Brazil
-gym,health,point_of_interest,establishment
-4.7
-0.5345177647661059
-
-Krav Maga - A Defesa Pessoal do Exército Israelense
-Av. Sen. Salgado Filho, 1609 A - 1º andar - Lagoa Nova, Natal - RN, 59056-000, Brazil
-gym,health,point_of_interest,establishment
+Fórum Café
+Av. Central - Ilha Joana Bezerra, Recife - PE, 50080-410, Brazil
+cafe,store,food,point_of_interest,establishment
 5
-0.5343169060665481
+5.449878695504944
 
-Fisiovida Studio Pilates
-R. São José, 2153 - Lagoa Nova, Natal - RN, 59064-150, Brazil
-gym,point_of_interest,health,establishment
-5
-0.5379009479233691
+DOM Restaurante - Hospital Pedro II
+R. dos Coelhos - Coelhos, Recife - PE, 52171-011, Brazil
+cafe,store,food,point_of_interest,establishment
+3
+3.4463217572630174
 
-Smart Fit - Midway
-Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-900, Brazil
-gym,point_of_interest,health,establishment
+Casa dos Doces - Ilha do Leite
+Ilha do Leite, Recife - PE, 50030-230, Brazil
+cafe,bakery,store,point_of_interest,food,establishment
 4.5
-0.5338964844216181
+4.886295255720847
 
-Academia Engenharia do Corpo
-Av. Prudente de Morais, 3720 - Lagoa Nova, Natal - RN, 59054-700, Brazil
-gym,health,point_of_interest,establishment
-4.4
-0.5408837805444096
-
-Hit Studio Fight
-R. Jaguarari, 1912 - 1° Andar, Sala 05 - Lagoa Nova, Natal - RN, 59054-500, Brazil
-gym,health,point_of_interest,establishment
-N/A
-0.5394363202991732
-
-João Paulo Correia
-Av. Jaguarari, 1912, 1st floor, room 01 - Lagoa Nova (Office - Lagoa Nova, Natal - RN, 59054-180, Brazil
-gym,health,point_of_interest,establishment
-N/A
-0.5393739422899351
-
-ALEXANDRA FERNANDES STUDIO PILATES
-Av. Antônio Basílio, 2312 - Lagoa Nova, Natal - RN, 59054-735, Brazil
-gym,point_of_interest,health,establishment
-N/A
-0.538927446387967
-
-Artro pilates
-R. Des. Adauto Maia, 1084-A - Lagoa Nova, Natal - RN, 59054-480, Brazil
-gym,health,point_of_interest,establishment
-5
-0.5385313132961382
-
-Pilates Center
-Loja 6 e 7 Avenida Antônio Basílio, 3006, Shopping Lagoa Center - Lagoa Nova, Natal - RN, 59056-500, Brazil
-gym,health,point_of_interest,establishment
-5
-0.5384921875337664
-
-Clinica Equilibreme
-Rua Sérgio Severo, 1114 - Lagoa Nova, Natal - RN, 59063-380, Brazil
-gym,doctor,health,point_of_interest,establishment
-5
-0.4539161023833847
-
-Clínica Aura
-Av. Nascimento de Castro, 1527 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-gym,health,point_of_interest,establishment
-5
-0.538402085296859
-
-Glauce Glayeb - Estética de Resultado
-Av. Antônio Basílio, 3025 - Lagoa Nova, Natal - RN, 59056-500, Brazil
-gym,health,point_of_interest,store,establishment
-5
-0.45345751740492996
-
-Boteco Pai Dégua - Bar
-R. Jaguarari, 2081 - Lagoa Nova, Natal - RN, 59054-500, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.5
-0.9618521947446416
-
-Barcanas Espetto's
-206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil
-bar,point_of_interest,establishment
-4.8
-1.0416716781111655
-
-Nalva Lopes Hairdresser
-Av. Amintas Barros, 2107 - Lagoa Nova, Natal - RN, 59054-465, Brazil
-beauty_salon,night_club,bar,doctor,hair_care,health,point_of_interest,establishment
-4.7
-0.44008731646032095
-
-Restaurante Outback Steakhouse
-Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-900, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.5
-0.9577060082311418
-
-Bar da Asa
-Av. Nascimento de Castro - Dix-Sept Rosado, Natal - RN, 59054-630, Brazil
-bar,point_of_interest,establishment
-4.5
-1.0496966033275057
-
-Belle de Jour Gastrobar
-Av. Nascimento de Castro, 1826 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.2
-0.9654371292520126
-
-Adriana Oliver Studio Hair | Salão de Beleza em Natal
-Galeria Moniz - R. São José, 1949 - Lagoa Nova, Natal - RN, 59063-150, Brazil
-beauty_salon,night_club,bar,health,store,point_of_interest,establishment
-5
-0.5046743535883336
-
-Caves Priorato - Wine Shop
-Av. Nascimento de Castro, 1677 - celular (84)9.9604-0071 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-liquor_store,meal_delivery,bar,store,food,point_of_interest,establishment
-5
-0.5879294661026268
-
-Bar do Motoqueiro
-Rua Padre Champagnat, 25 - Lagoa Nova, Natal - RN, 59054-840, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.4
-0.9647792446946108
-
-Espetinho do Ronaldo
-Av. Antônio Basílio, 2652 - Lagoa Nova, Natal - RN, 59056-385, Brazil
-bar,point_of_interest,establishment
-5
-1.0473051406114393
-
-Leo Bar
-R. Jaguarari, 1866 - Lagoa Nova, Natal - RN, 59062-500, Brazil
-bar,point_of_interest,establishment
-4.6
-1.0462105452255654
-
-A Confraria 084 Gastrobar - Lagoa Nova
-Av. Amintas Barros, 3331 - Lagoa Nova, Natal - RN, 59075-700, Brazil
-bar,point_of_interest,establishment
-4.5
-1.0461282437069686
-
-Petisqueria Natal - Petiscos e Buffet
-Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil
-meal_delivery,bar,restaurant,point_of_interest,food,establishment
-4.8
-0.8056064683142876
-
-PINGA CHAMA Restaurante ,Bar ,Churrascaria
-WHATSAPP ATENDIMENTO 84 98636 - 6333___ - R. Perito José Lourenço, 262a - Lagoa Nova, Natal - RN, 59054-650, Brazil
-restaurant,bar,food,point_of_interest,establishment
-4.6
-0.9627294677871825
-
-Caravela Gastrobar e bistro
-Av. Nascimento de Castro, 1551 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-bar,point_of_interest,establishment
-4.6
-1.0458572869436014
-
-Self-Service e Bar do Careca
-R. Contador Manoel Raimundo de Águiar, 5111 - Lagoa Nova, Natal - RN, 59056-020, Brazil
-bar,point_of_interest,establishment
-4.7
-1.0455429442999884
-
-Bar do Ku
-Ve - Vila Gerda Maria, 155 - Lagoa Nova, Natal - RN, 59056-106, Brazil
-bar,restaurant,food,point_of_interest,establishment
+Café Marie
+R. Sen. José Henrique, 231 - Ilha do Leite, Recife - PE, 50070-460, Brazil
+cafe,store,food,point_of_interest,establishment
 4.3
-0.9615684258705688
+4.745347303780836
 
-Carne Assada do Picuí | Restaurante
-Av. Antônio Basílio, 3106 - Lagoa Nova, Natal - RN, 59056-015, Brazil
-restaurant,bar,food,point_of_interest,establishment
+Benvinda Doceria (Unidade II)
+Condomínio do Empresarial Selecta Center - R. Estado de Israel, 262 - Térreo - Ilha do Leite, Recife - PE, 50070-415, Brazil
+cafe,store,food,point_of_interest,establishment
+4.7
+5.14414515777964
+
+Palatsi Convenience Coffee Shop - Real Hospital Português
+Edf. Garagem - Av. Gov. Agamenon Magalhães, 4760 - Paissandu, Recife - PE, 52010-020, Brazil
+cafe,store,food,point_of_interest,establishment
+4.1
+4.543522974489502
+
+Academy Recife do Coque
+R. S D 9806, 75 - Ilha Joana Bezerra, Recife - PE, 50030-230, Brazil
+gym,health,point_of_interest,establishment
+4.6
+5.796936976462911
+
+Em breve: Academia Smart Fit - Shopping Difusora
+Av. Gov. Agamenon Magalhães, 444 - Maurício de Nassau, Recife - PE, 52010-075, Brazil
+gym,health,point_of_interest,establishment
+N/A
+1.195116120901381
+
+Polo Academia da Cidade - Ilha do Leite
+Praça Miguel de Cervantes - Ilha do Leite, Recife - PE, 50030-230, Brazil
+gym,health,point_of_interest,establishment
 5
-0.9614999993270356
+6.194391107611308
 
-KAMÁI
-Av. Amintas Barros, 2509 - Lagoa Nova, Natal - RN, 59054-465, Brazil
-restaurant,bar,food,point_of_interest,establishment
-5
-0.961444709352168
+Serfit Academia
+R. Cabo Eutrópio, 211 - Ilha Joana Bezerra, Recife - PE, 50080-180, Brazil
+gym,health,point_of_interest,establishment
+4.8
+5.993264675541804
 
-R.G. Bar
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59054-630, Brazil
-bar,point_of_interest,establishment
-4.5
-1.0446619058207334
+CAMPO DOS COELHOS
+Coelhos, Recife - PE, 50030-230, Brazil
+gym,health,point_of_interest,establishment
+4.6
+5.792763610283998
+
+Posture Saúde e Bem Estar - Clínica de Fisioterapia, Pilates, RPG, Liberação Miofacial e Drenagem Linfática
+Empresarial Cervantes - Praça Dr. Fernando Figueira, 30 - Sala 405 - Ilha do Leite, Recife - PE, 50070-330, Brazil
+gym,point_of_interest,health,establishment
+N/A
+1.192690797113733
 
