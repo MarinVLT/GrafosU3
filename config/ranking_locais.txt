@@ -1,7 +1,7 @@
 
 Ranking:
-1: Boteco Pai Dégua - Bar - R. Jaguarari, 2081 - Lagoa Nova, Natal - RN, 59054-500, Brazil (ChIJseWt0F5VsgcR8L8SCUDIM6A) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.191763955487094)
-2: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'pet_store', 'veterinary_care', 'bar', 'clothing_store', 'store', 'point_of_interest', 'establishment'])(5.257205706035855)
-3: Espetaria do Bezerra - R. Cel. Norton Chaves, 03 - Lagoa Nova, Natal - RN, 59075-200, Brazil (ChIJjcu_SH9VsgcRx59Tr8MzMYE) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.991378893580429)
-4: A Confraria 084 Gastrobar - Lagoa Nova - Av. Amintas Barros, 3331 - Lagoa Nova, Natal - RN, 59075-700, Brazil (ChIJ619olFf_sgcRF9GjinmR-oM) (['bar', 'point_of_interest', 'establishment'])(5.439329538954794)
-5: Petisqueria Natal - Petiscos e Buffet - Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil (ChIJ1_A-nnL_sgcRwfSTehakkW8) (['meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.440054333918328)
+1: Anderson Bolos - Rua São Miguel dos Milagres, 7 - Conjunto Jiqui, Bairro Neopolis - Neópolis, Natal - RN, 59086-270, Brazil (ChIJEYjvK1T_sgcRumbDIVacvp0) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.4091761380990695)
+2: Ki-Bread Premium - Pirangi - Loja 04 - Conjunto Pirangi Primeira Etapa - Av. das Alagoas, 4950 - Neópolis, Natal - RN, 59084-200, Brazil (ChIJ-eA7xU7_sgcRSMW0UWfKy2I) (['bakery', 'restaurant', 'store', 'point_of_interest', 'food', 'establishment'])(5.005322916984202)
+3: Pastelanche - R. Divinópolis, 2932 - Neópolis, Natal - RN, 59088-300, Brazil (ChIJv8vVHE7_sgcRexTTJO_egvU) (['meal_takeaway', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.832914604980535)
+4: Sabor de Pão - R. Carmo de Minas, 3028 - Neópolis, Natal - RN, 59088-270, Brazil (ChIJoe5qm03_sgcRLXrtoER3k8Y) (['bakery', 'supermarket', 'grocery_or_supermarket', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.872055570868014)
+5: Panificadora Sanvalle - Av. das Alagoas, 1216 - Neópolis, Natal - RN, 59088-100, Brazil (ChIJaXUuvFr_sgcRt-jmzeQ2Yvw) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.012378733341106)

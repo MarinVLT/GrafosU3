@@ -29,7 +29,7 @@ def places_location():
     coordenadas = (latitude, longitude)
     locais = data['locais']
 
-    gerar_usuario_txt(coordenadas, locais, arq_usuario, api_key)
+    gerar_usuario_txt(coordenadas, locais, arq_usuario, api_key, len(locais))
 
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
     locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)

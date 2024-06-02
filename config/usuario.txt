@@ -1,6 +1,7 @@
--5.819609368389324,-35.21107920693018
-bar,bakery
-Caves Priorato - Wine Shop,liquor_store,meal_delivery,bar,point_of_interest,food,store,establishment,5
-THE KING Petiscaria,bar,point_of_interest,establishment,-1
-Jolie Cafe Patisserie,bakery,point_of_interest,food,store,establishment,5
-Bar do Joao,bar,point_of_interest,establishment,4.5
+-5.8681185102933755,-35.20403828033704
+bakery,cafe,bar
+Sinuca e Bar - José Dantas dos Santos,bar,point_of_interest,establishment,4.8
+Axé Bar e Restaurante,bar,restaurant,food,point_of_interest,establishment,4.6
+Café da vó,cafe,food,point_of_interest,establishment,-1
+O Chambaril,bar,restaurant,food,point_of_interest,establishment,4.5
+Shopping das Tapiocas,cafe,point_of_interest,food,store,establishment,-1

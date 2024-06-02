@@ -1,240 +1,270 @@
-Boteco Pai Dégua - Bar
-R. Jaguarari, 2081 - Lagoa Nova, Natal - RN, 59054-500, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.5
-5.191763955487094
-
-Zoopet Natal Pet Shop
-Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil
-night_club,pet_store,veterinary_care,bar,clothing_store,store,point_of_interest,establishment
-4.8
-5.257205706035855
-
-Espetaria do Bezerra
-R. Cel. Norton Chaves, 03 - Lagoa Nova, Natal - RN, 59075-200, Brazil
-restaurant,bar,food,point_of_interest,establishment
+Pastelanche
+R. Divinópolis, 2932 - Neópolis, Natal - RN, 59088-300, Brazil
+meal_takeaway,bakery,restaurant,food,point_of_interest,store,establishment
 4.3
-4.991378893580429
+4.832914604980535
 
-A Confraria 084 Gastrobar - Lagoa Nova
-Av. Amintas Barros, 3331 - Lagoa Nova, Natal - RN, 59075-700, Brazil
-bar,point_of_interest,establishment
-4.5
-5.439329538954794
-
-JM Bar
-R. Francisco Ferreira de Lima, 303 - Lagoa Nova, Natal - RN, 59075-800, Brazil
-bar,point_of_interest,establishment
-N/A
-0.9384533780639767
-
-Bar da Tania
-Rua Tabelião Manoel Procópio, 13 - Lagoa Nova, Natal - RN, 59060-630, Brazil
-bar,point_of_interest,establishment
-N/A
-0.9380926869825574
-
-Petisqueria Natal - Petiscos e Buffet
-Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil
-meal_delivery,bar,restaurant,food,point_of_interest,establishment
+Anderson Bolos
+Rua São Miguel dos Milagres, 7 - Conjunto Jiqui, Bairro Neopolis - Neópolis, Natal - RN, 59086-270, Brazil
+bakery,store,food,point_of_interest,establishment
 4.8
-5.440054333918328
+5.4091761380990695
 
-Belle de Jour Gastrobar
-Av. Nascimento de Castro, 1826 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+Ki-Bread Premium - Pirangi
+Loja 04 - Conjunto Pirangi Primeira Etapa - Av. das Alagoas, 4950 - Neópolis, Natal - RN, 59084-200, Brazil
+bakery,restaurant,store,point_of_interest,food,establishment
+4.4
+5.005322916984202
+
+Sabor de Pão
+R. Carmo de Minas, 3028 - Neópolis, Natal - RN, 59088-270, Brazil
+bakery,supermarket,grocery_or_supermarket,store,restaurant,food,point_of_interest,establishment
+4.4
+4.872055570868014
+
+Panificadora Sanvalle
+Av. das Alagoas, 1216 - Neópolis, Natal - RN, 59088-100, Brazil
+bakery,store,food,point_of_interest,establishment
+4.4
+5.012378733341106
+
+RC Natal Carnes
+R. Congonhas, 2945 - Neópolis, Natal - RN, 59084-400, Brazil
+bakery,convenience_store,store,food,point_of_interest,establishment
+2.7
+3.2290570892642063
+
+Boleria Doce Delícia Neópolis
+Av. das Alagoas, 36A - Neópolis, Natal - RN, 59086-200, Brazil
+bakery,food,point_of_interest,store,establishment
+N/A
+0.6108605016684271
+
+Panificadora Cristo Rei
+Av. São Miguel dos Caribes, 13 - Neópolis, Natal - RN, 59086-500, Brazil
+bakery,store,food,point_of_interest,establishment
+4.4
+5.0104346813269505
+
+RESTAURANTE,PADARIA E PIZZARIA NATAL
+RUA INCONFIDENTES 4687 BAIRRO NEOPOLIS - CONJUNTO - PIRANGI, Natal - RN, 59088-050, Brazil
+bakery,store,food,point_of_interest,establishment
+4.5
+5.109539936078105
+
+Padaria
+R. São Miguel dos Milagres, 25 - Neópolis, Natal - RN, 59086-270, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+0.6086242092050183
+
+Lollipop Confeitaria e Café
+Av. das Alagoas, 73 - Lj. 03 - Neópolis, Natal - RN, 59084-200, Brazil
+bakery,store,point_of_interest,food,establishment
+4.8
+5.408569112391841
+
+Panificadora Pão Kente
+Av. das Alagoas, 100 - Neópolis, Natal - RN, 59086-200, Brazil
+bakery,store,food,point_of_interest,establishment
+4.3
+4.908556655852282
+
+O Rei do Bolo
+Em frente à quadra de esportes do Supercop - R. Muriaé, 2959 - Neópolis, Natal - RN, 59088-500, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+5.6082164839496045
+
+DOCES VILA CACAU | Bem-casados - Brownie - Bolo - Alfajor
+R. Monte Sião, 4398 - conjunto Pirangi - Neópolis, Natal - RN, 59086-460, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+5.607743222743292
+
+Panificadora Alícia
+R. Delmiro Gouveia, 51c - Neópolis, Natal - RN, 59086-010, Brazil
+bakery,store,food,point_of_interest,establishment
+4.7
+5.307496613391382
+
+Priscilla Queiroz Bolos
+R. Mogiana Mineira - Neópolis, Natal - RN, 59086-480, Brazil
+bakery,store,point_of_interest,food,establishment
+N/A
+0.6073336217225952
+
+Bolos da Mi
+R. Independência, 4767 - Neópolis, Natal - RN, 59088-335, Brazil
+bakery,food,point_of_interest,store,establishment
+5
+5.606626444952656
+
+Maricota Biscoitos Decorados
+Av. Pôrto de Pedras - Neópolis, Natal - RN, 59086-640, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+5.606330109189899
+
+Bela na cozinha
+R. Antônio Farache, 1930 - Condomínio Jardim Liziane, Natal - RN, 59082-110, Brazil
+bakery,food,point_of_interest,store,establishment
+5
+5.606158563108506
+
+Érica Oliveira-Sugar Artist- Doce Mania
+R. Pirapora, 4628 - Neópolis, Natal - RN, 59088-330, Brazil
+bakery,store,food,point_of_interest,establishment
+4.9
+5.506155029800033
+
+Conveniência AmPm - Ipiranga
+Av. Ayrton Senna, 1652 - Neópolis, Natal - RN, 59086-105, Brazil
+convenience_store,gas_station,atm,cafe,car_repair,finance,store,restaurant,food,point_of_interest,establishment
+N/A
+0.4035919039428812
+
+Foto café do André
+Av. das Alagoas, 2916 - Neópolis, Natal - RN, 59084-200, Brazil
+cafe,store,point_of_interest,food,establishment
+5
+5.736972048135238
+
+Shopping das Tapiocas
+Av. São Miguel dos Caribes - Neópolis, Natal - RN, 59088-500, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+0.7360328391332223
+
+Café da vó
+Rua Montes Claros 4398 - Rua Estrela Dalva, 2968 - Neópolis, Natal - RN, 59086-470, Brazil
+cafe,food,point_of_interest,establishment
+N/A
+0.8006234491206594
+
+Shakeria Ponta Negra
+Av. Ayrton Senna, 1148 - Neópolis, Natal - RN, 59080-101, Brazil
+cafe,point_of_interest,food,establishment
+3.5
+4.299092712467609
+
+U1000D Tião
+R. Juiz de Fora, 2919 - Neópolis, Natal - RN, 59086-440, Brazil
 bar,restaurant,food,point_of_interest,establishment
-4.2
-4.895134068135397
-
-Adriana Oliver Studio Hair | Salão de Beleza em Natal
-Galeria Moniz - R. São José, 1949 - Lagoa Nova, Natal - RN, 59063-150, Brazil
-beauty_salon,night_club,bar,health,point_of_interest,store,establishment
-5
-5.518716755167156
-
-Nayra Brainer Consultora de Beleza
-Rua Marise Bastier, 420 - Lagoa Nova, Natal - RN, 59076-000, Brazil
-night_club,bar,point_of_interest,establishment
 4.6
-5.335989725144437
+5.443339701402131
 
-La Peluquería Ítalo Moss
-Rua Marise Bastier, 1470 - Lagoa Nova, Natal - RN, 59075-070, Brazil
-night_club,bar,point_of_interest,establishment
+Axé Bar e Restaurante
+R. Divinópolis, 2833 - Neópolis, Natal - RN, 59084-300, Brazil
+bar,restaurant,food,point_of_interest,establishment
 4.6
-5.335916182520517
+5.44810939077615
 
-Cigarreira Mig's
-R. Dep. Marcílio Furtado - Lagoa Nova, Natal - RN, 59063-360, Brazil
-bar,point_of_interest,establishment
-N/A
-0.9361277420543314
-
-Bar da Asa
-Av. Nascimento de Castro - Dix-Sept Rosado, Natal - RN, 59054-630, Brazil
+Tô Na Esquina
+R. Gov. Valadares, 4858 - Neópolis, Natal - RN, 59088-010, Brazil
 bar,point_of_interest,establishment
 4.5
-5.435958854479013
+5.285637211918357
 
-Bar do Joao
-Rua Aluízio Bezerra, 1202A - Lagoa Nova, Natal - RN, 59056-170, Brazil
-bar,point_of_interest,establishment
+O Chambaril
+Av. das Alagoas, 2830 - Neópolis, Natal - RN, 59086-200, Brazil
+bar,restaurant,food,point_of_interest,establishment
 4.5
-5.435591968317283
+5.347241810992552
 
-Sangalo Bar & Petiscaria
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59075-090, Brazil
-bar,point_of_interest,establishment
-5
-5.935045251269989
-
-Carne Assada do Picuí | Restaurante
-Av. Antônio Basílio, 3106 - Lagoa Nova, Natal - RN, 59056-015, Brazil
-restaurant,bar,food,point_of_interest,establishment
-5
-5.693080498728944
-
-THE KING Petiscaria
-Av. Antônio Basílio, 3270 - Lagoa Nova, Natal - RN, 59056-005, Brazil
-bar,point_of_interest,establishment
-N/A
-0.9346631301172345
-
-Bafafá Bar
-Praça Dr. Amaro Marinho, 07 - Lagoa Nova, Natal - RN, 59056-580, Brazil
+Os Amigos do Bar
+Rua Governador Valadares, 4859, Pirangi - 2º etapa - Neópolis, Natal - RN, 59088-010, Brazil
 bar,point_of_interest,establishment
 4
-4.9344600890576755
+4.785274124469346
 
-Caves Priorato - Wine Shop
-Av. Nascimento de Castro, 1677 - celular (84)9.9604-0071 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-liquor_store,meal_delivery,bar,store,point_of_interest,food,establishment
-5
-5.708258938549361
-
-Self-Service e Bar do Careca
-R. Contador Manoel Raimundo de Águiar, 5111 - Lagoa Nova, Natal - RN, 59056-020, Brazil
+Espetaria084
+R. Divinópolis, 2882 - Neópolis, Natal - RN, 59088-300, Brazil
 bar,point_of_interest,establishment
-4.7
-5.634190787532011
+4.6
+5.38509360877812
 
-Mercatto
-Av. Nascimento de Castro, 1890 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-bakery,store,restaurant,food,point_of_interest,establishment
-4.4
-5.0026739688232
-
-Engenho Doce
-Av. Nascimento de Castro, 2025 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-bakery,store,food,point_of_interest,establishment
-4.5
-5.201981954469424
-
-O PADEIRO
-Av. Amintas Barros, 2570 - Lagoa Nova, Natal - RN, 59062-350, Brazil
-bakery,store,food,point_of_interest,establishment
-4.7
-5.400709573239737
-
-Pretinha Bolos
-Av. Antônio Basílio, 2404 - Lagoa Nova, Natal - RN, 59056-385, Brazil
-bakery,store,food,point_of_interest,establishment
-4.4
-5.100334045334894
-
-Time Bread
-Av. Romualdo Galvão, 1454 - Lagoa Nova, Natal - RN, 59056-100, Brazil
-bakery,store,restaurant,food,point_of_interest,establishment
-4.5
-5.101403658364569
-
-Daguia Tortas Finas
-Av. Antônio Basílio, 3025 - Lagoa Nova, Natal - RN, 59056-500, Brazil
-cafe,bakery,store,food,point_of_interest,establishment
-4.5
-5.099215967254018
-
-COM AÇUCAR E AFETO
-AVENIDA AMINTAS BARROS 3700 TORRE B - Sala 2507 - Lagoa Nova, Natal - RN, 59075-810, Brazil
-bakery,food,point_of_interest,store,establishment
-N/A
-0.7068775112777379
-
-Divina Boleria
-Av. Nascimento de Castro, 1795 - Lagoa Nova, Natal - RN, 59056-450, Brazil
-bakery,store,food,point_of_interest,establishment
-5
-5.705361786878226
-
-The Cake & Co By Camila Melo
-Av. Miguel Castro, 660 - Lagoa Nova, Natal - RN, 59075-745, Brazil
-bakery,store,point_of_interest,food,establishment
-4.7
-5.405134847947245
-
-Dedo de Moça Express
-Av. Romualdo Galvão, 1834 - Loja 11 - Lagoa Nova, Natal - RN, 59056-205, Brazil
-bakery,store,point_of_interest,food,establishment
-5
-5.704451952563897
-
-Xodó Cake Confeitaria
-Av. Prudente de Morais, 4620 - Lagoa Nova, Natal - RN, 59063-200, Brazil
-bakery,food,point_of_interest,store,establishment
-4.8
-5.504191253937967
-
-Lagoa nova
-R. Morais Navarro - Lagoa Nova, Natal - RN, 59075-770, Brazil
-bakery,store,food,point_of_interest,establishment
-5
-5.703816174262799
-
-Imperial Honey
-Av. Romualdo Galvão, 2821 - Lagoa Nova, Natal - RN, 59075-750, Brazil
-bakery,store,food,point_of_interest,establishment
-3
-3.7035953522026466
-
-Delicías do Trigo
-Av. Amintas Barros, 2878 - Lagoa Nova, Natal - RN, 59063-350, Brazil
-bakery,store,food,point_of_interest,establishment
-4.5
-5.203463210378368
-
-Pão & Companhia
-R. São José, 2182 - Lagoa Nova, Natal - RN, 59063-150, Brazil
-bakery,store,food,point_of_interest,establishment
-4.4
-5.1029057485484355
-
-Jolie Cafe Patisserie
-R. São José, 2184 - Lagoa Nova, Natal - RN, 59054-630, Brazil
-bakery,food,point_of_interest,store,establishment
-5
-5.702786520116816
-
-Caroli Douces
-R. Almeida Barreto, 442 - Lagoa Nova, Natal - RN, 59056-310, Brazil
-bakery,store,point_of_interest,food,establishment
-4.4
-5.102738665325093
-
-Bolo Gostoso
-Av. Amintas Barros, 2786 - Lagoa Nova, Natal - RN, 59054-830, Brazil
-bakery,restaurant,store,point_of_interest,food,establishment
+Primos Bar
+R. Furnas, 4795 - Neópolis, Natal - RN, 59088-040, Brazil
+bar,point_of_interest,establishment
 4.3
-4.899438415795218
+5.0845330213663305
 
-Debora Sanders
-Av. Antônio Basílio, 2961 - Lagoa Nova, Natal - RN, 59056-500, Brazil
-bakery,store,point_of_interest,food,establishment
+Bar Gela Guela
+R. Divinópolis - com, Av. Ayrton Senna, 2900 - Neópolis, Natal - RN, 59088-300, Brazil
+bar,point_of_interest,establishment
+4.2
+4.984208984781233
+
+Sinuca e Bar - José Dantas dos Santos
+R. Estrela do Sul, 2933 - Neópolis, Natal - RN, 59088-080, Brazil
+bar,point_of_interest,establishment
+4.8
+5.583442340948688
+
+Zé Caranga
+Rua Estrela Dalva, n° 2921 - Neópolis, Natal - RN, 59008-730, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.3
+5.145176224014133
+
+Recanto Jucurutu
+Av. São Miguel dos Caribes, S/N - Neópolis, Natal - RN, 59086-500, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.3
+5.1450313773303655
+
+Espeetinho da silvia
+Av. das Alagoas - Neópolis, Natal - RN, 59086-200, Brazil
+bar,point_of_interest,establishment
 N/A
-0.70235701524822
+0.7830377944830781
 
-Panificadora Bandeirantes
-Rua Padre Champagnat, 250 - Lagoa Nova, Natal - RN, 59054-840, Brazil
-bakery,restaurant,food,point_of_interest,store,establishment
+Boteco Vei
+Av. das Alagoas, 2900 - Neópolis, Natal - RN, 59086-200, Brazil
+restaurant,bar,point_of_interest,food,establishment
+4.3
+5.1449475026486455
+
+BAR DO JANILSON
+R. Caparaó - Neópolis, Natal - RN, 59084-440, Brazil
+bar,point_of_interest,establishment
+N/A
+0.7830499012826344
+
+BOTECO CAMINHO DE CASA
+Av. São Miguel dos Caribes, 31A - Neópolis, Natal - RN, 59086-500, Brazil
+bar,point_of_interest,establishment
+N/A
+0.7829412284092006
+
+EITA BIXIGA ESPETOS
+R. Inconfidentes, 4731 - Neópolis, Natal - RN, 59088-050, Brazil
+bar,restaurant,point_of_interest,food,establishment
+3.5
+4.344790939904957
+
+Bodeco Bar e Restaurante
+R. Pão de Açúcar, 2950 C - Neópolis, Natal - RN, 59086-380, Brazil
+bar,restaurant,food,point_of_interest,establishment
 4.5
-5.098456795810725
+5.344730967208122
+
+Bar e Restaurante do Assis
+Av. São Miguel dos Caribes, 4348A - Neópolis, Natal - RN, 59086-500, Brazil
+restaurant,bar,food,point_of_interest,establishment
+4.6
+5.444493022469261
+
+Santo espeto
+R. Pref. Expedito Alves, 4 - Capim Macio, Natal - RN, 59082-440, Brazil
+bar,restaurant,food,point_of_interest,establishment
+5
+5.844300304955974
+
+BAR DO FRANGO
+Av. das Alagoas, 43 - Neópolis, Natal - RN, 59086-200, Brazil
+bar,point_of_interest,establishment
+N/A
+0.7823662048700629
 

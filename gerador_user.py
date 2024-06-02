@@ -3,14 +3,14 @@ import googlemaps
 import random
 from dotenv import load_dotenv
 
-def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida, api_key):
+def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida, api_key, k):
     gmaps = googlemaps.Client(key=api_key)
     with open(arquivo_saida, 'w', encoding='utf-8') as file:
         # Escreve as coordenadas no arquivo
         file.write(','.join(map(str, coordenadas)) + '\n')
 
         # Escolhe aleatoriamente os tipos de estabelecimentos
-        tipos_escolhidos = random.sample(tipos_de_estabelecimentos, k=2)
+        tipos_escolhidos = random.sample(tipos_de_estabelecimentos, k)
         # Escreve os tipos de estabelecimentos no arquivo
         file.write(','.join(tipos_escolhidos) + '\n')
 
