@@ -2,7 +2,8 @@ from funcoes_auxiliares import *
 from criar_grafo import *
 
 
-def hierholzer_modificado(grafo, num_locais=5):
+def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
+    #print('entrei aqui')
     # Verifica se o grafo está vazio
     if len(grafo.nodes) == 0:
         raise ValueError("Nenhum local mapeado")
@@ -10,6 +11,7 @@ def hierholzer_modificado(grafo, num_locais=5):
     # Encontra o vértice com o maior 'score_final'
     vertice_inicial = max(grafo.nodes, key=lambda x: grafo.nodes[x]['score_final'])
     locais = []
+    tipos_restantes = set(lista_tipos_pedido)
 
     # Se o número de locais desejado for menor que o número total de nós no grafo,
     # continua adicionando nós ao caminho até que todos os nós sejam visitados
@@ -24,11 +26,21 @@ def hierholzer_modificado(grafo, num_locais=5):
 
             while True:
                 for vizinho in grafo.neighbors(vertice_atual):
-                    if grafo.nodes[vizinho]['score_final'] > aux and vizinho not in locais:
-                        locais.append(vizinho)
-                        vertice_atual = vizinho
-                        print('vizinho add')
-                        break
+                    vizinho_tipos = set(grafo.nodes[vizinho].get('tipos', []))
+                    if grafo.nodes[vizinho].get('score_final', 0) > aux and vizinho not in locais:
+                        if len(tipos_restantes) <= 0:
+                            locais.append(vizinho)
+                            vertice_atual = vizinho
+                            #print('vizinho add sem tipo')
+                            break
+                        elif vizinho_tipos.intersection(tipos_restantes):
+                            locais.append(vizinho)
+                            vertice_atual = vizinho
+                            #print('vizinho add com tipo')
+                            # Remove tipos encontrados dos tipos restantes
+                            #print(tipos_restantes)
+                            tipos_restantes -= vizinho_tipos.intersection(tipos_restantes)
+                            break
                 
                 aux -= 0.1
 

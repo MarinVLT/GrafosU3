@@ -63,15 +63,15 @@ def salvar_grafo_em_txt(grafo, arquivo):
 
 # Para testar
 # Criar o grafo
-load_dotenv()
-api_key = os.getenv('API_KEY')
-raio = os.getenv('RAIO')
-arq_usuario = os.getenv('ARQ_USUARIO')
-arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
-arq_grafo = os.getenv('ARQ_GRAFO')
+#load_dotenv()
+#api_key = os.getenv('API_KEY')
+#raio = os.getenv('RAIO')
+#arq_usuario = os.getenv('ARQ_USUARIO')
+#arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
+#arq_grafo = os.getenv('ARQ_GRAFO')
 
-locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
-grafo = criar_grafo_euleriano(locais_encontrados)
+#locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
+#grafo = criar_grafo_euleriano(locais_encontrados)
 
 # Salvar o grafo em um arquivo de texto
-salvar_grafo_em_txt(grafo, arq_grafo)
+#salvar_grafo_em_txt(grafo, arq_grafo)

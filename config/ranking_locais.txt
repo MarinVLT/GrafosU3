@@ -1,7 +1,7 @@
 
 Ranking:
-1: Anderson Bolos - Rua São Miguel dos Milagres, 7 - Conjunto Jiqui, Bairro Neopolis - Neópolis, Natal - RN, 59086-270, Brazil (ChIJEYjvK1T_sgcRumbDIVacvp0) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.4091761380990695)
-2: Ki-Bread Premium - Pirangi - Loja 04 - Conjunto Pirangi Primeira Etapa - Av. das Alagoas, 4950 - Neópolis, Natal - RN, 59084-200, Brazil (ChIJ-eA7xU7_sgcRSMW0UWfKy2I) (['bakery', 'restaurant', 'store', 'point_of_interest', 'food', 'establishment'])(5.005322916984202)
-3: Pastelanche - R. Divinópolis, 2932 - Neópolis, Natal - RN, 59088-300, Brazil (ChIJv8vVHE7_sgcRexTTJO_egvU) (['meal_takeaway', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.832914604980535)
-4: Sabor de Pão - R. Carmo de Minas, 3028 - Neópolis, Natal - RN, 59088-270, Brazil (ChIJoe5qm03_sgcRLXrtoER3k8Y) (['bakery', 'supermarket', 'grocery_or_supermarket', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.872055570868014)
-5: Panificadora Sanvalle - Av. das Alagoas, 1216 - Neópolis, Natal - RN, 59088-100, Brazil (ChIJaXUuvFr_sgcRt-jmzeQ2Yvw) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.012378733341106)
+1: ARTMAYK STORE - R. Raimundo de França, 31 - Quintas, Natal - RN, 59035-160, Brazil (ChIJiey8uE-rswcR5kBA-FmMpw8) (['clothing_store', 'point_of_interest', 'store', 'establishment'])(6.025741850663243)
+2: Max Acessórios e Bijouterias - R. Dr. Mario Negócio, 2005 - Quintas, Natal - RN, 59040-480, Brazil (ChIJZWeP9rf9RkER5LEKtc7d7_c) (['jewelry_store', 'clothing_store', 'point_of_interest', 'store', 'establishment'])(5.839781093341523)
+3: Bar da Língua - Av. Nevaldo Rocha, 118 - Quintas, Natal - RN, 59051-000, Brazil (ChIJh3hLiMqqswcRAs1ZiiFqm9Q) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.812348740147819)
+4: Mr Burguer (Hugo Lanches) - R. São Geraldo, 167 - Quintas, Natal - RN, 59035-260, Brazil (ChIJSVE8vLOqswcRKrmPDwDA04s) (['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.007030420961584)
+5: Machado Cafeteria & Buffet - Rua Compositor José Luiz, 764 - Quintas, Natal - RN, 59035-010, Brazil (ChIJZw8HDMqqswcR7hrgzYTIyWo) (['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.171498474296231)

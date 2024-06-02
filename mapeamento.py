@@ -115,19 +115,19 @@ def salvar_locais_mapeados(arquivo, locais_mapeados):
 
 
 # Atribuir as configurações do .env a uma variável
-load_dotenv()
-api_key = os.getenv('API_KEY')
-raio = os.getenv('RAIO')
-arq_usuario = os.getenv('ARQ_USUARIO')
-arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
-arq_grafo = os.getenv('ARQ_GRAFO')
+#load_dotenv()
+#api_key = os.getenv('API_KEY')
+#raio = os.getenv('RAIO')
+#arq_usuario = os.getenv('ARQ_USUARIO')
+#arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
+#arq_grafo = os.getenv('ARQ_GRAFO')
 
 # Ler as informações do usuário do arquivo de texto
-coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
+#coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
 
-locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
+#locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
 
 # Salvar os locais mapeados em um arquivo de texto
-salvar_locais_mapeados(arq_locais_map, locais_encontrados)
+#salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 
 
