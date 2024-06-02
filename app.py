@@ -41,7 +41,7 @@ def places_location():
     locais = hierholzer_modificado(grafo)
     salvar_ranking_em_txt(grafo, locais, arq_ranking)
 
-    return jsonify(locais_encontrados)
+    return jsonify(locais)
 
 if __name__ == '__main__':
     app.run(debug=True)

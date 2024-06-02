@@ -1,7 +1,7 @@
 
 Ranking:
-1: PEP - UFRN Programa de Pós-graduação em Engenharia de Produção - R. das Engenharias - Lagoa Nova, Natal - RN, 59108, Brazil (ChIJ97RKcXb_sgcRfkTXxcDpy60) (['university', 'point_of_interest', 'establishment'])(5.546162462563611)
-2: Galeria Conviv'Art - NAC (UFRN) - Rua da Convivência - prédio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil (ChIJ8VdzS5z_sgcRgOWt4hN_508) (['art_gallery', 'point_of_interest', 'establishment'])(6.0489930707409485)
-3: Rectory of UFRN - Av. Sen. Salgado Filho, 3000 - Lagoa Nova, Natal - RN, 59066-800, Brazil (ChIJOTlTDZ3_sgcR1d8j2LI-6HQ) (['university', 'point_of_interest', 'establishment'])(5.446813704498371)
-4: Departamento de Bioquímica - Centro de Biociências UFRN - Lagoa Nova, Natal - RN, 59077, Brazil (ChIJu6ud0Hf_sgcRSoOM-hcrZ80) (['university', 'point_of_interest', 'establishment'])(5.246058260337914)
-5: DEPARTAMENTO DE PSICOLOGIA - Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil (ChIJtRE_1p3_sgcRRZHVgH1Kz9k) (['university', 'point_of_interest', 'establishment'])(5.749352111268854)
+1: Boteco Pai DÃ©gua - Bar - R. Jaguarari, 2081 - Lagoa Nova, Natal - RN, 59054-500, Brazil (ChIJseWt0F5VsgcR8L8SCUDIM6A) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.191763955487094)
+2: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'pet_store', 'veterinary_care', 'bar', 'clothing_store', 'store', 'point_of_interest', 'establishment'])(5.257205706035855)
+3: Espetaria do Bezerra - R. Cel. Norton Chaves, 03 - Lagoa Nova, Natal - RN, 59075-200, Brazil (ChIJjcu_SH9VsgcRx59Tr8MzMYE) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.991378893580429)
+4: A Confraria 084 Gastrobar - Lagoa Nova - Av. Amintas Barros, 3331 - Lagoa Nova, Natal - RN, 59075-700, Brazil (ChIJ619olFf_sgcRF9GjinmR-oM) (['bar', 'point_of_interest', 'establishment'])(5.439329538954794)
+5: Petisqueria Natal - Petiscos e Buffet - Rua SÃ©rgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil (ChIJ1_A-nnL_sgcRwfSTehakkW8) (['meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.440054333918328)

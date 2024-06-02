@@ -35,11 +35,31 @@ def hierholzer_modificado(grafo, num_locais=5):
 
                 if vertice_atual == vertice_inicial and len(locais) >= num_locais:
                     # Se voltamos para o ponto inicial e o número de locais é suficiente, saia do loop e retorne os locais
-                    return locais
+                     return [{
+                        'place_id': local,
+                        'avaliacao_geral': grafo.nodes[local].get('avaliacao_geral'),
+                        'coordenadas': grafo.nodes[local].get('coordenadas'),
+                        'endereco': grafo.nodes[local].get('endereco'),
+                        'latitude': grafo.nodes[local].get('latitude'),
+                        'longitude': grafo.nodes[local].get('longitude'),
+                        'nome': grafo.nodes[local].get('nome'),
+                        'score_final': grafo.nodes[local].get('score_final'),
+                        'tipos': grafo.nodes[local].get('tipos')
+                    } for local in locais]
                 
                 if  len(locais) >= num_locais:
                     # Se o número de locais é suficiente, saia do loop e retorne os locais
-                    return locais
+                    return [{
+                        'place_id': local,
+                        'avaliacao_geral': grafo.nodes[local].get('avaliacao_geral'),
+                        'coordenadas': grafo.nodes[local].get('coordenadas'),
+                        'endereco': grafo.nodes[local].get('endereco'),
+                        'latitude': grafo.nodes[local].get('latitude'),
+                        'longitude': grafo.nodes[local].get('longitude'),
+                        'nome': grafo.nodes[local].get('nome'),
+                        'score_final': grafo.nodes[local].get('score_final'),
+                        'tipos': grafo.nodes[local].get('tipos')
+                    } for local in locais]
 
 
                 if vertice_atual == vertice_inicial:
@@ -50,10 +70,21 @@ def hierholzer_modificado(grafo, num_locais=5):
     if len(locais) <= 0:
         raise ValueError("Nenhum local listado")
 
-    return locais
+    #return locais
+    return [{
+        'place_id': local,
+        'avaliacao_geral': grafo.nodes[local].get('avaliacao_geral'),
+        'coordenadas': grafo.nodes[local].get('coordenadas'),
+        'endereco': grafo.nodes[local].get('endereco'),
+        'latitude': grafo.nodes[local].get('latitude'),
+        'longitude': grafo.nodes[local].get('longitude'),
+        'nome': grafo.nodes[local].get('nome'),
+        'score_final': grafo.nodes[local].get('score_final'),
+        'tipos': grafo.nodes[local].get('tipos')
+    } for local in locais]
 
 
-def salvar_ranking_em_txt(grafo, caminho, arquivo):
+def salvar_ranking_em_txt(grafo, locais, arquivo):
     if not grafo.nodes:
         with open(arquivo, 'w') as file:
             file.write(f"Nenhum local mapeado!")
@@ -61,9 +92,10 @@ def salvar_ranking_em_txt(grafo, caminho, arquivo):
     else:
         with open(arquivo, 'w') as f:
             f.write("\nRanking:\n")
-            for i, vertice in enumerate(caminho, 1):
-                f.write(f"{i}: {grafo.nodes[vertice]['nome']} - {grafo.nodes[vertice]['endereco']} ({vertice}) ({grafo.nodes[vertice]['tipos']})({grafo.nodes[vertice]['score_final']})\n")
+            for i, local in enumerate(locais, 1):
+                f.write(f"{i}: {local['nome']} - {local['endereco']} ({local['place_id']}) ({local['tipos']})({local['score_final']})\n")
         print("Ranking salvo!")
+
 
 #arq_ranking = os.getenv('ARQ_RANKING')
 

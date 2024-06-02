@@ -4,14 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-googlemaps = "*"
-python-dotenv = "*"
-flask = "*"
-folium = "*"
-networkx = "*"
-
-[dev-packages]
-pylint = "*"
+googlemaps = "4.10.0"
+python-dotenv = "1.0.1"
+flask = "3.0.3"
+folium = "0.16.0"
+networkx = "3.3"
 
 [requires]
 python_version = "3.12"

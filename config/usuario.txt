@@ -1,3 +1,6 @@
--5.839739304611726,-35.198513006020164
-art_gallery,university
-Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
+-5.819609368389324,-35.21107920693018
+bar,bakery
+Caves Priorato - Wine Shop,liquor_store,meal_delivery,bar,point_of_interest,food,store,establishment,5
+THE KING Petiscaria,bar,point_of_interest,establishment,-1
+Jolie Cafe Patisserie,bakery,point_of_interest,food,store,establishment,5
+Bar do Joao,bar,point_of_interest,establishment,4.5

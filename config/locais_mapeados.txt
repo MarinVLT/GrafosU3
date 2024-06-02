@@ -1,126 +1,240 @@
-Galeria Conviv'Art - NAC (UFRN)
-Rua da ConvivÍncia - prÈdio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil
-art_gallery,point_of_interest,establishment
-4.8
-6.0489930707409485
-
-PEP - UFRN Programa de PÛs-graduaÁ„o em Engenharia de ProduÁ„o
-R. das Engenharias - Lagoa Nova, Natal - RN, 59108, Brazil
-university,point_of_interest,establishment
-4.8
-5.546162462563611
-
-Rectory of UFRN
-Av. Sen. Salgado Filho, 3000 - Lagoa Nova, Natal - RN, 59066-800, Brazil
-university,point_of_interest,establishment
-4.7
-5.446813704498371
-
-Departamento de BioquÌmica
-Centro de BiociÍncias UFRN - Lagoa Nova, Natal - RN, 59077, Brazil
-university,point_of_interest,establishment
+Boteco Pai D√©gua - Bar
+R. Jaguarari, 2081 - Lagoa Nova, Natal - RN, 59054-500, Brazil
+bar,restaurant,food,point_of_interest,establishment
 4.5
-5.246058260337914
+5.191763955487094
 
-DEPARTAMENTO DE PSICOLOGIA
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
-5
-5.749352111268854
+Zoopet Natal Pet Shop
+Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil
+night_club,pet_store,veterinary_care,bar,clothing_store,store,point_of_interest,establishment
+4.8
+5.257205706035855
 
-Department of Graduate in Psychology PPgPsi
-Sala - Anel Vi·rio da UFRN, 121 - Centro de CiÍncias Humanas, Letras e Artes - Lagoa Nova, Natal - RN, 59075-000, Brazil
-university,point_of_interest,establishment
-5
-5.749606231900431
-
-Instituto ¡gora, UFRN
-R. do ¡gora - Lagoa Nova, Natal - RN, 59078-970, Brazil
-university,point_of_interest,establishment
-4.9
-5.6491723611472535
-
-IPP - Instituto de PolÌticas P˙blicas / UFRN
-R. das Humanidades - Lagoa Nova, Natal - RN, 59108, Brazil
-university,point_of_interest,establishment
-4.6
-5.349043621555874
-
-Programa de PÛs-GraduaÁ„o em Demografia - UFRN
-CCET - Lagoa Nova, Natal - RN, 59108, Brazil
-university,point_of_interest,establishment
-5
-5.748971863951828
-
-N˙cleo TecnolÛgico em CimentaÁ„o de PoÁos de PetrÛleo
-Av. Sen. Salgado Filho, 3000 - Lagoa Nova, Natal - RN, 59072-970, Brazil
-university,point_of_interest,establishment
-4.9
-5.64864067452566
-
-Setor II - CCHLA/UFRN
-R. das Humanidades, s/n - Lagoa Nova, Natal - RN, 59108, Brazil
-university,point_of_interest,establishment
+Espetaria do Bezerra
+R. Cel. Norton Chaves, 03 - Lagoa Nova, Natal - RN, 59075-200, Brazil
+restaurant,bar,food,point_of_interest,establishment
 4.3
-5.048504738776516
+4.991378893580429
 
-DEPARTAMENTO DE PATOLOGIA - UFRN
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
-N/A
-0.7482866559495915
-
-DEPARTAMENTO DE ORTOPEDIA E TRAUMATOLOGIA / UFRN
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
-N/A
-0.7482866559495915
-
-DiretÛrio Central dos Estudantes - DCE
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
-3
-3.7482943953897183
-
-PPEUR - Programa de PÛs-GraduaÁ„o em Estudos Urbanos e Regionais
-R. das Humanidades - Lagoa Nova, Natal - RN, 59075-000, Brazil
-university,point_of_interest,establishment
-5
-5.748199811811208
-
-Departamento de ServiÁo Social
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
-5
-5.748192895388265
-
-DEPARTAMENTO DE TURISMO
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-travel_agency,university,point_of_interest,establishment
+A Confraria 084 Gastrobar - Lagoa Nova
+Av. Amintas Barros, 3331 - Lagoa Nova, Natal - RN, 59075-700, Brazil
+bar,point_of_interest,establishment
 4.5
-5.0981587008442295
+5.439329538954794
 
-DEPARTAMENTO DE CI NCIAS CONT¡BEIS - DCC/CCSA - UFRN
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
+JM Bar
+R. Francisco Ferreira de Lima, 303 - Lagoa Nova, Natal - RN, 59075-800, Brazil
+bar,point_of_interest,establishment
+N/A
+0.9384533780639767
+
+Bar da Tania
+Rua Tabeli√£o Manoel Proc√≥pio, 13 - Lagoa Nova, Natal - RN, 59060-630, Brazil
+bar,point_of_interest,establishment
+N/A
+0.9380926869825574
+
+Petisqueria Natal - Petiscos e Buffet
+Rua S√©rgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil
+meal_delivery,bar,restaurant,food,point_of_interest,establishment
+4.8
+5.440054333918328
+
+Belle de Jour Gastrobar
+Av. Nascimento de Castro, 1826 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bar,restaurant,food,point_of_interest,establishment
 4.2
-4.94815870084423
+4.895134068135397
 
-LARHISA - LaboratÛrio de Recursos HÌdricos e Saneamento Ambiental da UFRN
-Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
-university,point_of_interest,establishment
-4.5
-5.247349885651888
+Adriana Oliver Studio Hair | Sal√£o de Beleza em Natal
+Galeria Moniz - R. S√£o Jos√©, 1949 - Lagoa Nova, Natal - RN, 59063-150, Brazil
+beauty_salon,night_club,bar,health,point_of_interest,store,establishment
+5
+5.518716755167156
 
-PPgEEC - Programa de PÛs-graduaÁ„o em Engenharia ElÈtrica
-R. da Tecnologia - Lagoa Nova, Natal - RN, 59108, Brazil
-university,point_of_interest,establishment
+Nayra Brainer Consultora de Beleza
+Rua Marise Bastier, 420 - Lagoa Nova, Natal - RN, 59076-000, Brazil
+night_club,bar,point_of_interest,establishment
+4.6
+5.335989725144437
+
+La Peluquer√≠a √çtalo Moss
+Rua Marise Bastier, 1470 - Lagoa Nova, Natal - RN, 59075-070, Brazil
+night_club,bar,point_of_interest,establishment
+4.6
+5.335916182520517
+
+Cigarreira Mig's
+R. Dep. Marc√≠lio Furtado - Lagoa Nova, Natal - RN, 59063-360, Brazil
+bar,point_of_interest,establishment
 N/A
-0.7470511104601888
+0.9361277420543314
 
-Cram DCE UFRN
-Centro de Tecnologia - R. da Tecnologia - Lagoa Nova, Natal - RN, 59078-900, Brazil
-university,point_of_interest,establishment
+Bar da Asa
+Av. Nascimento de Castro - Dix-Sept Rosado, Natal - RN, 59054-630, Brazil
+bar,point_of_interest,establishment
+4.5
+5.435958854479013
+
+Bar do Joao
+Rua Alu√≠zio Bezerra, 1202A - Lagoa Nova, Natal - RN, 59056-170, Brazil
+bar,point_of_interest,establishment
+4.5
+5.435591968317283
+
+Sangalo Bar & Petiscaria
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59075-090, Brazil
+bar,point_of_interest,establishment
+5
+5.935045251269989
+
+Carne Assada do Picu√≠ | Restaurante
+Av. Ant√¥nio Bas√≠lio, 3106 - Lagoa Nova, Natal - RN, 59056-015, Brazil
+restaurant,bar,food,point_of_interest,establishment
+5
+5.693080498728944
+
+THE KING Petiscaria
+Av. Ant√¥nio Bas√≠lio, 3270 - Lagoa Nova, Natal - RN, 59056-005, Brazil
+bar,point_of_interest,establishment
+N/A
+0.9346631301172345
+
+Bafaf√° Bar
+Pra√ßa Dr. Amaro Marinho, 07 - Lagoa Nova, Natal - RN, 59056-580, Brazil
+bar,point_of_interest,establishment
+4
+4.9344600890576755
+
+Caves Priorato - Wine Shop
+Av. Nascimento de Castro, 1677 - celular (84)9.9604-0071 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+liquor_store,meal_delivery,bar,store,point_of_interest,food,establishment
+5
+5.708258938549361
+
+Self-Service e Bar do Careca
+R. Contador Manoel Raimundo de √Åguiar, 5111 - Lagoa Nova, Natal - RN, 59056-020, Brazil
+bar,point_of_interest,establishment
+4.7
+5.634190787532011
+
+Mercatto
+Av. Nascimento de Castro, 1890 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bakery,store,restaurant,food,point_of_interest,establishment
 4.4
-5.147037728342684
+5.0026739688232
+
+Engenho Doce
+Av. Nascimento de Castro, 2025 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bakery,store,food,point_of_interest,establishment
+4.5
+5.201981954469424
+
+O PADEIRO
+Av. Amintas Barros, 2570 - Lagoa Nova, Natal - RN, 59062-350, Brazil
+bakery,store,food,point_of_interest,establishment
+4.7
+5.400709573239737
+
+Pretinha Bolos
+Av. Ant√¥nio Bas√≠lio, 2404 - Lagoa Nova, Natal - RN, 59056-385, Brazil
+bakery,store,food,point_of_interest,establishment
+4.4
+5.100334045334894
+
+Time Bread
+Av. Romualdo Galv√£o, 1454 - Lagoa Nova, Natal - RN, 59056-100, Brazil
+bakery,store,restaurant,food,point_of_interest,establishment
+4.5
+5.101403658364569
+
+Daguia Tortas Finas
+Av. Ant√¥nio Bas√≠lio, 3025 - Lagoa Nova, Natal - RN, 59056-500, Brazil
+cafe,bakery,store,food,point_of_interest,establishment
+4.5
+5.099215967254018
+
+COM A√áUCAR E AFETO
+AVENIDA AMINTAS BARROS 3700 TORRE B - Sala 2507 - Lagoa Nova, Natal - RN, 59075-810, Brazil
+bakery,food,point_of_interest,store,establishment
+N/A
+0.7068775112777379
+
+Divina Boleria
+Av. Nascimento de Castro, 1795 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+5.705361786878226
+
+The Cake & Co By Camila Melo
+Av. Miguel Castro, 660 - Lagoa Nova, Natal - RN, 59075-745, Brazil
+bakery,store,point_of_interest,food,establishment
+4.7
+5.405134847947245
+
+Dedo de Mo√ßa Express
+Av. Romualdo Galv√£o, 1834 - Loja 11 - Lagoa Nova, Natal - RN, 59056-205, Brazil
+bakery,store,point_of_interest,food,establishment
+5
+5.704451952563897
+
+Xod√≥ Cake Confeitaria
+Av. Prudente de Morais, 4620 - Lagoa Nova, Natal - RN, 59063-200, Brazil
+bakery,food,point_of_interest,store,establishment
+4.8
+5.504191253937967
+
+Lagoa nova
+R. Morais Navarro - Lagoa Nova, Natal - RN, 59075-770, Brazil
+bakery,store,food,point_of_interest,establishment
+5
+5.703816174262799
+
+Imperial Honey
+Av. Romualdo Galv√£o, 2821 - Lagoa Nova, Natal - RN, 59075-750, Brazil
+bakery,store,food,point_of_interest,establishment
+3
+3.7035953522026466
+
+Delic√≠as do Trigo
+Av. Amintas Barros, 2878 - Lagoa Nova, Natal - RN, 59063-350, Brazil
+bakery,store,food,point_of_interest,establishment
+4.5
+5.203463210378368
+
+P√£o & Companhia
+R. S√£o Jos√©, 2182 - Lagoa Nova, Natal - RN, 59063-150, Brazil
+bakery,store,food,point_of_interest,establishment
+4.4
+5.1029057485484355
+
+Jolie Cafe Patisserie
+R. S√£o Jos√©, 2184 - Lagoa Nova, Natal - RN, 59054-630, Brazil
+bakery,food,point_of_interest,store,establishment
+5
+5.702786520116816
+
+Caroli Douces
+R. Almeida Barreto, 442 - Lagoa Nova, Natal - RN, 59056-310, Brazil
+bakery,store,point_of_interest,food,establishment
+4.4
+5.102738665325093
+
+Bolo Gostoso
+Av. Amintas Barros, 2786 - Lagoa Nova, Natal - RN, 59054-830, Brazil
+bakery,restaurant,store,point_of_interest,food,establishment
+4.3
+4.899438415795218
+
+Debora Sanders
+Av. Ant√¥nio Bas√≠lio, 2961 - Lagoa Nova, Natal - RN, 59056-500, Brazil
+bakery,store,point_of_interest,food,establishment
+N/A
+0.70235701524822
+
+Panificadora Bandeirantes
+Rua Padre Champagnat, 250 - Lagoa Nova, Natal - RN, 59054-840, Brazil
+bakery,restaurant,food,point_of_interest,store,establishment
+4.5
+5.098456795810725
 
