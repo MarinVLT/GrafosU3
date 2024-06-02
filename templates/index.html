@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mapa Folium com Formulário</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>Sugira!</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -25,145 +26,225 @@
     </style>
 </head>
 <body>
+
     <div class="container-fluid row">
         <div id="map">
             {% include 'mapa.html' %}
         </div>
         <div id="form-container">
-            <h2>Selecione os tipos de estabelecimento:</h2>
-     <form method="POST">
-            <div class="accordion" id="accordionExample">
-                <div class="card">
-                    <div class="card-header" id="headingTwo">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                Tipos de comida e bebida
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                        <div class="card-body">
-                            {% for item in ['bakery', 'bar', 'cafe', 'meal_delivery', 'meal_takeaway', 'restaurant'] %}
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
-                                <label class="form-check-label" for="{{ item }}">
-                                    {{ item.replace('_', ' ').title() }}
-                                </label>
+            <h2>Selecione os Tipos de Estabelecimento:</h2>
+            <form  id="places-location" method="POST">
+                <div class="form-group col-md-6">
+                  <label for="inputLatitude">Latitude</label>
+                  <input type="text" class="form-control" id="inputLatitude" placeholder="Digite a latitude">
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="inputLongitude">Longitude</label>
+                  <input type="text" class="form-control" id="inputLongitude" placeholder="Digite a longitude">
+                </div>
+                <div class="accordion" id="accordionCategories">
+                    <div class="card">
+                        <div class="card-header" id="headingTwo">
+                            <h2 class="mb-0">
+                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    🍔 Tipos de comida e bebida
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCategories">
+                            <div class="card-body">
+                                {% for item in ['bakery', 'bar', 'cafe', 'meal_delivery', 'meal_takeaway', 'restaurant'] %}
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
+                                    <label class="form-check-label" for="{{ item }}">
+                                        {{ item.replace('_', ' ').title() }}
+                                    </label>
+                                </div>
+                                {% endfor %}
                             </div>
-                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingThree">
+                            <h2 class="mb-0">
+                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    💰 Compras e serviços
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCategories">
+                            <div class="card-body">
+                                {% for item in ['clothing_store', 'convenience_store', 'department_store', 'electronics_store', 'furniture_store', 'hardware_store', 'home_goods_store', 'jewelry_store', 'liquor_store', 'pet_store', 'shoe_store', 'shopping_mall', 'store', 'supermarket'] %}
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
+                                    <label class="form-check-label" for="{{ item }}">
+                                        {{ item.replace('_', ' ').title() }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingFour">
+                            <h2 class="mb-0">
+                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    🚦 Infraestrutura e transporte
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionCategories">
+                            <div class="card-body">
+                                {% for item in ['airport', 'bus_station', 'car_rental', 'car_repair', 'car_wash', 'gas_station', 'light_rail_station', 'parking', 'subway_station', 'taxi_stand', 'train_station', 'transit_station'] %}
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
+                                    <label class="form-check-label" for="{{ item }}">
+                                        {{ item.replace('_', ' ').title() }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingFive">
+                            <h2 class="mb-0">
+                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    🚑 Saúde e serviços médicos
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionCategories">
+                            <div class="card-body">
+                                {% for item in ['dentist', 'doctor', 'hospital', 'pharmacy', 'physiotherapist', 'veterinary_care'] %}
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
+                                    <label class="form-check-label" for="{{ item }}">
+                                        {{ item.replace('_', ' ').title() }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingSix">
+                            <h2 class="mb-0">
+                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                    🧑‍🚒 Serviços públicos e locais de interesse
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionCategories">
+                            <div class="card-body">
+                                {% for item in ['atm', 'bank', 'church', 'city_hall', 'courthouse', 'embassy', 'fire_station', 'library', 'local_government_office', 'mosque', 'police', 'post_office', 'school', 'synagogue', 'university'] %}
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
+                                    <label class="form-check-label" for="{{ item }}">
+                                        {{ item.replace('_', ' ').title() }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="headingSeven">
+                            <h2 class="mb-0">
+                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                   🎥 Recreação e entretenimento
+                                </button>
+                            </h2>
+                        </div>
+                        <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionCategories">
+                            <div class="card-body">
+                                {% for item in ['amusement_park', 'aquarium', 'art_gallery', 'bowling_alley', 'casino', 'movie_theater', 'museum', 'night_club', 'park', 'spa', 'stadium', 'zoo'] %}
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
+                                    <label class="form-check-label" for="{{ item }}">
+                                        {{ item.replace('_', ' ').title() }}
+                                    </label>
+                                </div>
+                                {% endfor %}
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="card-header" id="headingThree">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                Compras e serviços
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                        <div class="card-body">
-                            {% for item in ['clothing_store', 'convenience_store', 'department_store', 'electronics_store', 'furniture_store', 'hardware_store', 'home_goods_store', 'jewelry_store', 'liquor_store', 'pet_store', 'shoe_store', 'shopping_mall', 'store', 'supermarket'] %}
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
-                                <label class="form-check-label" for="{{ item }}">
-                                    {{ item.replace('_', ' ').title() }}
-                                </label>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingFour">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                Infraestrutura e transporte
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
-                        <div class="card-body">
-                            {% for item in ['airport', 'bus_station', 'car_rental', 'car_repair', 'car_wash', 'gas_station', 'light_rail_station', 'parking', 'subway_station', 'taxi_stand', 'train_station', 'transit_station'] %}
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
-                                <label class="form-check-label" for="{{ item }}">
-                                    {{ item.replace('_', ' ').title() }}
-                                </label>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingFive">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Saúde e serviços médicos
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                        <div class="card-body">
-                            {% for item in ['dentist', 'doctor', 'hospital', 'pharmacy', 'physiotherapist', 'veterinary_care'] %}
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
-                                <label class="form-check-label" for="{{ item }}">
-                                    {{ item.replace('_', ' ').title() }}
-                                </label>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingSix">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                Serviços públicos e locais de interesse
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
-                        <div class="card-body">
-                            {% for item in ['atm', 'bank', 'church', 'city_hall', 'courthouse', 'embassy', 'fire_station', 'library', 'local_government_office', 'mosque', 'police', 'post_office', 'school', 'synagogue', 'university'] %}
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
-                                <label class="form-check-label" for="{{ item }}">
-                                    {{ item.replace('_', ' ').title() }}
-                                </label>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-header" id="headingSeven">
-                        <h2 class="mb-0">
-                            <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                Recreação e entretenimento
-                            </button>
-                        </h2>
-                    </div>
-                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
-                        <div class="card-body">
-                            {% for item in ['amusement_park', 'aquarium', 'art_gallery', 'bowling_alley', 'casino', 'movie_theater', 'museum', 'night_club', 'park', 'spa', 'stadium', 'zoo'] %}
-                            <div class="form-check">
-                                <input class="form-check-input" type="checkbox" id="{{ item }}" name="{{ item }}" value="{{ item }}">
-                                <label class="form-check-label" for="{{ item }}">
-                                    {{ item.replace('_', ' ').title() }}
-                                </label>
-                            </div>
-                            {% endfor %}
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <button type="submit" class="btn btn-primary mt-3">Enviar</button>
+                <button type="submit" class="btn btn-primary mt-3">Enviar</button>
         </form>
+        <div id="acordeonContainer" class="container mt-4"></div>
         </div>
     </div>
+
+        <script>
+        async function placesLocationRequest(lat, lng, locais) {
+             return await fetch('/places-location', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({latitude: lat, longitude: lng, locais: locais}),
+            })
+            .then(response => response.json());
+        }
+
+        //TODO: Ajustar o collapse da função
+        async function acordeonComLugaresRecomendados(listaLocais){
+            console.log(listaLocais)
+            // Construir o HTML dos acordeões
+            var acordeonsHTML = `<h2>Resultados:</h2>` + `<div class="accordion" id="accordionResult">`;
+
+            for (index in listaLocais) {
+                item = listaLocais[index]
+
+                acordeonsHTML += `<div class="card">
+                    <div class="card-header" id="heading${item}">
+                      <h5 class="mb-0">
+                        <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse${index}" aria-expanded="false" aria-controls="collapse${index}">
+                          ${item.nome}
+                        </button>
+                      </h5>
+                    </div>
+
+                    <div id="collapse${index}" class="collapse" aria-labelledby="heading${index}" data-parent="#accordionResult">
+                      <div class="card-body">
+                        <ul>
+                          <li>Avaliação Geral: ${item.avaliacao_geral}</li>
+                          <li>Endereço: ${item.endereco}</li>
+                          <li>Coordenadas: ${item.coordenadas}</li>
+                          <li>Score Final: ${item.score_final}</li>
+                          <li>Tipos: ${item.tipos.join(", ")}</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                `
+            };
+
+            acordeonsHTML += `</div>`
+          // Exibir o acordeão em um alerta
+           document.getElementById("acordeonContainer").innerHTML = acordeonsHTML;
+        }
+
+        document.getElementById("places-location").addEventListener("submit", async function(event) {
+            event.preventDefault(); // Impede o envio do formulário
+            var checkboxes = document.querySelectorAll('input[type=checkbox]:checked');
+            var itemsMarcados = [];
+
+            checkboxes.forEach(function(checkbox) {
+                itemsMarcados.push(checkbox.value);
+            });
+
+            var lat =  document.getElementById('inputLatitude').value;
+            var lng =  document.getElementById('inputLongitude').value;
+
+
+            listaLocais = await placesLocationRequest(lat, lng, itemsMarcados);
+            await acordeonComLugaresRecomendados(listaLocais);
+        });
+
+
+    </script>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

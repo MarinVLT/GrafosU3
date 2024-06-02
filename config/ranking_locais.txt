@@ -1,7 +1,7 @@
 
 Ranking:
-1: Pestana Rio AtlÃ¢ntica - Av. AtlÃ¢ntica, 2964 - Copacabana, Rio de Janeiro - RJ, 22070-000, Brazil (ChIJ8R_06UbVmwARDi2tMx9PJr4) (['gym', 'lodging', 'point_of_interest', 'health', 'establishment'])(5.036081251438397)
-2: Bodytech - Av. Nossa Sra. de Copacabana, 801 - Copacabana, Rio de Janeiro - RJ, 22031-000, Brazil (ChIJ3ZnYE0TVmwAR7FP2GEtG02A) (['gym', 'spa', 'health', 'point_of_interest', 'establishment'])(4.920565024477317)
-3: Balance Fitness - R. Xavier da Silveira, 23 - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil (ChIJk_G5xUDVmwARFcFLJcw8dBM) (['gym', 'health', 'point_of_interest', 'establishment'])(5.363429609058406)
-4: Ananda Yoga Space - Av. Nossa Sra. de Copacabana, 647/610 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil (ChIJiYlNaETVmwARk10Jla2S_TM) (['gym', 'health', 'point_of_interest', 'establishment'])(5.770791625775778)
-5: Movimento Pilates - Av. Nossa Sra. de Copacabana, 928/702 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil (ChIJ1bvZHETVmwARCpuDaRCcGTQ) (['gym', 'health', 'point_of_interest', 'establishment'])(5.770162702860504)
+1: PEP - UFRN Programa de Pós-graduação em Engenharia de Produção - R. das Engenharias - Lagoa Nova, Natal - RN, 59108, Brazil (ChIJ97RKcXb_sgcRfkTXxcDpy60) (['university', 'point_of_interest', 'establishment'])(5.546162462563611)
+2: Galeria Conviv'Art - NAC (UFRN) - Rua da Convivência - prédio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil (ChIJ8VdzS5z_sgcRgOWt4hN_508) (['art_gallery', 'point_of_interest', 'establishment'])(6.0489930707409485)
+3: Rectory of UFRN - Av. Sen. Salgado Filho, 3000 - Lagoa Nova, Natal - RN, 59066-800, Brazil (ChIJOTlTDZ3_sgcR1d8j2LI-6HQ) (['university', 'point_of_interest', 'establishment'])(5.446813704498371)
+4: Departamento de Bioquímica - Centro de Biociências UFRN - Lagoa Nova, Natal - RN, 59077, Brazil (ChIJu6ud0Hf_sgcRSoOM-hcrZ80) (['university', 'point_of_interest', 'establishment'])(5.246058260337914)
+5: DEPARTAMENTO DE PSICOLOGIA - Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil (ChIJtRE_1p3_sgcRRZHVgH1Kz9k) (['university', 'point_of_interest', 'establishment'])(5.749352111268854)

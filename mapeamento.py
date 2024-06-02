@@ -109,7 +109,7 @@ def salvar_locais_mapeados(arquivo, locais_mapeados):
             for local_id, local in locais_mapeados.items():
                 file.write(f"{local['nome']}\n{local['endereco']}\n{','.join(local['tipos'])}\n{local['avaliacao_geral'] 
                 if local['avaliacao_geral'] is not None else 'N/A'}\n{local['score_final']}\n\n")
-                print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
+            print("Locais mapeados foram salvos no arquivo 'locais_mapeados.txt'.")
 
 
 

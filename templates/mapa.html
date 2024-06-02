@@ -35,32 +35,33 @@
     
     
     <script>
-    function handleMapClick(e) {
-        var lat = e.latlng.lat;
-        var lng = e.latlng.lng;
-        fetch('/click_location', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-            },
-            body: JSON.stringify({latitude: lat, longitude: lng}),
-        })
-        .then(response => response.json())
-        .then(data => {
-            console.log('Success:', data);
-        })
-        .catch((error) => {
-            console.error('Error:', error);
-        });
-    }
+        function handleMapClick(e) {
+            add_marker(e);
+            remove_all_markers(e);
 
-    document.addEventListener('DOMContentLoaded', (event) => {
-        var map = window.map_649237d8d5ef95eaff5c077a37269016;  // Folium map object
-        map.on('click', handleMapClick);
-    });
+            document.getElementById('inputLatitude').value = e.latlng.lat;
+            document.getElementById('inputLongitude').value = e.latlng.lng;
+        }
+
+        function add_marker(e) {
+            var map = window.map_649237d8d5ef95eaff5c077a37269016;
+            L.marker(e.latlng).addTo(map);
+        }
+
+        function remove_all_markers(){
+             var markers = document.getElementsByClassName('leaflet-marker-icon');
+            for (var i = 0; i < markers.length - 1; i++) {
+                markers[i].remove();
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', (event) => {
+            var map = window.map_649237d8d5ef95eaff5c077a37269016;
+            map.on('click', handleMapClick);
+        });
+
     </script>
-    
-    
+
             <div class="folium-map" id="map_649237d8d5ef95eaff5c077a37269016" ></div>
         
 </body>
@@ -70,9 +71,9 @@
             var map_649237d8d5ef95eaff5c077a37269016 = L.map(
                 "map_649237d8d5ef95eaff5c077a37269016",
                 {
-                    center: [-15.794229, -47.882166],
+                    center: [-5.779257, -35.200916],
                     crs: L.CRS.EPSG3857,
-                    zoom: 4,
+                    zoom: 10,
                     zoomControl: true,
                     preferCanvas: false,
                 }

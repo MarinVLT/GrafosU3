@@ -21,16 +21,15 @@ arq_ranking = os.getenv('ARQ_RANKING')
 def index():
     return render_template('index.html')
 
-@app.route('/click_location', methods=['POST'])
-def click_location():
+@app.route('/places-location', methods=['POST'])
+def places_location():
     data = request.get_json()
     latitude = data['latitude']
     longitude = data['longitude']
-
     coordenadas = (latitude, longitude)
-    tipos_de_estabelecimentos_disponiveis = ['restaurant', 'cafe', 'bar', 'bakery', 'gym', 'movie_theater']
+    locais = data['locais']
 
-    gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos_disponiveis, arq_usuario, api_key)
+    gerar_usuario_txt(coordenadas, locais, arq_usuario, api_key)
 
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
     locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)

@@ -1,240 +1,126 @@
-Pestana Rio AtlÃ¢ntica
-Av. AtlÃ¢ntica, 2964 - Copacabana, Rio de Janeiro - RJ, 22070-000, Brazil
-gym,lodging,point_of_interest,health,establishment
-4.4
-5.036081251438397
+Galeria Conviv'Art - NAC (UFRN)
+Rua da Convivência - prédio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil
+art_gallery,point_of_interest,establishment
+4.8
+6.0489930707409485
 
-Bodytech
-Av. Nossa Sra. de Copacabana, 801 - Copacabana, Rio de Janeiro - RJ, 22031-000, Brazil
-gym,spa,health,point_of_interest,establishment
-4.2
-4.920565024477317
+PEP - UFRN Programa de Pós-graduação em Engenharia de Produção
+R. das Engenharias - Lagoa Nova, Natal - RN, 59108, Brazil
+university,point_of_interest,establishment
+4.8
+5.546162462563611
 
-Balance Fitness
-R. Xavier da Silveira, 23 - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil
-gym,health,point_of_interest,establishment
-4.6
-5.363429609058406
-
-Ananda Yoga Space
-Av. Nossa Sra. de Copacabana, 647/610 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
-gym,health,point_of_interest,establishment
-5
-5.770791625775778
-
-Movimento Pilates
-Av. Nossa Sra. de Copacabana, 928/702 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
-gym,health,point_of_interest,establishment
-5
-5.770162702860504
-
-Vestfalia Fisioterapia e Pilates
-Av. Nossa Sra. de Copacabana, 500 - sl 805 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
-gym,health,point_of_interest,establishment
-5
-5.768126354478883
-
-Grupo Senzala Mestre Itamar
-Olimpicos Clube - Rua Pompeu Loureiro, 116 - Copacabana, Rio de Janeiro - RJ, 22061-000, Brazil
-gym,health,point_of_interest,establishment
-5
-5.762181791812694
-
-DM Pilates
-R. Santa Clara, 257 - Copacabana, Rio de Janeiro - RJ, 22041-010, Brazil
-gym,health,point_of_interest,establishment
-5
-5.7658312362424935
-
-Samatva â€¢ Yoga
-Av. Nossa Sra. de Copacabana, 647 - 812, Rio de Janeiro - RJ, 22050-901, Brazil
-gym,point_of_interest,health,establishment
-5
-5.770791625775778
-
-Ananda Marga Yoga e MeditaÃ§Ã£o
-Av. Nossa Sra. de Copacabana, 610 - Apt. 819 - Copacabana, Rio de Janeiro - RJ, 22050-001, Brazil
-gym,health,point_of_interest,establishment
-3.7
-4.4707648630121
-
-EspaÃ§o SaÃºde Viviane Lopes
-Av. Nossa Sra. de Copacabana, 647 - Sl 315 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
-gym,health,point_of_interest,establishment
-5
-5.7706819218169585
-
-Academia Smart Fit - Nsa. Copacabana 690
-Av. Nossa Sra. de Copacabana, 690 - Copacabana, Rio de Janeiro - RJ, 22060-002, Brazil
-gym,health,point_of_interest,establishment
-4.4
-5.170263047069563
-
-Champion Factory Copacabana
-Rua Barata Ribeiro, 489 Cib - Copacabana, Rio de Janeiro - RJ, 22011-001, Brazil
-gym,point_of_interest,health,establishment
-5
-5.769718199378386
-
-GlÃ¼ck Pilates & Physical Therapy
-R. Santa Clara, 50 - 417/418 - Copacabana, Rio de Janeiro - RJ, 22041-012, Brazil
-gym,health,point_of_interest,establishment
-4.9
-5.669707772695938
-
-EspaÃ§o Fisiocopa
-R. Barata Ribeiro, 391 - 1001 - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
-gym,health,point_of_interest,establishment
-N/A
-0.7697173380256133
-
-Fernanda Vilela
-Rua Siqueira Campos, 30 / 204 - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil
-gym,health,point_of_interest,establishment
-N/A
-0.7695064362825361
-
-Smart Fit
-R. Barata Ribeiro, 502 - Copacabana, Rio de Janeiro - RJ, 22040-002, Brazil
-gym,point_of_interest,health,establishment
-4.2
-4.969259627256906
-
-Spazio Pilates
-Av. Nossa Sra. de Copacabana, 540 / 407 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
-gym,health,point_of_interest,establishment
-5
-5.769257017578331
-
-Academia GT e. Carlson Gracie Copacabana
-R. Barata Ribeiro, 370 - gr 307 - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
-gym,health,point_of_interest,establishment
+Rectory of UFRN
+Av. Sen. Salgado Filho, 3000 - Lagoa Nova, Natal - RN, 59066-800, Brazil
+university,point_of_interest,establishment
 4.7
-5.468961850508692
+5.446813704498371
 
-Evidence Pilates
-CondomÃ­nio Apart Hotel - R. Barata Ribeiro, 370 - Loja 228 - Copacabana, Rio de Janeiro - RJ, 22040-002, Brazil
-gym,point_of_interest,health,establishment
+Departamento de Bioquímica
+Centro de Biociências UFRN - Lagoa Nova, Natal - RN, 59077, Brazil
+university,point_of_interest,establishment
+4.5
+5.246058260337914
+
+DEPARTAMENTO DE PSICOLOGIA
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
 5
-5.768946861557351
+5.749352111268854
 
-Local Americanas
-Av. Nossa Sra. de Copacabana, 619 - Loja 2 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
-department_store,bakery,grocery_or_supermarket,liquor_store,food,point_of_interest,store,establishment
-3.9
-4.412632907242662
+Department of Graduate in Psychology PPgPsi
+Sala - Anel Viário da UFRN, 121 - Centro de Ciências Humanas, Letras e Artes - Lagoa Nova, Natal - RN, 59075-000, Brazil
+university,point_of_interest,establishment
+5
+5.749606231900431
 
-FÃ¡brica de Bolo VÃ³ Alzira
-Rua Figueiredo de MagalhÃ£es, 147 - Loja C - Copacabana, Rio de Janeiro - RJ, 22031-011, Brazil
-bakery,store,point_of_interest,food,establishment
-4
-4.706390413628311
+Instituto Ágora, UFRN
+R. do Ágora - Lagoa Nova, Natal - RN, 59078-970, Brazil
+university,point_of_interest,establishment
+4.9
+5.6491723611472535
 
-Casa do bolo
-R. Barata Ribeiro, 519 - Loja C - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
-bakery,store,point_of_interest,food,establishment
+IPP - Instituto de Políticas Públicas / UFRN
+R. das Humanidades - Lagoa Nova, Natal - RN, 59108, Brazil
+university,point_of_interest,establishment
 4.6
-5.304654026952668
+5.349043621555874
 
-Bela Cake
-R. Santa Clara, 122 - Copacabana, Rio de Janeiro - RJ, 22041-012, Brazil
-meal_takeaway,bakery,restaurant,food,point_of_interest,store,establishment
-4.5
-5.03177983301524
+Programa de Pós-Graduação em Demografia - UFRN
+CCET - Lagoa Nova, Natal - RN, 59108, Brazil
+university,point_of_interest,establishment
+5
+5.748971863951828
 
-PÃ£o de AÃ§Ãºcar
-Rua Siqueira Campos, 97 - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil
-supermarket,convenience_store,bakery,grocery_or_supermarket,store,point_of_interest,food,establishment
-4.2
-4.810533304662513
+Núcleo Tecnológico em Cimentação de Poços de Petróleo
+Av. Sen. Salgado Filho, 3000 - Lagoa Nova, Natal - RN, 59072-970, Brazil
+university,point_of_interest,establishment
+4.9
+5.64864067452566
 
-Bendito HilÃ¡rio de Gouveia
-CondomÃ­nio do EdifÃ­cio Pilar - R. HilÃ¡rio de Gouveia, 88 - Copacabana, Rio de Janeiro - RJ, 22040-020, Brazil
-bakery,cafe,food,point_of_interest,store,establishment
-4.5
-5.105154455176988
-
-PÃ£o de AÃ§Ãºcar
-Av. Nossa Sra. de Copacabana, 493 - Copacabana, Rio de Janeiro - RJ, 22050-002, Brazil
-supermarket,convenience_store,bakery,grocery_or_supermarket,store,food,point_of_interest,establishment
-4.2
-4.809669632770854
-
-Casa do Biscoito
-Av. Nossa Sra. de Copacabana, 776 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
-bakery,store,food,point_of_interest,establishment
+Setor II - CCHLA/UFRN
+R. das Humanidades, s/n - Lagoa Nova, Natal - RN, 59108, Brazil
+university,point_of_interest,establishment
 4.3
-5.003561619719961
+5.048504738776516
 
-FÃ¡brica de bolo vÃ³ alzira
-Rua Siqueira Campos, 143 - 58 - Copacabana, Rio de Janeiro - RJ, 22031-071, Brazil
-bakery,store,food,point_of_interest,establishment
-4.2
-4.902996944632014
+DEPARTAMENTO DE PATOLOGIA - UFRN
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
+N/A
+0.7482866559495915
 
-Torta e CafÃ©
-R. Barata Ribeiro, 318 - Loja A - Copacabana, Rio de Janeiro - RJ, 22040-001, Brazil
-cafe,bakery,store,restaurant,food,point_of_interest,establishment
-3.6
-4.130117425082444
+DEPARTAMENTO DE ORTOPEDIA E TRAUMATOLOGIA / UFRN
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
+N/A
+0.7482866559495915
 
-The Bakers
-R. Santa Clara, 86 - Loja B - Copacabana, Rio de Janeiro - RJ, 22041-010, Brazil
-bakery,cafe,meal_delivery,store,restaurant,food,point_of_interest,establishment
+Diretório Central dos Estudantes - DCE
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
+3
+3.7482943953897183
+
+PPEUR - Programa de Pós-Graduação em Estudos Urbanos e Regionais
+R. das Humanidades - Lagoa Nova, Natal - RN, 59075-000, Brazil
+university,point_of_interest,establishment
+5
+5.748199811811208
+
+Departamento de Serviço Social
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
+5
+5.748192895388265
+
+DEPARTAMENTO DE TURISMO
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+travel_agency,university,point_of_interest,establishment
 4.5
-4.974709573740397
+5.0981587008442295
 
-Padaria Santa Marta - Copacabana
-Av. Nossa Sra. de Copacabana, 898 - Copacabana, Rio de Janeiro - RJ, 22020-001, Brazil
-bakery,store,restaurant,food,point_of_interest,establishment
-4.1
-4.702093191431121
+DEPARTAMENTO DE CIÊNCIAS CONTÁBEIS - DCC/CCSA - UFRN
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
+4.2
+4.94815870084423
 
-PÃ£o de AÃ§Ãºcar
-Rua Pompeu Loureiro, 15 - Copacabana, Rio de Janeiro - RJ, 22061-000, Brazil
-supermarket,convenience_store,bakery,grocery_or_supermarket,food,point_of_interest,store,establishment
-4.1
-4.706264249900583
+LARHISA - Laboratório de Recursos Hídricos e Saneamento Ambiental da UFRN
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59108, Brazil
+university,point_of_interest,establishment
+4.5
+5.247349885651888
 
-Confeitaria Sulimar - (Copacabana)
-R. BolÃ­var, 92 - Copacabana, Rio de Janeiro - RJ, 22061-020, Brazil
-bakery,store,restaurant,food,point_of_interest,establishment
+PPgEEC - Programa de Pós-graduação em Engenharia Elétrica
+R. da Tecnologia - Lagoa Nova, Natal - RN, 59108, Brazil
+university,point_of_interest,establishment
+N/A
+0.7470511104601888
+
+Cram DCE UFRN
+Centro de Tecnologia - R. da Tecnologia - Lagoa Nova, Natal - RN, 59078-900, Brazil
+university,point_of_interest,establishment
 4.4
-5.000761867322678
-
-PÃ£o de AÃ§Ãºcar
-R. Barata Ribeiro, 189 - Lj A e B - Copacabana, Rio de Janeiro - RJ, 22011-002, Brazil
-supermarket,convenience_store,bakery,grocery_or_supermarket,store,food,point_of_interest,establishment
-3.9
-4.505412834671877
-
-CafÃ© Cardin
-R. Constante Ramos, 44 - Copacabana, Rio de Janeiro - RJ, 22051-012, Brazil
-bakery,cafe,food,point_of_interest,store,establishment
-4.3
-4.903467485892212
-
-Mania de Torta
-R. Xavier da Silveira, 45 - Loja B - Copacabana, Rio de Janeiro - RJ, 22061-010, Brazil
-bakery,store,food,point_of_interest,establishment
-4
-4.69862695980976
-
-PÃ£o & Companhia
-R. Rodolfo Dantas, 102 - Copacabana, Rio de Janeiro - RJ, 22020-040, Brazil
-bakery,cafe,store,restaurant,food,point_of_interest,establishment
-4.6
-5.125720606474426
-
-Confeitaria Marina
-R. Barata Ribeiro, 184 - Lojas A/B - Copacabana, Rio de Janeiro - RJ, 22011-002, Brazil
-bakery,store,food,point_of_interest,establishment
-4.1
-4.79750983585578
-
-Extra Mercado
-Rua Siqueira Campos, 143 - Copacabana, Rio de Janeiro - RJ, 22031-070, Brazil
-supermarket,convenience_store,bakery,grocery_or_supermarket,store,point_of_interest,food,establishment
-3.5
-4.108510711265195
+5.147037728342684
 
