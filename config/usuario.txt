@@ -2,6 +2,3 @@
 art_gallery
 Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
 Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
-Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
-Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
-Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8

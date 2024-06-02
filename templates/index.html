@@ -34,15 +34,23 @@
         <div id="form-container">
             <h2>Selecione os Tipos de Estabelecimento:</h2>
             <form  id="places-location" method="POST">
-                <div class="form-group col-md-6">
+                <div class="form-group col-md-4">
                   <label for="inputLatitude">Latitude</label>
                   <input type="text" class="form-control" id="inputLatitude" placeholder="Digite a latitude" value="-5.8418739320370285">
                 </div>
-                <div class="form-group col-md-6">
+                <div class="form-group col-md-4">
                   <label for="inputLongitude">Longitude</label>
                   <input type="text" class="form-control" id="inputLongitude" placeholder="Digite a longitude" value="-35.1976421667317">
                 </div>
-                <div class="accordion" id="accordionCategories">
+                <div class="form-group col-md-2">
+                  <label for="inputRaio">Raio (m)</label>
+                  <input type="number" class="form-control" id="inputRaio" placeholder="Digite o raio" value="1000">
+                </div>
+                <div class="form-group col-md-2">
+                  <label for="inputLocais">Locais</label>
+                  <input type="number" class="form-control" id="inputLocais" placeholder="Digite o raio" value="5">
+                </div>
+                <div class="accordion " id="accordionCategories">
                     <div class="card">
                         <div class="card-header" id="headingTwo">
                             <h2 class="mb-0">
@@ -177,13 +185,13 @@
     </div>
 
         <script>
-        async function placesLocationRequest(lat, lng, locais) {
+        async function placesLocationRequest(lat, lng, locais, raio, num_locais) {
              return await fetch('/places-location', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
-                body: JSON.stringify({latitude: lat, longitude: lng, locais: locais}),
+                body: JSON.stringify({latitude: lat, longitude: lng, locais: locais, raio: raio, num_locais: num_locais}),
             })
             .then(response => response.json());
         }
@@ -195,7 +203,6 @@
 
             for (index in listaLocais) {
                 item = listaLocais[index]
-
                 acordeonsHTML += `<div class="card">
                     <div class="card-header" style="background: #428bca" id="heading${item}">
                       <h5 class="mb-0">
@@ -236,9 +243,10 @@
 
             var lat =  document.getElementById('inputLatitude').value;
             var lng =  document.getElementById('inputLongitude').value;
+            var raio =  document.getElementById('inputRaio').value;
+            var num_locais =  document.getElementById('inputLocais').value;
 
-
-            listaLocais = await placesLocationRequest(lat, lng, itemsMarcados);
+            listaLocais = await placesLocationRequest(lat, lng, itemsMarcados, raio, num_locais);
             await acordeonComLugaresRecomendados(listaLocais);
         });
 

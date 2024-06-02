@@ -11,7 +11,6 @@ from hierholzer_modificado import *
 app = Flask(__name__)
 load_dotenv()
 api_key = os.getenv('API_KEY')
-raio = os.getenv('RAIO')
 arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
 arq_usuario = os.getenv('ARQ_USUARIO')
 arq_ranking = os.getenv('ARQ_RANKING')
@@ -26,9 +25,11 @@ def places_location():
     data = request.get_json()
     latitude = data['latitude']
     longitude = data['longitude']
-    coordenadas = (latitude, longitude)
     tipo_locais = data['locais']
+    raio = data['raio']
+    num_locais = int(data['num_locais'])
 
+    coordenadas = (latitude, longitude)
     gerar_usuario_txt(coordenadas, tipo_locais, arq_usuario, api_key, len(tipo_locais))
 
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
@@ -38,7 +39,7 @@ def places_location():
     grafo = criar_grafo_euleriano(locais_encontrados)
     salvar_grafo_em_txt(grafo, arq_grafo)
 
-    locais = hierholzer_modificado(grafo,5,tipo_locais)
+    locais = hierholzer_modificado(grafo,num_locais,tipo_locais)
     salvar_ranking_em_txt(grafo, locais, arq_ranking)
 
     return jsonify(locais)
