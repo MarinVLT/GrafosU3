@@ -1,3 +1,7 @@
--5.798197839234482,-35.2374029159546
-clothing_store,restaurant,home_goods_store,local_government_office,school,subway_station,spa,gas_station,car_wash,courthouse,amusement_park,city_hall,physiotherapist,taxi_stand,bank,museum,movie_theater,fire_station,hospital,night_club,church,doctor,pharmacy,hardware_store,aquarium,store,bakery,university,bus_station,supermarket,pet_store,atm,parking,police,car_rental,jewelry_store,convenience_store,car_repair,bowling_alley,casino,liquor_store,transit_station,shopping_mall,park,stadium,meal_takeaway,train_station,synagogue,shoe_store,cafe,furniture_store,department_store,airport,zoo,art_gallery,embassy,veterinary_care,light_rail_station,library,post_office,electronics_store,bar,meal_delivery,dentist,mosque
-Coliff Fardamentos,clothing_store,store,point_of_interest,establishment,5
+-5.8418739320370285,-35.1976421667317
+art_gallery
+Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
+Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
+Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
+Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
+Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8

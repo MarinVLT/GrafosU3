@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <title>Sugira!</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -36,17 +36,17 @@
             <form  id="places-location" method="POST">
                 <div class="form-group col-md-6">
                   <label for="inputLatitude">Latitude</label>
-                  <input type="text" class="form-control" id="inputLatitude" placeholder="Digite a latitude">
+                  <input type="text" class="form-control" id="inputLatitude" placeholder="Digite a latitude" value="-5.8418739320370285">
                 </div>
                 <div class="form-group col-md-6">
                   <label for="inputLongitude">Longitude</label>
-                  <input type="text" class="form-control" id="inputLongitude" placeholder="Digite a longitude">
+                  <input type="text" class="form-control" id="inputLongitude" placeholder="Digite a longitude" value="-35.1976421667317">
                 </div>
                 <div class="accordion" id="accordionCategories">
                     <div class="card">
                         <div class="card-header" id="headingTwo">
                             <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <button class="btn btn-block text-left collapsed font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     🍔 Tipos de comida e bebida
                                 </button>
                             </h2>
@@ -67,7 +67,7 @@
                     <div class="card">
                         <div class="card-header" id="headingThree">
                             <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <button class="btn btn-block text-left collapsed font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     💰 Compras e serviços
                                 </button>
                             </h2>
@@ -88,7 +88,7 @@
                     <div class="card">
                         <div class="card-header" id="headingFour">
                             <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                <button class="btn btn-block text-left collapsed font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                                     🚦 Infraestrutura e transporte
                                 </button>
                             </h2>
@@ -109,7 +109,7 @@
                     <div class="card">
                         <div class="card-header" id="headingFive">
                             <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                <button class="btn btn-block text-left collapsed font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     🚑 Saúde e serviços médicos
                                 </button>
                             </h2>
@@ -130,7 +130,7 @@
                     <div class="card">
                         <div class="card-header" id="headingSix">
                             <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                                <button class="btn btn-block text-left collapsed font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                                     🧑‍🚒 Serviços públicos e locais de interesse
                                 </button>
                             </h2>
@@ -151,7 +151,7 @@
                     <div class="card">
                         <div class="card-header" id="headingSeven">
                             <h2 class="mb-0">
-                                <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                                <button class="btn btn-block text-left collapsed font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
                                    🎥 Recreação e entretenimento
                                 </button>
                             </h2>
@@ -188,7 +188,6 @@
             .then(response => response.json());
         }
 
-        //TODO: Ajustar o collapse da função
         async function acordeonComLugaresRecomendados(listaLocais){
             console.log(listaLocais)
             // Construir o HTML dos acordeões
@@ -198,10 +197,10 @@
                 item = listaLocais[index]
 
                 acordeonsHTML += `<div class="card">
-                    <div class="card-header" id="heading${item}">
+                    <div class="card-header" style="background: #428bca" id="heading${item}">
                       <h5 class="mb-0">
-                        <button class="btn btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse${index}" aria-expanded="false" aria-controls="collapse${index}">
-                          ${item.nome}
+                        <button class="btn btn-block text-left font-weight-bold collapsed text-white" type="button" data-toggle="collapse" data-target="#collapse${index}" aria-expanded="false" aria-controls="collapse${index}">
+                          📌 ${item.nome}
                         </button>
                       </h5>
                     </div>

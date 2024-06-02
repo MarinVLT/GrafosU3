@@ -1,7 +1,3 @@
 
 Ranking:
-1: ARTMAYK STORE - R. Raimundo de França, 31 - Quintas, Natal - RN, 59035-160, Brazil (ChIJiey8uE-rswcR5kBA-FmMpw8) (['clothing_store', 'point_of_interest', 'store', 'establishment'])(6.025741850663243)
-2: Max Acessórios e Bijouterias - R. Dr. Mario Negócio, 2005 - Quintas, Natal - RN, 59040-480, Brazil (ChIJZWeP9rf9RkER5LEKtc7d7_c) (['jewelry_store', 'clothing_store', 'point_of_interest', 'store', 'establishment'])(5.839781093341523)
-3: Bar da Língua - Av. Nevaldo Rocha, 118 - Quintas, Natal - RN, 59051-000, Brazil (ChIJh3hLiMqqswcRAs1ZiiFqm9Q) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.812348740147819)
-4: Mr Burguer (Hugo Lanches) - R. São Geraldo, 167 - Quintas, Natal - RN, 59035-260, Brazil (ChIJSVE8vLOqswcRKrmPDwDA04s) (['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.007030420961584)
-5: Machado Cafeteria & Buffet - Rua Compositor José Luiz, 764 - Quintas, Natal - RN, 59035-010, Brazil (ChIJZw8HDMqqswcR7hrgzYTIyWo) (['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.171498474296231)
+1: Galeria Conviv'Art - NAC (UFRN) - Rua da Conviv�ncia - pr�dio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil (ChIJ8VdzS5z_sgcRgOWt4hN_508) (['art_gallery', 'point_of_interest', 'establishment'])(6.130235892692833)
