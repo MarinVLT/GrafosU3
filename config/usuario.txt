@@ -1,7 +1,6 @@
--5.639518198648713,-35.430145157856494
-bar,hospital
-Budega Véia,bar,point_of_interest,establishment,5
-Percílio,hospital,health,point_of_interest,establishment,0
-Dom Geandro Lanchonete E Bar,bar,point_of_interest,establishment,4.3
-UBS São Geraldo,hospital,health,point_of_interest,establishment,0
-DR2 Society,bar,point_of_interest,establishment,4.6
+-5.8045167799423005,-35.21367846789566
+bar,cafe
+Boteco do Capim,bar,point_of_interest,establishment,4.5
+Restaurante da Fátima,restaurant,food,bar,point_of_interest,establishment,4.3
+Canteiro do Patinho,bar,point_of_interest,establishment,0
+Espetinho do Preto,bar,restaurant,food,point_of_interest,establishment,4.2

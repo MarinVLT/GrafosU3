@@ -1,7 +1,7 @@
 
 Resultado:
-1: Espetinho Do Downloads - R. Ceara Mirim, 53, Ceará-Mirim - RN, 59570-000, Brazil (ChIJWWaTXOG7swcRa-2bAHKrsLM) (['bar', 'point_of_interest', 'establishment'])(6.032333826215374)
-2: Zeca Beer - R. Dr. Virgílio Bandeira, 37 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil (ChIJXduhEo-6swcRxVuiNzsTsAs) (['bar', 'point_of_interest', 'establishment'])(6.229952803063362)
-3: Casino Do Zé Maria - R. Ver. Rafael Fernandes Sobral, 723 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil (ChIJ_fwNL4S6swcR9S8oJ5qAFjE) (['bar', 'point_of_interest', 'establishment'])(6.22983852532837)
-4: Elione Bar - R. Cel. P. H. Pinheiro, Ceará-Mirim - RN, 59570-000, Brazil (ChIJ_xggvWe7swcRUg7qy29eCFE) (['bar', 'point_of_interest', 'establishment'])(6.22895653167164)
-5: Dom Geandro Lanchonete E Bar - R. Dr. Meira e Sá, 342, Ceará-Mirim - RN, 59570-000, Brazil (ChIJXSgRWo66swcRXMCQSuXtLHU) (['bar', 'point_of_interest', 'establishment'])(5.528384813370423)
+1: Bar e Mercearia do Eloi - Av. Pres. Bandeira, 784 - Alecrim, Natal - RN, 59030-200, Brazil (ChIJyZEQfKqqswcRBoU0o_eQnj0) (['bar', 'restaurant', 'point_of_interest', 'food', 'establishment'])(5.363894605747554)
+2: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.268217003037268)
+3: Barcanas Espetto's - 206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil (ChIJVehlD_z_sgcRS9t6AaQCoFY) (['bar', 'point_of_interest', 'establishment'])(5.843127548818405)
+4: Churrascaria do Arnaldo Original - Av. Prudente de Morais, 2113 - Tirol, Natal - RN, 59020-400, Brazil (ChIJzbXyewMAswcRcb2tqFSjRpo) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.158393813279962)
+5: Batata Brasil - Av. Alm. Alexandrino de Alencar, 859 - Barro Vermelho, Natal - RN, 59030-660, Brazil (ChIJ1__lEgEAswcR60bK7FllsGY) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.26283032896091)

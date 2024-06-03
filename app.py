@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from flask import Flask, render_template, request, jsonify
 from folium import folium
 
+
 from gerador_usuario import gerar_usuario_txt
 from mapeamento import *
 from criar_grafo import *
@@ -13,7 +14,7 @@ load_dotenv()
 api_key = os.getenv('API_KEY')
 arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
 arq_usuario = os.getenv('ARQ_USUARIO')
-arq_ranking = os.getenv('ARQ_RANKING')
+arq_resultado = os.getenv('ARQ_RESULTADOS')
 arq_grafo = os.getenv('ARQ_GRAFO')
 
 @app.route('/', methods=['GET', 'POST'])
@@ -39,8 +40,8 @@ def places_location():
     grafo = criar_grafo_euleriano(locais_encontrados)
     salvar_grafo_txt(grafo, arq_grafo)
 
-    locais = hierholzer_modificado(grafo,num_locais,tipo_locais)
-    salvar_resultado_txt(grafo, locais, arq_ranking)
+    locais = hierholzer_modificado(grafo,num_locais, 5,tipo_locais)
+    salvar_resultado_txt(grafo, locais, arq_resultado)
 
     return jsonify(locais)
 

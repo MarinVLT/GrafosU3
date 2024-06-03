@@ -2,7 +2,7 @@ from funcoes_auxiliares import *
 from criar_grafo import *
 
 
-def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
+def hierholzer_modificado(grafo, num_locais, k, lista_tipos_pedido=[]):
     # Verifica se o grafo está vazio
     if len(grafo.nodes) == 0:
         raise ValueError("Nenhum local mapeado")
@@ -19,12 +19,13 @@ def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
         locais = list(grafo.nodes)
         print('Numero de locais pedidos é igual ou maior ao numero de locais mapeados!')
     else:
+        aux = k
         locais = []
         while True:
             vertice_atual = vertice_inicial
-            aux = 5
 
             while True:
+                
                 for vizinho in grafo.neighbors(vertice_atual):
                     vizinho_tipos = set(grafo.nodes[vizinho].get('tipos', []))
                     if grafo.nodes[vizinho].get('score_final', 0) > aux and vizinho not in locais:
@@ -36,13 +37,11 @@ def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
                         elif vizinho_tipos.intersection(tipos_restantes):
                             locais.append(vizinho)
                             vertice_atual = vizinho
-
                             # Remove tipos encontrados dos tipos restantes
                             tipos_restantes -= vizinho_tipos.intersection(tipos_restantes)
                             break
                 
                 aux -= 0.1
-
 
                 if vertice_atual == vertice_inicial and len(locais) >= num_locais:
                     # Se voltamos para o ponto inicial e o número de locais é suficiente, saia do loop e retorne os locais
@@ -74,6 +73,7 @@ def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
 
 
                 if vertice_atual == vertice_inicial:
+                    aux -= 0.1
                     # Se voltamos para o ponto inicial mas o número de locais não é suficiente, continue no tour
                     break
 

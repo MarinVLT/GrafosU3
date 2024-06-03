@@ -1,138 +1,228 @@
-Espetinho Do Downloads
-R. Ceara Mirim, 53, Ceará-Mirim - RN, 59570-000, Brazil
+Bar e Mercearia do Eloi
+Av. Pres. Bandeira, 784 - Alecrim, Natal - RN, 59030-200, Brazil
+bar,restaurant,point_of_interest,food,establishment
+4.4
+5.363894605747554
+
+Barcanas Espetto's
+206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil
 bar,point_of_interest,establishment
 4.8
-5.80900049288204
+5.843127548818405
 
-Zeca Beer
-R. Dr. Virgílio Bandeira, 37 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-5
-6.006619469730029
-
-Casino Do Zé Maria
-R. Ver. Rafael Fernandes Sobral, 723 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-5
-6.0065051919950365
-
-Elione Bar
-R. Cel. P. H. Pinheiro, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-5
-6.005623198338307
-
-Dom Geandro Lanchonete E Bar
-R. Dr. Meira e Sá, 342, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-4.3
-5.30505148003709
-
-Wanderleia Hair
-R. Léo vigildo Cavalcante, 719, Ceará-Mirim - RN, 59570-000, Brazil
-night_club,bar,point_of_interest,establishment
-5
-5.77821270854824
-
-Budega Do Murilo
-R. Dr. Vicente Inácio Pereira, 90, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-5
-6.004657826968716
-
-Esmalteria Andreza Nails
-R. do Parol, 85 - Novo Horizonte, Ceará-Mirim - RN, 59570-000, Brazil
-night_club,bar,point_of_interest,establishment
-5
-5.777978714858443
-
-DR2 Society
-R. Elviro Carrilho, 208, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-4.6
-5.604349963890831
-
-Bar Do Cervejão
-Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
-bar,point_of_interest,establishment
-3
-4.004231550458816
-
-Budega Véia
-R. Jorge F. de Câmara, 461, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-5
-6.0039548098466335
-
-Syara Minor
-R. Gen. João Varela, 1178, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-4.7
-5.703885370211754
-
-salão rocha
-rua Manoel - R. Ver. Rafael Fernandes Sobral, 376, Ceará-Mirim - RN, 59570-000, Brazil
-night_club,bar,point_of_interest,establishment
-N/A
-0.7771106634789783
-
-Churrasquinho Morre em Pé
-567 - R. Gen. João Varela, 543, Ceará-Mirim - RN, 59570-000, Brazil
+Churrascaria do Arnaldo Original
+Av. Prudente de Morais, 2113 - Tirol, Natal - RN, 59020-400, Brazil
 bar,restaurant,food,point_of_interest,establishment
 4.2
-4.834703283804423
+5.158393813279962
 
-Studio Marjorie Tranças
-R. Gov. Dinarte Mariz, 406, Ceará-Mirim - RN, 59570-000, Brazil
-night_club,bar,point_of_interest,establishment
-N/A
-0.777047184254791
+Batata Brasil
+Av. Alm. Alexandrino de Alencar, 859 - Barro Vermelho, Natal - RN, 59030-660, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.3
+5.26283032896091
 
-Cigarreira do Pastel
-R. Pref. Edgar Varela, 956, Ceará-Mirim - RN, 59570-000, Brazil
-bar,point_of_interest,establishment
-4.7
-5.7035236344530835
-
-Usina Gastrobar
-R. Pref. Edgar Varela, 646, Ceará-Mirim - RN, 59570-000, Brazil
+Boteco do Capim
+R. Pres. Gonçalves, 804 - Alecrim, Natal - RN, 59031-170, Brazil
 bar,point_of_interest,establishment
 4.5
-5.503278115166951
+5.548579408414483
 
-Bar toca do Sassá
-R. Pres. Getúlio Vargas, 566 - Centro, Ceará-Mirim - RN, 59570-000, Brazil
+Budega do Hildo
+R. Pres. Gonçalves, 518 - Alecrim, Natal - RN, 59054-400, Brazil
 bar,point_of_interest,establishment
-N/A
-1.0023612735773615
+4.1
+5.148510400476471
 
-MixBet Carrasco
-Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
+Bar Calçada Alta
+Rua Presidente José Bento, 903 - Alecrim, Natal - RN, 59032-060, Brazil
 bar,point_of_interest,establishment
+4.7
+5.74844959017487
+
+Hillbilly Burger
+R. Pres. Gonçalves, 512 - Alecrim, Natal - RN, 59031-170, Brazil
+restaurant,bar,food,point_of_interest,establishment
 5
-6.001977044579258
+5.96504051458698
 
-Ponto do Caldo
-Av. Enéas Cavalcante, 1605b, Ceará-Mirim - RN, 59570-000, Brazil
+Bar Do Pedro (Pedrinho)
+Rua Presidente José Bento, 846 - Alecrim, Natal - RN, 59032-060, Brazil
+bar,point_of_interest,establishment
+4.5
+5.548138967195104
+
+ABN Soluções em Serviços e Comercio Ltda
+R. Ver. Cícero Azevedo - Lagoa Seca, Natal - RN, 59031-020, Brazil
+night_club,bar,point_of_interest,establishment
+N/A
+0.8217936135323837
+
+Fabio's Bar
+Av. Alm. Alexandrino de Alencar, 804 - Lagoa Seca, Natal - RN, 59022-350, Brazil
+bar,point_of_interest,establishment
+4.5
+5.546468892396794
+
+Bar do Carlinhos
+R. São José, 1316 - Lagoa Seca, Natal - RN, 59022-280, Brazil
+bar,point_of_interest,establishment
+4.5
+5.546170922477524
+
+Canja's Bar
+R. Pres. Sarmento, 1161 - Alecrim, Natal - RN, 59032-400, Brazil
+bar,point_of_interest,establishment
+4.5
+5.546111025905199
+
+Canteiro do Patinho
+Av. Alm. Alexandrino de Alencar - Tirol, Natal - RN, 59015-350, Brazil
 bar,point_of_interest,establishment
 N/A
-1.0018149975570445
+1.046056118642632
 
-Posto Sao Geraldo
-R. Macaíba, Ceará-Mirim - RN, 59570-000, Brazil
-hospital,point_of_interest,health,establishment
-N/A
-0.8383234038188394
+Bar E Restaurante Do Gabriel
+Mercado da Av. 6 - R. dos Canindés, box 12 - Alecrim, Natal - RN, 59031-180, Brazil
+restaurant,bar,food,point_of_interest,establishment
+4.5
+5.462337578237847
 
-UBS São Geraldo
-Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
-hospital,health,point_of_interest,establishment
-N/A
-0.8370430335993818
+Espetinho do Preto
+R. Rocha Pombo, 208 - Alecrim, Natal - RN, 59032-380, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.2
+5.1622693342893955
 
-Percílio
-Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
-hospital,health,point_of_interest,establishment
+Restaurante da Fátima
+mercado da av 6 - R. dos Canindés, box 17 - Alecrim, Natal - RN, 59037-400, Brazil
+restaurant,bar,food,point_of_interest,establishment
+4.3
+5.262012350964817
+
+BAR DA DENICE
+MERCADO DA AV. 6 S/N, R. dos Canindés, BOX 15 - R. José Euríco Alecrim - Alecrim, Natal - RN, 59082-220, Brazil
+bar,point_of_interest,establishment
+4
+5.04534568429815
+
+Bar Do Nivaldo
+Alecrim, Natal - State of Rio Grande do Norte, 59037-590, Brazil
+bar,point_of_interest,establishment
+3
+4.045307007952888
+
+Os 5 Bar
+R. São João - Lagoa Seca, Natal - RN, 59022-545, Brazil
+bar,point_of_interest,establishment
 N/A
-0.833544936278845
+1.0449829914354416
+
+Cinthia Goes Confeitaria
+R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil
+cafe,bakery,store,food,point_of_interest,establishment
+4.8
+5.268217003037268
+
+Cacau Show - Chocolates
+Av. Pres. Bandeira, 653 - Alecrim, Natal - RN, 59031-200, Brazil
+cafe,food,point_of_interest,store,establishment
+4.7
+5.2422934598290745
+
+Bom sabor ( Estácio)
+Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
+cafe,store,food,point_of_interest,establishment
+5
+5.543781240675006
+
+Açaiteria Top Girls
+Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+0.543748225622709
+
+Wd vending
+Av. Alm. Alexandrino de Alencar, 935 - Barro Vermelho, Natal - RN, 59030-660, Brazil
+cafe,store,food,point_of_interest,establishment
+5
+5.5433846004806595
+
+Seu Cuscuz Nordestino
+Av. Nevaldo Rocha, 2860 - Lagoa Seca, Natal - RN, 59054-590, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+0.5425439915508942
+
+NicHouse134
+R. Des. Oscár Siqueira, 134 - Alecrim, Natal - RN, 59037-630, Brazil
+cafe,food,point_of_interest,establishment
+3.7
+4.3443920947341
+
+Tortel Caffé
+R. dos Caicós, 1438 - Alecrim, Natal - RN, 59037-700, Brazil
+cafe,food,point_of_interest,establishment
+4
+4.643920343966437
+
+BR Mania
+Av Alte - Av. Alm. Alexandrino de Alencar, 593 - Alecrim, Natal - RN, 59030-350, Brazil
+convenience_store,atm,gas_station,cafe,meal_takeaway,car_repair,finance,store,restaurant,food,point_of_interest,establishment
+5
+5.301224978291609
+
+Cacau Show - Chocolates
+Av. Capitão Mor Gouveia, 3949 - Bom Pastor, Natal - RN, 59054-170, Brazil
+cafe,food,point_of_interest,store,establishment
+N/A
+0.5408753180895474
+
+Rafa's Caffe
+Av. Alm. Alexandrino de Alencar, 1114 - Lagoa Seca, Natal - RN, 59022-545, Brazil
+cafe,point_of_interest,food,establishment
+N/A
+0.6429347386213049
+
+Divino Recheio
+Av. Alm. Alexandrino de Alencar, 1122 - Lagoa Seca, Natal - RN, 59064-630, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+0.5403817596100174
+
+Observatório do Café
+Av. Antônio Basílio, 2099 - Lagoa Nova, Natal - RN, 59054-605, Brazil
+cafe,store,food,point_of_interest,establishment
+4.9
+5.440195336275618
+
+Cacau Show - Chocolates
+Av. Prudente de Morais, 2056 - Barro Vermelho, Natal - RN, 59022-545, Brazil
+cafe,food,point_of_interest,store,establishment
+4.8
+5.339402254071842
+
+Melissa Sales Atelier Botânico
+R. Des. Virgílio Dantas, 59 - Barro Vermelho, Natal - RN, 59020-560, Brazil
+cafe,store,general_contractor,food,point_of_interest,establishment
+4.8
+5.264534862258064
+
+O Maestro - café & art
+R. Pinheiro Borges, 648 - Barro Vermelho, Natal - RN, 59030-370, Brazil
+cafe,store,food,point_of_interest,establishment
+4.8
+5.338875258290051
+
+Bell's Cafeteria
+R. dos Paianazes, 1377 - Shopping 10 - Alecrim, Natal - RN, 59037-820, Brazil
+cafe,store,food,point_of_interest,establishment
+4.4
+4.9387469813543055
+
+MELHOR TAPIOCA E BOLO
+Av. Coronel Estevam, 555 - Alecrim, Natal - RN, 59031-000, Brazil
+cafe,store,food,point_of_interest,establishment
+N/A
+0.5387134734991118
 
