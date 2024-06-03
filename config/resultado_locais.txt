@@ -1,7 +1,7 @@
 
 Resultado:
-1: Bar e Mercearia do Eloi - Av. Pres. Bandeira, 784 - Alecrim, Natal - RN, 59030-200, Brazil (ChIJyZEQfKqqswcRBoU0o_eQnj0) (['bar', 'restaurant', 'point_of_interest', 'food', 'establishment'])(5.363894605747554)
-2: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.268217003037268)
-3: Barcanas Espetto's - 206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil (ChIJVehlD_z_sgcRS9t6AaQCoFY) (['bar', 'point_of_interest', 'establishment'])(5.843127548818405)
-4: Churrascaria do Arnaldo Original - Av. Prudente de Morais, 2113 - Tirol, Natal - RN, 59020-400, Brazil (ChIJzbXyewMAswcRcb2tqFSjRpo) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.158393813279962)
-5: Batata Brasil - Av. Alm. Alexandrino de Alencar, 859 - Barro Vermelho, Natal - RN, 59030-660, Brazil (ChIJ1__lEgEAswcR60bK7FllsGY) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.26283032896091)
+1: Vila Romana Rest & Padaria - Lagoa Seca - R. Alberto Silva, 1356 - Lagoa Seca, Natal - RN, 59022-300, Brazil (ChIJ3Xg5Yvv_sgcRS6PuMAOCSsY) (['bakery', 'point_of_interest', 'food', 'store', 'establishment'])(5.021786743513252)
+2: Barcanas Espetto's - 206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil (ChIJVehlD_z_sgcRS9t6AaQCoFY) (['bar', 'point_of_interest', 'establishment'])(5.723304457642209)
+3: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.251765369755754)
+4: Casa do Bolo - Av. Rui Barbosa, 1590 - Lagoa Nova, Natal - RN, 59056-300, Brazil (ChIJRTZJ9O__sgcRn4gTY6_f_fY) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(4.917481244481419)
+5: Pretinha Bolos - Av. Antônio Basílio, 2404 - Lagoa Nova, Natal - RN, 59056-385, Brazil (ChIJnbTAdPj_sgcR9am_J0UJtZk) (['bakery', 'point_of_interest', 'food', 'store', 'establishment'])(4.916494627814008)

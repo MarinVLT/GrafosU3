@@ -1,228 +1,240 @@
-Bar e Mercearia do Eloi
-Av. Pres. Bandeira, 784 - Alecrim, Natal - RN, 59030-200, Brazil
-bar,restaurant,point_of_interest,food,establishment
+Pão de Açúcar
+Avenida Nevaldo Rocha, 3775 Piso L1 - Tirol, Natal - RN, 59015-900, Brazil
+supermarket,convenience_store,grocery_or_supermarket,bakery,food,point_of_interest,store,establishment
+4.1
+4.45921680256233
+
+Vila Romana Rest & Padaria - Lagoa Seca
+R. Alberto Silva, 1356 - Lagoa Seca, Natal - RN, 59022-300, Brazil
+bakery,point_of_interest,food,store,establishment
+4.5
+5.021786743513252
+
+Cinthia Goes Confeitaria
+R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil
+cafe,bakery,food,point_of_interest,store,establishment
+4.8
+5.251765369755754
+
+Casa do Bolo
+Av. Rui Barbosa, 1590 - Lagoa Nova, Natal - RN, 59056-300, Brazil
+bakery,food,point_of_interest,store,establishment
 4.4
-5.363894605747554
+4.917481244481419
+
+Pretinha Bolos
+Av. Antônio Basílio, 2404 - Lagoa Nova, Natal - RN, 59056-385, Brazil
+bakery,point_of_interest,food,store,establishment
+4.4
+4.916494627814008
+
+Mercatto
+Av. Nascimento de Castro, 1890 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bakery,store,restaurant,food,point_of_interest,establishment
+4.4
+4.9462674871194166
+
+Engenho Doce
+Av. Nascimento de Castro, 2025 - Lagoa Nova, Natal - RN, 59056-450, Brazil
+bakery,food,point_of_interest,store,establishment
+4.5
+5.015014242638798
+
+Daguia Tortas Finas
+Av. Antônio Basílio, 3025 - Lagoa Nova, Natal - RN, 59056-500, Brazil
+cafe,bakery,food,point_of_interest,store,establishment
+4.5
+4.9515418597901775
+
+Morro Branco Padaria e Conveniência
+Av. Rui Barbosa, 82 - Lagoa Nova, Natal - RN, 59056-300, Brazil
+bakery,food,point_of_interest,store,establishment
+4.1
+4.61745321655628
+
+Olga Cheese Bread
+Av. Nevaldo Rocha, 4361 - Tirol, Morro Branco - RN, 59041-006, Brazil
+bakery,restaurant,point_of_interest,food,store,establishment
+4.4
+4.946792520045899
+
+MID Casa de Bolo
+R. Alberto Silva, 1310 A - Lagoa Seca, Natal - RN, 59022-300, Brazil
+bakery,store,food,point_of_interest,establishment
+N/A
+0.5225275861003923
+
+Orlando Cake
+R. Alberto Silva, 1280 - Lagoa Seca, Natal - RN, 59022-210, Brazil
+bakery,food,point_of_interest,store,establishment
+4.4
+4.922499582477204
+
+Morena Cacau - Bolos e Doces
+R. José Farache, 20 - Lagoa Seca, Natal - RN, 59022-380, Brazil
+bakery,food,point_of_interest,store,establishment
+5
+5.52249524624345
+
+Dream Donuts - Midway Mall (Natal)
+Av. Nevaldo Rocha, 632 - Quiosque Piso L1 - Lagoa Nova, Natal - RN, 59035-015, Brazil
+bakery,food,point_of_interest,store,establishment
+3.5
+4.022249029704721
+
+Daguia Tortas Finas
+Av. Nevaldo Rocha, 3775, lojas 336A e 337 Midway Mall, piso L3 - Tirol, Natal - RN, 59015-450, Brazil
+cafe,bakery,food,point_of_interest,store,establishment
+4.7
+5.153462834308362
+
+Panificadora Thayze - Lagoa Seca
+R. Clóvis Beviláqua, 710 - Lagoa Seca, Natal - RN, 59022-214, Brazil
+bakery,food,point_of_interest,store,establishment
+4.6
+5.121188027842647
+
+Sweet duo Confeitaria
+R. Cap. Manoel C. de Albuquerque, 1216 - Lagoa Seca, Natal - RN, 59022-470, Brazil
+bakery,food,point_of_interest,store,establishment
+4.8
+5.320901261195579
+
+Crooks Midway Mall
+Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-450, Brazil
+bakery,food,point_of_interest,store,establishment
+4.5
+5.020795743492591
+
+Panificadora São João - Lagoa Seca
+R. São João, 1438 - Lagoa Seca, Natal - RN, 59022-390, Brazil
+bakery,point_of_interest,food,store,establishment
+4.5
+5.02067863744614
+
+Bello Sabor
+Av. Romualdo Galvão, 844 - Lagoa Nova, Natal - RN, 59056-105, Brazil
+bakery,point_of_interest,food,store,establishment
+5
+5.520513402739783
 
 Barcanas Espetto's
 206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil
 bar,point_of_interest,establishment
 4.8
-5.843127548818405
+5.723304457642209
 
-Churrascaria do Arnaldo Original
-Av. Prudente de Morais, 2113 - Tirol, Natal - RN, 59020-400, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.2
-5.158393813279962
-
-Batata Brasil
-Av. Alm. Alexandrino de Alencar, 859 - Barro Vermelho, Natal - RN, 59030-660, Brazil
-bar,restaurant,food,point_of_interest,establishment
-4.3
-5.26283032896091
-
-Boteco do Capim
-R. Pres. Gonçalves, 804 - Alecrim, Natal - RN, 59031-170, Brazil
-bar,point_of_interest,establishment
+Restaurante Outback Steakhouse
+Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-900, Brazil
+bar,restaurant,point_of_interest,food,establishment
 4.5
-5.548579408414483
+5.414772358117886
 
-Budega do Hildo
-R. Pres. Gonçalves, 518 - Alecrim, Natal - RN, 59054-400, Brazil
-bar,point_of_interest,establishment
-4.1
-5.148510400476471
+Zoopet Natal Pet Shop
+Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil
+veterinary_care,pet_store,clothing_store,bar,night_club,point_of_interest,store,establishment
+4.8
+5.302418513051528
 
-Bar Calçada Alta
-Rua Presidente José Bento, 903 - Alecrim, Natal - RN, 59032-060, Brazil
-bar,point_of_interest,establishment
-4.7
-5.74844959017487
-
-Hillbilly Burger
-R. Pres. Gonçalves, 512 - Alecrim, Natal - RN, 59031-170, Brazil
-restaurant,bar,food,point_of_interest,establishment
-5
-5.96504051458698
-
-Bar Do Pedro (Pedrinho)
-Rua Presidente José Bento, 846 - Alecrim, Natal - RN, 59032-060, Brazil
-bar,point_of_interest,establishment
-4.5
-5.548138967195104
-
-ABN Soluções em Serviços e Comercio Ltda
-R. Ver. Cícero Azevedo - Lagoa Seca, Natal - RN, 59031-020, Brazil
+Andréia Mendes - Realçando Encantos
+Rua Djar Dantas Pereira de Macedo 1387 - Rua Djair Dantas Pereira de Macedo, 1387 - sala 102 - Lagoa Seca, Natal - RN, 59022-370, Brazil
 night_club,bar,point_of_interest,establishment
-N/A
-0.8217936135323837
+4.9
+5.8489382832429335
 
-Fabio's Bar
-Av. Alm. Alexandrino de Alencar, 804 - Lagoa Seca, Natal - RN, 59022-350, Brazil
+Espetinho do Teco
+Av. Romualdo Galvão, 1530 - Lagoa Nova, Natal - RN, 59056-100, Brazil
 bar,point_of_interest,establishment
-4.5
-5.546468892396794
+4.6
+5.522089749170254
 
-Bar do Carlinhos
-R. São José, 1316 - Lagoa Seca, Natal - RN, 59022-280, Brazil
-bar,point_of_interest,establishment
-4.5
-5.546170922477524
-
-Canja's Bar
-R. Pres. Sarmento, 1161 - Alecrim, Natal - RN, 59032-400, Brazil
-bar,point_of_interest,establishment
-4.5
-5.546111025905199
-
-Canteiro do Patinho
-Av. Alm. Alexandrino de Alencar - Tirol, Natal - RN, 59015-350, Brazil
+Espetinho do Caicó
+R. São João, 1481 - Lagoa Seca, Natal - RN, 59022-340, Brazil
 bar,point_of_interest,establishment
 N/A
-1.046056118642632
+0.9220477377472569
 
-Bar E Restaurante Do Gabriel
-Mercado da Av. 6 - R. dos Canindés, box 12 - Alecrim, Natal - RN, 59031-180, Brazil
-restaurant,bar,food,point_of_interest,establishment
-4.5
-5.462337578237847
+Raquel Souza Estetica
+Av. Romualdo Galvão, 1559 - Lagoa Nova, Natal - RN, 59056-105, Brazil
+bar,night_club,point_of_interest,establishment
+5
+5.946909669703525
 
-Espetinho do Preto
-R. Rocha Pombo, 208 - Alecrim, Natal - RN, 59032-380, Brazil
+Casa de Wiliam
+Av. Prudente de Morais, 2860 - Lagoa Seca, Natal - RN, 59022-305, Brazil
+bar,point_of_interest,establishment
+N/A
+0.9217666315877294
+
+Bar De Dona Mariquinha
+R. Clóvis Beviláqua, 682 - Lagoa Seca, Natal - RN, 59022-230, Brazil
+bar,point_of_interest,establishment
+4.6
+5.521642549384477
+
+Bar do Ku
+Ve - Vila Gerda Maria, 155 - Lagoa Nova, Natal - RN, 59056-106, Brazil
 bar,restaurant,food,point_of_interest,establishment
-4.2
-5.1622693342893955
-
-Restaurante da Fátima
-mercado da av 6 - R. dos Canindés, box 17 - Alecrim, Natal - RN, 59037-400, Brazil
-restaurant,bar,food,point_of_interest,establishment
 4.3
-5.262012350964817
-
-BAR DA DENICE
-MERCADO DA AV. 6 S/N, R. dos Canindés, BOX 15 - R. José Euríco Alecrim - Alecrim, Natal - RN, 59082-220, Brazil
-bar,point_of_interest,establishment
-4
-5.04534568429815
-
-Bar Do Nivaldo
-Alecrim, Natal - State of Rio Grande do Norte, 59037-590, Brazil
-bar,point_of_interest,establishment
-3
-4.045307007952888
+5.213301652497428
 
 Os 5 Bar
 R. São João - Lagoa Seca, Natal - RN, 59022-545, Brazil
 bar,point_of_interest,establishment
 N/A
-1.0449829914354416
+0.9214375008907606
 
-Cinthia Goes Confeitaria
-R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil
-cafe,bakery,store,food,point_of_interest,establishment
-4.8
-5.268217003037268
-
-Cacau Show - Chocolates
-Av. Pres. Bandeira, 653 - Alecrim, Natal - RN, 59031-200, Brazil
-cafe,food,point_of_interest,store,establishment
-4.7
-5.2422934598290745
-
-Bom sabor ( Estácio)
-Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
-cafe,store,food,point_of_interest,establishment
-5
-5.543781240675006
-
-Açaiteria Top Girls
-Estacionamento - Av. Alm. Alexandrino de Alencar, 708 - Alecrim, Natal - RN, 59022-350, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-0.543748225622709
-
-Wd vending
-Av. Alm. Alexandrino de Alencar, 935 - Barro Vermelho, Natal - RN, 59030-660, Brazil
-cafe,store,food,point_of_interest,establishment
-5
-5.5433846004806595
-
-Seu Cuscuz Nordestino
-Av. Nevaldo Rocha, 2860 - Lagoa Seca, Natal - RN, 59054-590, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-0.5425439915508942
-
-NicHouse134
-R. Des. Oscár Siqueira, 134 - Alecrim, Natal - RN, 59037-630, Brazil
-cafe,food,point_of_interest,establishment
-3.7
-4.3443920947341
-
-Tortel Caffé
-R. dos Caicós, 1438 - Alecrim, Natal - RN, 59037-700, Brazil
-cafe,food,point_of_interest,establishment
-4
-4.643920343966437
-
-BR Mania
-Av Alte - Av. Alm. Alexandrino de Alencar, 593 - Alecrim, Natal - RN, 59030-350, Brazil
-convenience_store,atm,gas_station,cafe,meal_takeaway,car_repair,finance,store,restaurant,food,point_of_interest,establishment
-5
-5.301224978291609
-
-Cacau Show - Chocolates
-Av. Capitão Mor Gouveia, 3949 - Bom Pastor, Natal - RN, 59054-170, Brazil
-cafe,food,point_of_interest,store,establishment
-N/A
-0.5408753180895474
-
-Rafa's Caffe
-Av. Alm. Alexandrino de Alencar, 1114 - Lagoa Seca, Natal - RN, 59022-545, Brazil
-cafe,point_of_interest,food,establishment
-N/A
-0.6429347386213049
-
-Divino Recheio
-Av. Alm. Alexandrino de Alencar, 1122 - Lagoa Seca, Natal - RN, 59064-630, Brazil
-cafe,store,food,point_of_interest,establishment
-N/A
-0.5403817596100174
-
-Observatório do Café
-Av. Antônio Basílio, 2099 - Lagoa Nova, Natal - RN, 59054-605, Brazil
-cafe,store,food,point_of_interest,establishment
-4.9
-5.440195336275618
-
-Cacau Show - Chocolates
-Av. Prudente de Morais, 2056 - Barro Vermelho, Natal - RN, 59022-545, Brazil
-cafe,food,point_of_interest,store,establishment
-4.8
-5.339402254071842
-
-Melissa Sales Atelier Botânico
-R. Des. Virgílio Dantas, 59 - Barro Vermelho, Natal - RN, 59020-560, Brazil
-cafe,store,general_contractor,food,point_of_interest,establishment
-4.8
-5.264534862258064
-
-O Maestro - café & art
-R. Pinheiro Borges, 648 - Barro Vermelho, Natal - RN, 59030-370, Brazil
-cafe,store,food,point_of_interest,establishment
-4.8
-5.338875258290051
-
-Bell's Cafeteria
-R. dos Paianazes, 1377 - Shopping 10 - Alecrim, Natal - RN, 59037-820, Brazil
-cafe,store,food,point_of_interest,establishment
+Redação Bar
+R. Dr. José Gonçalves, 687 - Lagoa Nova, Natal - RN, 59056-370, Brazil
+bar,point_of_interest,establishment
 4.4
-4.9387469813543055
+5.321255251258677
 
-MELHOR TAPIOCA E BOLO
-Av. Coronel Estevam, 555 - Alecrim, Natal - RN, 59031-000, Brazil
-cafe,store,food,point_of_interest,establishment
+Self-Service e Bar do Careca
+R. Contador Manoel Raimundo de Águiar, 5111 - Lagoa Nova, Natal - RN, 59056-020, Brazil
+bar,point_of_interest,establishment
+4.7
+5.621255167533854
+
+Carne Assada do Picuí | Restaurante
+Av. Antônio Basílio, 3106 - Lagoa Nova, Natal - RN, 59056-015, Brazil
+restaurant,bar,point_of_interest,food,establishment
+5
+5.912641631767096
+
+R.G. Bar
+Lagoa Nova, Natal - State of Rio Grande do Norte, 59054-630, Brazil
+bar,point_of_interest,establishment
+4.5
+5.420810304741372
+
+Mbg
+R. Gen. Francisco Monteiro, 1404 - Lagoa Nova, Natal - RN, 59056-030, Brazil
+bar,point_of_interest,establishment
 N/A
-0.5387134734991118
+0.9207223190929594
+
+Conveniência TOP 10
+R. Nascimento Fernandes, 1609 - Lagoa Nova, Natal - RN, 59056-280, Brazil
+bar,point_of_interest,establishment
+N/A
+0.9205686471740235
+
+THE KING Petiscaria
+Av. Antônio Basílio, 3270 - Lagoa Nova, Natal - RN, 59056-005, Brazil
+bar,point_of_interest,establishment
+N/A
+0.9204284243446909
+
+Frango do Ricardo Rs Brasas
+Av. Alm. Alexandrino de Alencar - Tirol, Natal - RN, 59022-545, Brazil
+bar,restaurant,food,point_of_interest,establishment
+N/A
+0.9119287994887172
+
+Bar do Carlinhos
+R. São José, 1316 - Lagoa Seca, Natal - RN, 59022-280, Brazil
+bar,point_of_interest,establishment
+4.5
+5.420002729547032
 

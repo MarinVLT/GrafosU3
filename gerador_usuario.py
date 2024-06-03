@@ -3,8 +3,9 @@ from dotenv import load_dotenv
 import googlemaps
 import random
 
+api_key = os.getenv('API_KEY')
 
-def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida, api_key):
+def gerar_usuario_txt(coordenadas, tipos_de_estabelecimentos, arquivo_saida):
     gmaps = googlemaps.Client(key=api_key)
     with open(arquivo_saida, 'w', encoding='utf-8') as file:
         # Escreve as coordenadas no arquivo

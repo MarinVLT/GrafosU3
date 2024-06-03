@@ -1,6 +1,4 @@
--5.8045167799423005,-35.21367846789566
-bar,cafe
-Boteco do Capim,bar,point_of_interest,establishment,4.5
-Restaurante da Fátima,restaurant,food,bar,point_of_interest,establishment,4.3
-Canteiro do Patinho,bar,point_of_interest,establishment,0
-Espetinho do Preto,bar,restaurant,food,point_of_interest,establishment,4.2
+-5.810515438512916,-35.20759068218842
+bakery,bar
+Andréia Mendes - Realçando Encantos,night_club,bar,point_of_interest,establishment,4.9
+Restaurante Outback Steakhouse,bar,restaurant,food,point_of_interest,establishment,4.5

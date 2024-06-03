@@ -55,7 +55,6 @@ def hierholzer_modificado(grafo, num_locais, k, lista_tipos_pedido=[]):
                         
                             countPiorCaso = 0
                             break
-                        #print(vizinho_tipos.intersection(tipos_restantes) == set() and len(tipos_restantes) < 0)
 
                 aux -= 0.1
 

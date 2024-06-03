@@ -34,12 +34,15 @@ def places_location():
 
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
     locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio)
+    #salvo para controle
     salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 
     grafo = criar_grafo_euleriano(locais_encontrados)
+    #salvo para controle
     salvar_grafo_txt(grafo, arq_grafo)
 
     locais = hierholzer_modificado(grafo,num_locais, 5,tipo_locais)
+    #salvo para controle
     salvar_resultado_txt(grafo, locais, arq_resultado)
 
     return jsonify(locais)
