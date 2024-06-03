@@ -20,7 +20,8 @@ def criar_grafo_euleriano(locs_mapeados):
     
         # Adiciona os locais ao grafo
         for place_id, local in locs_mapeados.items():
-            grafo.add_node(place_id, nome=local['nome'], endereco=local['endereco'], tipos=local['tipos'], avaliacao_geral=local['avaliacao_geral'], score_final=local['score_final'], coordenadas=local['coordenadas'])
+            grafo.add_node(place_id, nome=local['nome'], endereco=local['endereco'], tipos=local['tipos'], 
+                           avaliacao_geral=local['avaliacao_geral'], score_final=local['score_final'], coordenadas=local['coordenadas'])
 
 
         # Adiciona as arestas ponderadas com base na distância entre os locais
@@ -39,7 +40,7 @@ def criar_grafo_euleriano(locs_mapeados):
         return grafo
 
 # Função para salvar o grafo em um arquivo de texto
-def salvar_grafo_em_txt(grafo, arquivo):
+def salvar_grafo_txt(grafo, arquivo):
     if not grafo.nodes:
         with open(arquivo, 'w') as file:
             file.write(f"Nenhum local mapeado!")

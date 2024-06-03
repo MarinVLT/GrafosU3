@@ -1,3 +1,7 @@
 
-Ranking:
-1: Galeria Conviv'Art - NAC (UFRN) - Rua da Conviv�ncia - pr�dio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil (ChIJ8VdzS5z_sgcRgOWt4hN_508) (['art_gallery', 'point_of_interest', 'establishment'])(6.130235892692833)
+Resultado:
+1: Espetinho Do Downloads - R. Ceara Mirim, 53, Ceará-Mirim - RN, 59570-000, Brazil (ChIJWWaTXOG7swcRa-2bAHKrsLM) (['bar', 'point_of_interest', 'establishment'])(5.80900049288204)
+2: Posto Sao Geraldo - R. Macaíba, Ceará-Mirim - RN, 59570-000, Brazil (ChIJVx3H3oi6swcR6ED-1wDzHyE) (['hospital', 'point_of_interest', 'health', 'establishment'])(0.8383234038188394)
+3: Zeca Beer - R. Dr. Virgílio Bandeira, 37 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil (ChIJXduhEo-6swcRxVuiNzsTsAs) (['bar', 'point_of_interest', 'establishment'])(6.006619469730029)
+4: Casino Do Zé Maria - R. Ver. Rafael Fernandes Sobral, 723 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil (ChIJ_fwNL4S6swcR9S8oJ5qAFjE) (['bar', 'point_of_interest', 'establishment'])(6.0065051919950365)
+5: Elione Bar - R. Cel. P. H. Pinheiro, Ceará-Mirim - RN, 59570-000, Brazil (ChIJ_xggvWe7swcRUg7qy29eCFE) (['bar', 'point_of_interest', 'establishment'])(6.005623198338307)

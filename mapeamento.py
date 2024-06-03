@@ -3,8 +3,6 @@ import os
 from dotenv import load_dotenv
 from funcoes_auxiliares import *
 
-
-
 def ler_informacoes_usuario(arquivo):
     with open(arquivo, 'r', encoding='utf-8') as file:
         # Lê as coordenadas da primeira linha e as converte para float
@@ -57,9 +55,6 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                 place_id = resultado['place_id']
                 # Busca detalhes adicionais do lugar usando o place_id
                 detalhes = gmaps.place(place_id=place_id)
-                 # Inicializa o score do lugar (logica do score, se o lugar tiver o tipo desejado -> score + 1)
-                # score = 0
-                
 
                 # Se há detalhes do resultado
                 if detalhes.get('result'):
@@ -68,10 +63,10 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                     tipos_do_local = lugar.get('types')
                     
                     # Similaridade entre o tipo do local atual e os tipos pedidos ao usuario
-                    sim_entreTipos = jaccard_similarity(set(tipos_de_estabelecimentos), set(tipos_do_local))
+                    sim_entreTipos = jaccard_similaridade(set(tipos_de_estabelecimentos), set(tipos_do_local))
                     
                     # Media de similaridade entre tipos do local atual e tipos dos locais ja visitados
-                    similaridades = [jaccard_similarity(set(tipo_local['tipos']), set(tipos_do_local)) for tipo_local in locais_visitados]
+                    similaridades = [jaccard_similaridade(set(tipo_local['tipos']), set(tipos_do_local)) for tipo_local in locais_visitados]
                     sim_HistoricoVisitados = sum(similaridades) / len(similaridades) if similaridades else 0
 
                     # Obtém as coordenadas do local
@@ -92,7 +87,6 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                         'latitude': latitude,
                         'longitude': longitude,
                         'coordenadas': (latitude, longitude),
-                        #'distancia': distancia,
                         'score_final': sim_entreTipos + sim_HistoricoVisitados - distancia + (lugar.get('rating') or 0)
                     }
     

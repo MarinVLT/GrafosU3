@@ -1,6 +1,138 @@
-Galeria Conviv'Art - NAC (UFRN)
-Rua da Conviv�ncia - pr�dio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil
-art_gallery,point_of_interest,establishment
+Espetinho Do Downloads
+R. Ceara Mirim, 53, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
 4.8
-6.130235892692833
+5.80900049288204
+
+Zeca Beer
+R. Dr. Virgílio Bandeira, 37 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+5
+6.006619469730029
+
+Casino Do Zé Maria
+R. Ver. Rafael Fernandes Sobral, 723 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+5
+6.0065051919950365
+
+Elione Bar
+R. Cel. P. H. Pinheiro, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+5
+6.005623198338307
+
+Dom Geandro Lanchonete E Bar
+R. Dr. Meira e Sá, 342, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+4.3
+5.30505148003709
+
+Wanderleia Hair
+R. Léo vigildo Cavalcante, 719, Ceará-Mirim - RN, 59570-000, Brazil
+night_club,bar,point_of_interest,establishment
+5
+5.77821270854824
+
+Budega Do Murilo
+R. Dr. Vicente Inácio Pereira, 90, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+5
+6.004657826968716
+
+Esmalteria Andreza Nails
+R. do Parol, 85 - Novo Horizonte, Ceará-Mirim - RN, 59570-000, Brazil
+night_club,bar,point_of_interest,establishment
+5
+5.777978714858443
+
+DR2 Society
+R. Elviro Carrilho, 208, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+4.6
+5.604349963890831
+
+Bar Do Cervejão
+Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
+bar,point_of_interest,establishment
+3
+4.004231550458816
+
+Budega Véia
+R. Jorge F. de Câmara, 461, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+5
+6.0039548098466335
+
+Syara Minor
+R. Gen. João Varela, 1178, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+4.7
+5.703885370211754
+
+salão rocha
+rua Manoel - R. Ver. Rafael Fernandes Sobral, 376, Ceará-Mirim - RN, 59570-000, Brazil
+night_club,bar,point_of_interest,establishment
+N/A
+0.7771106634789783
+
+Churrasquinho Morre em Pé
+567 - R. Gen. João Varela, 543, Ceará-Mirim - RN, 59570-000, Brazil
+bar,restaurant,food,point_of_interest,establishment
+4.2
+4.834703283804423
+
+Studio Marjorie Tranças
+R. Gov. Dinarte Mariz, 406, Ceará-Mirim - RN, 59570-000, Brazil
+night_club,bar,point_of_interest,establishment
+N/A
+0.777047184254791
+
+Cigarreira do Pastel
+R. Pref. Edgar Varela, 956, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+4.7
+5.7035236344530835
+
+Usina Gastrobar
+R. Pref. Edgar Varela, 646, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+4.5
+5.503278115166951
+
+Bar toca do Sassá
+R. Pres. Getúlio Vargas, 566 - Centro, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+N/A
+1.0023612735773615
+
+MixBet Carrasco
+Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
+bar,point_of_interest,establishment
+5
+6.001977044579258
+
+Ponto do Caldo
+Av. Enéas Cavalcante, 1605b, Ceará-Mirim - RN, 59570-000, Brazil
+bar,point_of_interest,establishment
+N/A
+1.0018149975570445
+
+Posto Sao Geraldo
+R. Macaíba, Ceará-Mirim - RN, 59570-000, Brazil
+hospital,point_of_interest,health,establishment
+N/A
+0.8383234038188394
+
+UBS São Geraldo
+Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
+hospital,health,point_of_interest,establishment
+N/A
+0.8370430335993818
+
+Percílio
+Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil
+hospital,health,point_of_interest,establishment
+N/A
+0.833544936278845
 

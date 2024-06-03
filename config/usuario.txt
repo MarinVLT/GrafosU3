@@ -1,4 +1,7 @@
--5.8418739320370285,-35.1976421667317
-art_gallery
-Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
-Galeria Conviv'Art - NAC (UFRN),art_gallery,point_of_interest,establishment,4.8
+-5.639518198648713,-35.430145157856494
+bar,hospital
+Budega Véia,bar,point_of_interest,establishment,5
+Percílio,hospital,health,point_of_interest,establishment,0
+Dom Geandro Lanchonete E Bar,bar,point_of_interest,establishment,4.3
+UBS São Geraldo,hospital,health,point_of_interest,establishment,0
+DR2 Society,bar,point_of_interest,establishment,4.6

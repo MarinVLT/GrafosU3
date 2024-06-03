@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from flask import Flask, render_template, request, jsonify
 from folium import folium
 
-from gerador_user import gerar_usuario_txt
+from gerador_usuario import gerar_usuario_txt
 from mapeamento import *
 from criar_grafo import *
 from hierholzer_modificado import *
@@ -30,17 +30,17 @@ def places_location():
     num_locais = int(data['num_locais'])
 
     coordenadas = (latitude, longitude)
-    gerar_usuario_txt(coordenadas, tipo_locais, arq_usuario, api_key, len(tipo_locais))
+    gerar_usuario_txt(coordenadas, tipo_locais, arq_usuario, api_key)
 
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
     locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
     salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 
     grafo = criar_grafo_euleriano(locais_encontrados)
-    salvar_grafo_em_txt(grafo, arq_grafo)
+    salvar_grafo_txt(grafo, arq_grafo)
 
     locais = hierholzer_modificado(grafo,num_locais,tipo_locais)
-    salvar_ranking_em_txt(grafo, locais, arq_ranking)
+    salvar_resultado_txt(grafo, locais, arq_ranking)
 
     return jsonify(locais)
 

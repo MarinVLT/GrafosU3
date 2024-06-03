@@ -1,0 +1,7 @@
+
+Resultado:
+1: Espetinho Do Downloads - R. Ceara Mirim, 53, Ceará-Mirim - RN, 59570-000, Brazil (ChIJWWaTXOG7swcRa-2bAHKrsLM) (['bar', 'point_of_interest', 'establishment'])(6.032333826215374)
+2: Zeca Beer - R. Dr. Virgílio Bandeira, 37 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil (ChIJXduhEo-6swcRxVuiNzsTsAs) (['bar', 'point_of_interest', 'establishment'])(6.229952803063362)
+3: Casino Do Zé Maria - R. Ver. Rafael Fernandes Sobral, 723 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil (ChIJ_fwNL4S6swcR9S8oJ5qAFjE) (['bar', 'point_of_interest', 'establishment'])(6.22983852532837)
+4: Elione Bar - R. Cel. P. H. Pinheiro, Ceará-Mirim - RN, 59570-000, Brazil (ChIJ_xggvWe7swcRUg7qy29eCFE) (['bar', 'point_of_interest', 'establishment'])(6.22895653167164)
+5: Dom Geandro Lanchonete E Bar - R. Dr. Meira e Sá, 342, Ceará-Mirim - RN, 59570-000, Brazil (ChIJXSgRWo66swcRXMCQSuXtLHU) (['bar', 'point_of_interest', 'establishment'])(5.528384813370423)

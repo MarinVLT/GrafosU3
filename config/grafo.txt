@@ -1,4 +1,279 @@
-V�rtices:
-Galeria Conviv'Art - NAC (UFRN): {'nome': "Galeria Conviv'Art - NAC (UFRN)", 'endereco': 'Rua da Conviv�ncia - pr�dio anexo da Biblioteca Central Zila Mamede - BCZM - Lagoa Nova, Natal - RN, 59078-970, Brazil', 'tipos': ['art_gallery', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.8, 'score_final': 6.130235892692833, 'coordenadas': (-5.839354000000001, -35.1994433)}
+Vértices:
+Espetinho Do Downloads: {'nome': 'Espetinho Do Downloads', 'endereco': 'R. Ceara Mirim, 53, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.8, 'score_final': 5.80900049288204, 'coordenadas': (-5.6398017, -35.4291867)}
+Zeca Beer: {'nome': 'Zeca Beer', 'endereco': 'R. Dr. Virgílio Bandeira, 37 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.006619469730029, 'coordenadas': (-5.638813000000002, -35.426839)}
+Casino Do Zé Maria: {'nome': 'Casino Do Zé Maria', 'endereco': 'R. Ver. Rafael Fernandes Sobral, 723 - Ceara Mirim, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.0065051919950365, 'coordenadas': (-5.6425532, -35.4284124)}
+Elione Bar: {'nome': 'Elione Bar', 'endereco': 'R. Cel. P. H. Pinheiro, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.005623198338307, 'coordenadas': (-5.639106099999999, -35.4257878)}
+Dom Geandro Lanchonete E Bar: {'nome': 'Dom Geandro Lanchonete E Bar', 'endereco': 'R. Dr. Meira e Sá, 342, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.3, 'score_final': 5.30505148003709, 'coordenadas': (-5.637258699999999, -35.4257426)}
+Wanderleia Hair: {'nome': 'Wanderleia Hair', 'endereco': 'R. Léo vigildo Cavalcante, 719, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['night_club', 'bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 5.77821270854824, 'coordenadas': (-5.6379049, -35.435005)}
+Budega Do Murilo: {'nome': 'Budega Do Murilo', 'endereco': 'R. Dr. Vicente Inácio Pereira, 90, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.004657826968716, 'coordenadas': (-5.6404382, -35.4248828)}
+Esmalteria Andreza Nails: {'nome': 'Esmalteria Andreza Nails', 'endereco': 'R. do Parol, 85 - Novo Horizonte, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['night_club', 'bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 5.777978714858443, 'coordenadas': (-5.6360142, -35.4341941)}
+DR2 Society: {'nome': 'DR2 Society', 'endereco': 'R. Elviro Carrilho, 208, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.6, 'score_final': 5.604349963890831, 'coordenadas': (-5.6421854, -35.4251643)}
+Bar Do Cervejão: {'nome': 'Bar Do Cervejão', 'endereco': 'Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 3, 'score_final': 4.004231550458816, 'coordenadas': (-5.6452805, -35.4298789)}
+Budega Véia: {'nome': 'Budega Véia', 'endereco': 'R. Jorge F. de Câmara, 461, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.0039548098466335, 'coordenadas': (-5.635405800000001, -35.4257143)}
+Syara Minor: {'nome': 'Syara Minor', 'endereco': 'R. Gen. João Varela, 1178, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.7, 'score_final': 5.703885370211754, 'coordenadas': (-5.6418029, -35.4244734)}
+salão rocha: {'nome': 'salão rocha', 'endereco': 'rua Manoel - R. Ver. Rafael Fernandes Sobral, 376, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['night_club', 'bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.7771106634789783, 'coordenadas': (-5.643456699999999, -35.4253275)}
+Churrasquinho Morre em Pé: {'nome': 'Churrasquinho Morre em Pé', 'endereco': '567 - R. Gen. João Varela, 543, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.2, 'score_final': 4.834703283804423, 'coordenadas': (-5.6413673, -35.4241759)}
+Studio Marjorie Tranças: {'nome': 'Studio Marjorie Tranças', 'endereco': 'R. Gov. Dinarte Mariz, 406, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['night_club', 'bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.777047184254791, 'coordenadas': (-5.6435852, -35.4349384)}
+Cigarreira do Pastel: {'nome': 'Cigarreira do Pastel', 'endereco': 'R. Pref. Edgar Varela, 956, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.7, 'score_final': 5.7035236344530835, 'coordenadas': (-5.641361999999999, -35.4239368)}
+Usina Gastrobar: {'nome': 'Usina Gastrobar', 'endereco': 'R. Pref. Edgar Varela, 646, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 4.5, 'score_final': 5.503278115166951, 'coordenadas': (-5.641313299999999, -35.4236674)}
+Bar toca do Sassá: {'nome': 'Bar toca do Sassá', 'endereco': 'R. Pres. Getúlio Vargas, 566 - Centro, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 1.0023612735773615, 'coordenadas': (-5.6458854, -35.42592510000001)}
+MixBet Carrasco: {'nome': 'MixBet Carrasco', 'endereco': 'Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': 5, 'score_final': 6.001977044579258, 'coordenadas': (-5.640041699999999, -35.4221393)}
+Ponto do Caldo: {'nome': 'Ponto do Caldo', 'endereco': 'Av. Enéas Cavalcante, 1605b, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['bar', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 1.0018149975570445, 'coordenadas': (-5.6459218, -35.4250473)}
+Posto Sao Geraldo: {'nome': 'Posto Sao Geraldo', 'endereco': 'R. Macaíba, Ceará-Mirim - RN, 59570-000, Brazil', 'tipos': ['hospital', 'point_of_interest', 'health', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.8383234038188394, 'coordenadas': (-5.6378544, -35.4299384)}
+UBS São Geraldo: {'nome': 'UBS São Geraldo', 'endereco': 'Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil', 'tipos': ['hospital', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.8370430335993818, 'coordenadas': (-5.640158800000001, -35.4330319)}
+Percílio: {'nome': 'Percílio', 'endereco': 'Ceará-Mirim - State of Rio Grande do Norte, 59570-000, Brazil', 'tipos': ['hospital', 'health', 'point_of_interest', 'establishment'], 'avaliacao_geral': None, 'score_final': 0.833544936278845, 'coordenadas': (-5.6395269, -35.4236901)}
 
 Arestas:
+Espetinho Do Downloads - Zeca Beer: Distancia entre os locais = 0.002547395332492095
+Espetinho Do Downloads - Casino Do Zé Maria: Distancia entre os locais = 0.002858372393514832
+Espetinho Do Downloads - Elione Bar: Distancia entre os locais = 0.003469348724184986
+Espetinho Do Downloads - Dom Geandro Lanchonete E Bar: Distancia entre os locais = 0.004281200043214663
+Espetinho Do Downloads - Wanderleia Hair: Distancia entre os locais = 0.006119678515243521
+Espetinho Do Downloads - Budega Do Murilo: Distancia entre os locais = 0.00435071114417305
+Espetinho Do Downloads - Esmalteria Andreza Nails: Distancia entre os locais = 0.0062784720282855165
+Espetinho Do Downloads - DR2 Society: Distancia entre os locais = 0.0046756526228999545
+Espetinho Do Downloads - Bar Do Cervejão: Distancia entre os locais = 0.005522353690230341
+Espetinho Do Downloads - Budega Véia: Distancia entre os locais = 0.005601919186313414
+Espetinho Do Downloads - Syara Minor: Distancia entre os locais = 0.005120546682733953
+Espetinho Do Downloads - salão rocha: Distancia entre os locais = 0.00531530334411888
+Espetinho Do Downloads - Churrasquinho Morre em Pé: Distancia entre os locais = 0.005249687609754436
+Espetinho Do Downloads - Studio Marjorie Tranças: Distancia entre os locais = 0.006884542478624013
+Espetinho Do Downloads - Cigarreira do Pastel: Distancia entre os locais = 0.005476859145534565
+Espetinho Do Downloads - Usina Gastrobar: Distancia entre os locais = 0.005722552494301257
+Espetinho Do Downloads - Bar toca do Sassá: Distancia entre os locais = 0.006902857397481967
+Espetinho Do Downloads - MixBet Carrasco: Distancia entre os locais = 0.007051485429330912
+Espetinho Do Downloads - Ponto do Caldo: Distancia entre os locais = 0.007388521934054357
+Espetinho Do Downloads - Posto Sao Geraldo: Distancia entre os locais = 0.0020873500377249386
+Espetinho Do Downloads - UBS São Geraldo: Distancia entre os locais = 0.0038617461659210617
+Espetinho Do Downloads - Percílio: Distancia entre os locais = 0.0055034649630944284
+Zeca Beer - Casino Do Zé Maria: Distancia entre os locais = 0.004057669725345084
+Zeca Beer - Elione Bar: Distancia entre os locais = 0.0010912969577511228
+Zeca Beer - Dom Geandro Lanchonete E Bar: Distancia entre os locais = 0.0019020887071875305
+Zeca Beer - Wanderleia Hair: Distancia entre os locais = 0.008216337481501898
+Zeca Beer - Budega Do Murilo: Distancia entre os locais = 0.00254322501560594
+Zeca Beer - Esmalteria Andreza Nails: Distancia entre os locais = 0.007869611010080532
+Zeca Beer - DR2 Society: Distancia entre os locais = 0.003765328916574956
+Zeca Beer - Bar Do Cervejão: Distancia entre os locais = 0.007146296121765819
+Zeca Beer - Budega Véia: Distancia entre os locais = 0.0035880303691581427
+Zeca Beer - Syara Minor: Distancia entre os locais = 0.003812553654705993
+Zeca Beer - salão rocha: Distancia entre os locais = 0.004883500992113424
+Zeca Beer - Churrasquinho Morre em Pé: Distancia entre os locais = 0.003690060988654199
+Zeca Beer - Studio Marjorie Tranças: Distancia entre os locais = 0.00940075386338627
+Zeca Beer - Cigarreira do Pastel: Distancia entre os locais = 0.0038626630502794305
+Zeca Beer - Usina Gastrobar: Distancia entre os locais = 0.004038631779451958
+Zeca Beer - Bar toca do Sassá: Distancia entre os locais = 0.007131202911849135
+Zeca Beer - MixBet Carrasco: Distancia entre os locais = 0.004857662378142961
+Zeca Beer - Ponto do Caldo: Distancia entre os locais = 0.007331113580484929
+Zeca Beer - Posto Sao Geraldo: Distancia entre os locais = 0.0032442555879555243
+Zeca Beer - UBS São Geraldo: Distancia entre os locais = 0.006337443337026655
+Zeca Beer - Percílio: Distancia entre os locais = 0.0032288116111029758
+Casino Do Zé Maria - Elione Bar: Distancia entre os locais = 0.004332553931573172
+Casino Do Zé Maria - Dom Geandro Lanchonete E Bar: Distancia entre os locais = 0.00592954992305527
+Casino Do Zé Maria - Wanderleia Hair: Distancia entre os locais = 0.008066540004857854
+Casino Do Zé Maria - Budega Do Murilo: Distancia entre os locais = 0.004114766233943449
+Casino Do Zé Maria - Esmalteria Andreza Nails: Distancia entre os locais = 0.008728492188803342
+Casino Do Zé Maria - DR2 Society: Distancia entre os locais = 0.0032688576674433094
+Casino Do Zé Maria - Bar Do Cervejão: Distancia entre os locais = 0.003096576745375237
+Casino Do Zé Maria - Budega Véia: Distancia entre os locais = 0.007639703552492603
+Casino Do Zé Maria - Syara Minor: Distancia entre os locais = 0.004009821827715078
+Casino Do Zé Maria - salão rocha: Distancia entre os locais = 0.003214486002455524
+Casino Do Zé Maria - Churrasquinho Morre em Pé: Distancia entre os locais = 0.004399351208982957
+Casino Do Zé Maria - Studio Marjorie Tranças: Distancia entre os locais = 0.006607094671639931
+Casino Do Zé Maria - Cigarreira do Pastel: Distancia entre os locais = 0.004631409375124976
+Casino Do Zé Maria - Usina Gastrobar: Distancia entre os locais = 0.004904322278358113
+Casino Do Zé Maria - Bar toca do Sassá: Distancia entre os locais = 0.004158150806543382
+Casino Do Zé Maria - MixBet Carrasco: Distancia entre os locais = 0.006757175139066654
+Casino Do Zé Maria - Ponto do Caldo: Distancia entre os locais = 0.0047614455756602985
+Casino Do Zé Maria - Posto Sao Geraldo: Distancia entre os locais = 0.004940384341323455
+Casino Do Zé Maria - UBS São Geraldo: Distancia entre os locais = 0.005203165537442832
+Casino Do Zé Maria - Percílio: Distancia entre os locais = 0.005608797462912739
+Elione Bar - Dom Geandro Lanchonete E Bar: Distancia entre os locais = 0.0018479528673643192
+Elione Bar - Wanderleia Hair: Distancia entre os locais = 0.009295141595473611
+Elione Bar - Budega Do Murilo: Distancia entre os locais = 0.001610439508335452
+Elione Bar - Esmalteria Andreza Nails: Distancia entre os locais = 0.008956881449474983
+Elione Bar - DR2 Society: Distancia entre os locais = 0.0031417894168780302
+Elione Bar - Bar Do Cervejão: Distancia entre os locais = 0.007406774910173918
+Elione Bar - Budega Véia: Distancia entre os locais = 0.0037010299026066108
+Elione Bar - Syara Minor: Distancia entre os locais = 0.003000062932676251
+Elione Bar - salão rocha: Distancia entre os locais = 0.004374882449848939
+Elione Bar - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0027769132233476284
+Elione Bar - Studio Marjorie Tranças: Distancia entre os locais = 0.010188023221900076
+Elione Bar - Cigarreira do Pastel: Distancia entre os locais = 0.0029180962646914973
+Elione Bar - Usina Gastrobar: Distancia entre os locais = 0.003060690771706735
+Elione Bar - Bar toca do Sassá: Distancia entre os locais = 0.006780690214130949
+Elione Bar - MixBet Carrasco: Distancia entre os locais = 0.0037665500939228777
+Elione Bar - Ponto do Caldo: Distancia entre os locais = 0.006855808248485917
+Elione Bar - Posto Sao Geraldo: Distancia entre os locais = 0.004335231625872041
+Elione Bar - UBS São Geraldo: Distancia entre os locais = 0.0073201886656028645
+Elione Bar - Percílio: Distancia entre os locais = 0.002139490109816195
+Dom Geandro Lanchonete E Bar - Wanderleia Hair: Distancia entre os locais = 0.009284914011446148
+Dom Geandro Lanchonete E Bar - Budega Do Murilo: Distancia entre os locais = 0.0032937025199623053
+Dom Geandro Lanchonete E Bar - Esmalteria Andreza Nails: Distancia entre os locais = 0.008542636156362509
+Dom Geandro Lanchonete E Bar - DR2 Society: Distancia entre os locais = 0.004960524546860425
+Dom Geandro Lanchonete E Bar - Bar Do Cervejão: Distancia entre os locais = 0.009025422590106434
+Dom Geandro Lanchonete E Bar - Budega Véia: Distancia entre os locais = 0.0018531161053733864
+Dom Geandro Lanchonete E Bar - Syara Minor: Distancia entre os locais = 0.00471811639110499
+Dom Geandro Lanchonete E Bar - salão rocha: Distancia entre os locais = 0.00621188473894935
+Dom Geandro Lanchonete E Bar - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0043971744165994114
+Dom Geandro Lanchonete E Bar - Studio Marjorie Tranças: Distancia entre os locais = 0.0111618699101012
+Dom Geandro Lanchonete E Bar - Cigarreira do Pastel: Distancia entre os locais = 0.004483077573497498
+Dom Geandro Lanchonete E Bar - Usina Gastrobar: Distancia entre os locais = 0.004554803640114461
+Dom Geandro Lanchonete E Bar - Bar toca do Sassá: Distancia entre os locais = 0.008628630200675787
+Dom Geandro Lanchonete E Bar - MixBet Carrasco: Distancia entre os locais = 0.004552895769728593
+Dom Geandro Lanchonete E Bar - Ponto do Caldo: Distancia entre os locais = 0.008690957582453482
+Dom Geandro Lanchonete E Bar - Posto Sao Geraldo: Distancia entre os locais = 0.00423787637030434
+Dom Geandro Lanchonete E Bar - UBS São Geraldo: Distancia entre os locais = 0.007845028648772507
+Dom Geandro Lanchonete E Bar - Percílio: Distancia entre os locais = 0.003059001060802888
+Wanderleia Hair - Budega Do Murilo: Distancia entre os locais = 0.010434392254940358
+Wanderleia Hair - Esmalteria Andreza Nails: Distancia entre os locais = 0.0020572567413900873
+Wanderleia Hair - DR2 Society: Distancia entre os locais = 0.010731358569163667
+Wanderleia Hair - Bar Do Cervejão: Distancia entre os locais = 0.00898200292640729
+Wanderleia Hair - Budega Véia: Distancia entre os locais = 0.00962094627881697
+Wanderleia Hair - Syara Minor: Distancia entre os locais = 0.011229826470609742
+Wanderleia Hair - salão rocha: Distancia entre os locais = 0.011156903221319833
+Wanderleia Hair - Churrasquinho Morre em Pé: Distancia entre os locais = 0.011369152148242875
+Wanderleia Hair - Studio Marjorie Tranças: Distancia entre os locais = 0.005680690420187327
+Wanderleia Hair - Cigarreira do Pastel: Distancia entre os locais = 0.011595541886860083
+Wanderleia Hair - Usina Gastrobar: Distancia entre os locais = 0.011838849788722657
+Wanderleia Hair - Bar toca do Sassá: Distancia entre os locais = 0.012088546821674108
+Wanderleia Hair - MixBet Carrasco: Distancia entre os locais = 0.013041938150826072
+Wanderleia Hair - Ponto do Caldo: Distancia entre os locais = 0.01278383647032005
+Wanderleia Hair - Posto Sao Geraldo: Distancia entre os locais = 0.005066851666468281
+Wanderleia Hair - UBS São Geraldo: Distancia entre os locais = 0.0029955281370704022
+Wanderleia Hair - Percílio: Distancia entre os locais = 0.011430566303114124
+Budega Do Murilo - Esmalteria Andreza Nails: Distancia entre os locais = 0.010308835224699556
+Budega Do Murilo - DR2 Society: Distancia entre os locais = 0.0017697316434981203
+Budega Do Murilo - Bar Do Cervejão: Distancia entre os locais = 0.0069576493516126416
+Budega Do Murilo - Budega Véia: Distancia entre os locais = 0.005100631530506698
+Budega Do Murilo - Syara Minor: Distancia entre os locais = 0.001424785755824924
+Budega Do Murilo - salão rocha: Distancia entre os locais = 0.0030510818310878858
+Budega Do Murilo - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0011674478232432375
+Budega Do Murilo - Studio Marjorie Tranças: Distancia entre os locais = 0.010536541195289129
+Budega Do Murilo - Cigarreira do Pastel: Distancia entre os locais = 0.001322241445423686
+Budega Do Murilo - Usina Gastrobar: Distancia entre os locais = 0.0014976639042179464
+Budega Do Murilo - Bar toca do Sassá: Distancia entre os locais = 0.005546023542144139
+Budega Do Murilo - MixBet Carrasco: Distancia entre os locais = 0.002772003697689954
+Budega Do Murilo - Ponto do Caldo: Distancia entre os locais = 0.005486066825148889
+Budega Do Murilo - Posto Sao Geraldo: Distancia entre os locais = 0.005677597537690218
+Budega Do Murilo - UBS São Geraldo: Distancia entre os locais = 0.008153888346676613
+Budega Do Murilo - Percílio: Distancia entre os locais = 0.001500999993335689
+Esmalteria Andreza Nails - DR2 Society: Distancia entre os locais = 0.010937138450253129
+Esmalteria Andreza Nails - Bar Do Cervejão: Distancia entre os locais = 0.01022180349693774
+Esmalteria Andreza Nails - Budega Véia: Distancia entre os locais = 0.008501597414600232
+Esmalteria Andreza Nails - Syara Minor: Distancia entre os locais = 0.011313755175893246
+Esmalteria Andreza Nails - salão rocha: Distancia entre os locais = 0.011576156607870312
+Esmalteria Andreza Nails - Churrasquinho Morre em Pé: Distancia entre os locais = 0.01135869758598882
+Esmalteria Andreza Nails - Studio Marjorie Tranças: Distancia entre os locais = 0.007607497846861872
+Esmalteria Andreza Nails - Cigarreira do Pastel: Distancia entre os locais = 0.011567677732802518
+Esmalteria Andreza Nails - Usina Gastrobar: Distancia entre os locais = 0.01178523965390557
+Esmalteria Andreza Nails - Bar toca do Sassá: Distancia entre os locais = 0.01287699306670077
+Esmalteria Andreza Nails - MixBet Carrasco: Distancia entre os locais = 0.01270979776747168
+Esmalteria Andreza Nails - Ponto do Caldo: Distancia entre os locais = 0.013484231086715086
+Esmalteria Andreza Nails - Posto Sao Geraldo: Distancia entre os locais = 0.004636520088386829
+Esmalteria Andreza Nails - UBS São Geraldo: Distancia entre os locais = 0.004304464891249378
+Esmalteria Andreza Nails - Percílio: Distancia entre os locais = 0.011075787885741805
+DR2 Society - Bar Do Cervejão: Distancia entre os locais = 0.005639778113543138
+DR2 Society - Budega Véia: Distancia entre os locais = 0.006801872989110378
+DR2 Society - Syara Minor: Distancia entre os locais = 0.0007897145433653715
+DR2 Society - salão rocha: Distancia entre os locais = 0.0012817323940661836
+DR2 Society - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0012830518968437582
+DR2 Society - Studio Marjorie Tranças: Distancia entre os locais = 0.009873827568376304
+DR2 Society - Cigarreira do Pastel: Distancia entre os locais = 0.0014780878898084057
+DR2 Society - Usina Gastrobar: Distancia entre os locais = 0.0017324168147414534
+DR2 Society - Bar toca do Sassá: Distancia entre os locais = 0.0037774087202757933
+DR2 Society - MixBet Carrasco: Distancia entre os locais = 0.0037075699170760743
+DR2 Society - Ponto do Caldo: Distancia entre os locais = 0.0037382313946571722
+DR2 Society - Posto Sao Geraldo: Distancia entre os locais = 0.006445897285094237
+DR2 Society - UBS São Geraldo: Distancia entre os locais = 0.008124422276080002
+DR2 Society - Percílio: Distancia entre os locais = 0.0030398828743868666
+Bar Do Cervejão - Budega Véia: Distancia entre os locais = 0.010716976870832068
+Bar Do Cervejão - Syara Minor: Distancia entre os locais = 0.00642752923058477
+Bar Do Cervejão - salão rocha: Distancia entre os locais = 0.004903212049256707
+Bar Do Cervejão - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0069164545281500825
+Bar Do Cervejão - Studio Marjorie Tranças: Distancia entre os locais = 0.005335970608990905
+Bar Do Cervejão - Cigarreira do Pastel: Distancia entre os locais = 0.00711780827642834
+Bar Do Cervejão - Usina Gastrobar: Distancia entre os locais = 0.007370305834223982
+Bar Do Cervejão - Bar toca do Sassá: Distancia entre os locais = 0.003999804801478077
+Bar Do Cervejão - MixBet Carrasco: Distancia entre os locais = 0.009345931392858574
+Bar Do Cervejão - Ponto do Caldo: Distancia entre os locais = 0.004873974174116889
+Bar Do Cervejão - Posto Sao Geraldo: Distancia entre os locais = 0.007426338361534556
+Bar Do Cervejão - UBS São Geraldo: Distancia entre os locais = 0.00601441766840492
+Bar Do Cervejão - Percílio: Distancia entre os locais = 0.008450157300308849
+Budega Véia - Syara Minor: Distancia entre os locais = 0.006516342626044506
+Budega Véia - salão rocha: Distancia entre os locais = 0.008060186415336077
+Budega Véia - Churrasquinho Morre em Pé: Distancia entre os locais = 0.006156797609958424
+Budega Véia - Studio Marjorie Tranças: Distancia entre os locais = 0.01232828476187754
+Budega Véia - Cigarreira do Pastel: Distancia entre os locais = 0.006215772252100994
+Budega Véia - Usina Gastrobar: Distancia entre os locais = 0.006252068126627782
+Budega Véia - Bar toca do Sassá: Distancia entre os locais = 0.01048171993520072
+Budega Véia - MixBet Carrasco: Distancia entre os locais = 0.005854245793440989
+Budega Véia - Ponto do Caldo: Distancia entre os locais = 0.010537131725473525
+Budega Véia - Posto Sao Geraldo: Distancia entre os locais = 0.004882485306680587
+Budega Véia - UBS São Geraldo: Distancia entre os locais = 0.008725725113708628
+Budega Véia - Percílio: Distancia entre os locais = 0.004591388771384519
+Syara Minor - salão rocha: Distancia entre os locais = 0.0018613278190594902
+Syara Minor - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0005274974976218097
+Syara Minor - Studio Marjorie Tranças: Distancia entre os locais = 0.010615687367762602
+Syara Minor - Cigarreira do Pastel: Distancia entre os locais = 0.0006945015262742588
+Syara Minor - Usina Gastrobar: Distancia entre os locais = 0.0009430504546397416
+Syara Minor - Bar toca do Sassá: Distancia entre os locais = 0.004332925009740222
+Syara Minor - MixBet Carrasco: Distancia entre os locais = 0.002924012354624504
+Syara Minor - Ponto do Caldo: Distancia entre os locais = 0.004158689507525963
+Syara Minor - Posto Sao Geraldo: Distancia entre os locais = 0.006742171552994597
+Syara Minor - UBS São Geraldo: Distancia entre os locais = 0.00871498634881947
+Syara Minor - Percílio: Distancia entre os locais = 0.0024070178416440227
+salão rocha - Churrasquinho Morre em Pé: Distancia entre os locais = 0.0023857441019515145
+salão rocha - Studio Marjorie Tranças: Distancia entre os locais = 0.009611758999265954
+salão rocha - Cigarreira do Pastel: Distancia entre os locais = 0.002514321892678807
+salão rocha - Usina Gastrobar: Distancia entre os locais = 0.002711105968051732
+salão rocha - Bar toca do Sassá: Distancia entre os locais = 0.0025011416293390823
+salão rocha - MixBet Carrasco: Distancia entre os locais = 0.004671920829810926
+salão rocha - Ponto do Caldo: Distancia entre os locais = 0.0024809736092922903
+salão rocha - Posto Sao Geraldo: Distancia entre os locais = 0.0072557676437402276
+salão rocha - UBS São Geraldo: Distancia entre os locais = 0.008380568224769111
+salão rocha - Percílio: Distancia entre os locais = 0.004257276923103744
+Churrasquinho Morre em Pé - Studio Marjorie Tranças: Distancia entre os locais = 0.010988652631691005
+Churrasquinho Morre em Pé - Cigarreira do Pastel: Distancia entre os locais = 0.0002391587339003659
+Churrasquinho Morre em Pé - Usina Gastrobar: Distancia entre os locais = 0.0005113592181650089
+Churrasquinho Morre em Pé - Bar toca do Sassá: Distancia entre os locais = 0.00484488681498589
+Churrasquinho Morre em Pé - MixBet Carrasco: Distancia entre os locais = 0.0024300113003886594
+Churrasquinho Morre em Pé - Ponto do Caldo: Distancia entre os locais = 0.004637112054932924
+Churrasquinho Morre em Pé - Posto Sao Geraldo: Distancia entre os locais = 0.0067488423199797655
+Churrasquinho Morre em Pé - UBS São Geraldo: Distancia entre os locais = 0.008938076317084358
+Churrasquinho Morre em Pé - Percílio: Distancia entre os locais = 0.0019034373643488597
+Studio Marjorie Tranças - Cigarreira do Pastel: Distancia entre os locais = 0.011223984176753346
+Studio Marjorie Tranças - Usina Gastrobar: Distancia entre os locais = 0.011497694143175871
+Studio Marjorie Tranças - Bar toca do Sassá: Distancia entre os locais = 0.00930217699949105
+Studio Marjorie Tranças - MixBet Carrasco: Distancia entre os locais = 0.013280562979786126
+Studio Marjorie Tranças - Ponto do Caldo: Distancia entre os locais = 0.010163343877383267
+Studio Marjorie Tranças - Posto Sao Geraldo: Distancia entre os locais = 0.007605397336104705
+Studio Marjorie Tranças - UBS São Geraldo: Distancia entre os locais = 0.00392109158398332
+Studio Marjorie Tranças - Percílio: Distancia entre os locais = 0.011958012032941197
+Cigarreira do Pastel - Usina Gastrobar: Distancia entre os locais = 0.0002737664150334466
+Cigarreira do Pastel - Bar toca do Sassá: Distancia entre os locais = 0.004941101542170506
+Cigarreira do Pastel - MixBet Carrasco: Distancia entre os locais = 0.00223029108862652
+Cigarreira do Pastel - Ponto do Caldo: Distancia entre os locais = 0.004693078551443026
+Cigarreira do Pastel - Posto Sao Geraldo: Distancia entre os locais = 0.00695143584592161
+Cigarreira do Pastel - UBS São Geraldo: Distancia entre os locais = 0.009174341079884409
+Cigarreira do Pastel - Percílio: Distancia entre os locais = 0.0018516081928950734
+Usina Gastrobar - Bar toca do Sassá: Distancia entre os locais = 0.0050991477425197775
+Usina Gastrobar - MixBet Carrasco: Distancia entre os locais = 0.0019879779098382023
+Usina Gastrobar - Ponto do Caldo: Distancia entre os locais = 0.004810654452360484
+Usina Gastrobar - Posto Sao Geraldo: Distancia entre os locais = 0.007161663927466215
+Usina Gastrobar - UBS São Geraldo: Distancia entre os locais = 0.009435397739367798
+Usina Gastrobar - Percílio: Distancia entre os locais = 0.0017865442199951286
+Bar toca do Sassá - MixBet Carrasco: Distancia entre os locais = 0.0069628378790607464
+Bar toca do Sassá - Ponto do Caldo: Distancia entre os locais = 0.0008785543807919012
+Bar toca do Sassá - Posto Sao Geraldo: Distancia entre os locais = 0.008977947309375144
+Bar toca do Sassá - UBS São Geraldo: Distancia entre os locais = 0.009126913706172803
+Bar toca do Sassá - Percílio: Distancia entre os locais = 0.0067398625542386785
+MixBet Carrasco - Ponto do Caldo: Distancia entre os locais = 0.0065598810972483605
+MixBet Carrasco - Posto Sao Geraldo: Distancia entre os locais = 0.008100014944430184
+MixBet Carrasco - UBS São Geraldo: Distancia entre os locais = 0.010893229418777387
+MixBet Carrasco - Percílio: Distancia entre os locais = 0.0016340133659220018
+Ponto do Caldo - Posto Sao Geraldo: Distancia entre os locais = 0.00943428863083728
+Ponto do Caldo - UBS São Geraldo: Distancia entre os locais = 0.009847131874814858
+Ponto do Caldo - Percílio: Distancia entre os locais = 0.0065373341546844654
+Posto Sao Geraldo - UBS São Geraldo: Distancia entre os locais = 0.0038574605130886775
+Posto Sao Geraldo - Percílio: Distancia entre os locais = 0.006468269408423418
+UBS São Geraldo - Percílio: Distancia entre os locais = 0.009363147165885379

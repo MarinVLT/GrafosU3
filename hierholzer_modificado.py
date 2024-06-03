@@ -3,7 +3,6 @@ from criar_grafo import *
 
 
 def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
-    #print('entrei aqui')
     # Verifica se o grafo está vazio
     if len(grafo.nodes) == 0:
         raise ValueError("Nenhum local mapeado")
@@ -11,6 +10,7 @@ def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
     # Encontra o vértice com o maior 'score_final'
     vertice_inicial = max(grafo.nodes, key=lambda x: grafo.nodes[x]['score_final'])
     locais = []
+
     tipos_restantes = set(lista_tipos_pedido)
 
     # Se o número de locais desejado for menor que o número total de nós no grafo,
@@ -28,17 +28,16 @@ def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
                 for vizinho in grafo.neighbors(vertice_atual):
                     vizinho_tipos = set(grafo.nodes[vizinho].get('tipos', []))
                     if grafo.nodes[vizinho].get('score_final', 0) > aux and vizinho not in locais:
+                        #Se tipos_restantes estiver vazio ja foi garantido que existe pelo menos um local de cada tipo no resultado
                         if len(tipos_restantes) <= 0:
                             locais.append(vizinho)
                             vertice_atual = vizinho
-                            #print('vizinho add sem tipo')
                             break
                         elif vizinho_tipos.intersection(tipos_restantes):
                             locais.append(vizinho)
                             vertice_atual = vizinho
-                            #print('vizinho add com tipo')
+
                             # Remove tipos encontrados dos tipos restantes
-                            #print(tipos_restantes)
                             tipos_restantes -= vizinho_tipos.intersection(tipos_restantes)
                             break
                 
@@ -96,17 +95,17 @@ def hierholzer_modificado(grafo, num_locais, lista_tipos_pedido=[]):
     } for local in locais]
 
 
-def salvar_ranking_em_txt(grafo, locais, arquivo):
+def salvar_resultado_txt(grafo, locais, arquivo):
     if not grafo.nodes:
         with open(arquivo, 'w') as file:
             file.write(f"Nenhum local mapeado!")
         return ValueError("Nenhum local mapeado")
     else:
         with open(arquivo, 'w') as f:
-            f.write("\nRanking:\n")
+            f.write("\nResultado:\n")
             for i, local in enumerate(locais, 1):
                 f.write(f"{i}: {local['nome']} - {local['endereco']} ({local['place_id']}) ({local['tipos']})({local['score_final']})\n")
-        print("Ranking salvo!")
+        print("Resultado salvo!")
 
 
 #arq_ranking = os.getenv('ARQ_RANKING')
