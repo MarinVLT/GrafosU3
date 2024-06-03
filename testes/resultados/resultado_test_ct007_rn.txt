@@ -1,0 +1,10 @@
+
+Resultado:
+1: Oficina do samba - Av. Sen. Salgado Filho -N°C 7 - Lagoa Nova, Natal - RN, 59076-010, Brazil (ChIJb_1EJ6D_sgcRhAL1Apyen4E) (['bar', 'point_of_interest', 'establishment'])(5.689983534988913)
+2: Lagoa nova - R. Morais Navarro - Lagoa Nova, Natal - RN, 59075-770, Brazil (ChIJpe6bMF3_sgcRHD-Dg1BUk-U) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.516072277841536)
+3: Raffinata confeitaria! - Av. Rui Barbosa, 11A - Lagoa Nova, Natal - RN, 59056-300, Brazil (ChIJk4BiCl4BswcRpj4EuJ5YSl4) (['bakery', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.5416281487843095)
+4: Galeria Salgado Filho - Av. Sen. Salgado Filho, 1773 - Lagoa Nova, Natal - RN, 59015-000, Brazil (ChIJ_38c-F7_sgcRcw5bHt7lFRM) (['shopping_mall', 'point_of_interest', 'establishment'])(5.492427479027915)
+5: Petisqueria Natal - Petiscos e Buffet - Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil (ChIJ1_A-nnL_sgcRwfSTehakkW8) (['meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.273398714292211)
+
+test_ct007_rn:
+83.58069467544556

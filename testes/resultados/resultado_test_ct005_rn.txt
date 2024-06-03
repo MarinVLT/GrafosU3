@@ -1,0 +1,10 @@
+
+Resultado:
+1: Mercatto - Av. Nascimento de Castro, 1890 - Lagoa Nova, Natal - RN, 59056-450, Brazil (ChIJkUB5tvb_sgcRIFkc7pQesjE) (['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.941654776383885)
+2: Raffinata confeitaria! - Av. Rui Barbosa, 11A - Lagoa Nova, Natal - RN, 59056-300, Brazil (ChIJk4BiCl4BswcRpj4EuJ5YSl4) (['bakery', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.5416281487843095)
+3: Espetaria do Bezerra - R. Cel. Norton Chaves, 03 - Lagoa Nova, Natal - RN, 59075-200, Brazil (ChIJjcu_SH9VsgcRx59Tr8MzMYE) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.8436006383189945)
+4: Portugal Center Shopping - Av. Sen. Salgado Filho, 2190 - Lagoa Nova, Natal - RN, 59056-000, Brazil (ChIJlf0YmPP_sgcRmD3hhfDl3LM) (['shopping_mall', 'point_of_interest', 'establishment'])(4.992367329576253)
+5: International Trade Center - Rua Dr. Poty Nóbrega, 1946 - Lagoa Nova, Natal - RN, 59056-180, Brazil (ChIJN0pLDPH_sgcRBS2lE-DOlEo) (['parking', 'point_of_interest', 'establishment'])(5.123027902185392)
+
+test_ct005_rn:
+87.74753093719482

@@ -10,6 +10,7 @@ def hierholzer_modificado(grafo, num_locais, k, lista_tipos_pedido=[]):
     # Encontra o vértice com o maior 'score_final'
     vertice_inicial = max(grafo.nodes, key=lambda x: grafo.nodes[x]['score_final'])
     locais = []
+    
 
     tipos_restantes = set(lista_tipos_pedido)
 
@@ -23,24 +24,39 @@ def hierholzer_modificado(grafo, num_locais, k, lista_tipos_pedido=[]):
         locais = []
         while True:
             vertice_atual = vertice_inicial
+            #contador
+            countPiorCaso = 0
 
             while True:
                 
                 for vizinho in grafo.neighbors(vertice_atual):
+                    countPiorCaso += 1
                     vizinho_tipos = set(grafo.nodes[vizinho].get('tipos', []))
                     if grafo.nodes[vizinho].get('score_final', 0) > aux and vizinho not in locais:
+                    
                         #Se tipos_restantes estiver vazio ja foi garantido que existe pelo menos um local de cada tipo no resultado
                         if len(tipos_restantes) <= 0:
                             locais.append(vizinho)
                             vertice_atual = vizinho
+
+                            countPiorCaso = 0
                             break
                         elif vizinho_tipos.intersection(tipos_restantes):
                             locais.append(vizinho)
                             vertice_atual = vizinho
                             # Remove tipos encontrados dos tipos restantes
                             tipos_restantes -= vizinho_tipos.intersection(tipos_restantes)
+
+                            countPiorCaso = 0
                             break
-                
+                        elif countPiorCaso > len(list(grafo.neighbors(vertice_atual))) and vizinho_tipos.intersection(tipos_restantes) == set() and len(tipos_restantes) > 0:
+                            locais.append(vizinho)
+                            vertice_atual = vizinho
+                        
+                            countPiorCaso = 0
+                            break
+                        #print(vizinho_tipos.intersection(tipos_restantes) == set() and len(tipos_restantes) < 0)
+
                 aux -= 0.1
 
                 if vertice_atual == vertice_inicial and len(locais) >= num_locais:
