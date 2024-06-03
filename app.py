@@ -11,7 +11,6 @@ from hierholzer_modificado import *
 
 app = Flask(__name__)
 load_dotenv()
-api_key = os.getenv('API_KEY')
 arq_locais_map = os.getenv('ARQ_LOCAIS_MAPEADOS')
 arq_usuario = os.getenv('ARQ_USUARIO')
 arq_resultado = os.getenv('ARQ_RESULTADOS')
@@ -31,10 +30,10 @@ def places_location():
     num_locais = int(data['num_locais'])
 
     coordenadas = (latitude, longitude)
-    gerar_usuario_txt(coordenadas, tipo_locais, arq_usuario, api_key)
+    gerar_usuario_txt(coordenadas, tipo_locais, arq_usuario)
 
     coordenadas, tipos_de_estabelecimentos, locais_visitados = ler_informacoes_usuario(arq_usuario)
-    locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio, api_key)
+    locais_encontrados = mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, raio)
     salvar_locais_mapeados(arq_locais_map, locais_encontrados)
 
     grafo = criar_grafo_euleriano(locais_encontrados)

@@ -97,11 +97,11 @@ def hierholzer_modificado(grafo, num_locais, k, lista_tipos_pedido=[]):
 
 def salvar_resultado_txt(grafo, locais, arquivo):
     if not grafo.nodes:
-        with open(arquivo, 'w') as file:
+        with open(arquivo, 'w', encoding='utf-8') as file:
             file.write(f"Nenhum local mapeado!")
         return ValueError("Nenhum local mapeado")
     else:
-        with open(arquivo, 'w') as f:
+        with open(arquivo, 'w', encoding='utf-8') as f:
             f.write("\nResultado:\n")
             for i, local in enumerate(locais, 1):
                 f.write(f"{i}: {local['nome']} - {local['endereco']} ({local['place_id']}) ({local['tipos']})({local['score_final']})\n")

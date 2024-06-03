@@ -11,10 +11,6 @@ path_usuario = 'testes/usuario/'
 path_resultados = 'testes/resultados/'
 
 #Configurando o nome dos arquivos de usuário
-US1_RN_4 = 'US1_RN_4.txt'
-US2_RN_10 = 'US2_RN_10.txt'
-US3_RN_30 = 'US3_RN_30.txt'
-
 US1_SP_4 = 'US1_SP_4.txt'
 US2_SP_10 = 'US2_SP_10.txt'
 US3_SP_30 = 'US3_SP_30.txt'
@@ -38,9 +34,9 @@ class TestCases(unittest.TestCase):
             file.write(string)
         print(f"Tempo de execução para {teste_atual}: {tempo_execucao} segundos")
 
-    def test_ct001_rn(self):
+    def test_ct001_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US1_RN_4
+        arq_usuario = path_usuario + US1_SP_4
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 1000
         media_score = 3.5
@@ -51,9 +47,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct002_rn(self):
+    def test_ct002_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US1_RN_4
+        arq_usuario = path_usuario + US1_SP_4
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 1000
         media_score = 7
@@ -64,9 +60,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct003_rn(self):
+    def test_ct003_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US2_RN_10
+        arq_usuario = path_usuario + US2_SP_10
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 1000
         media_score = 3.5
@@ -77,9 +73,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct004_rn(self):
+    def test_ct004_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US2_RN_10
+        arq_usuario = path_usuario + US2_SP_10
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 1000
         media_score = 7
@@ -90,9 +86,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct005_rn(self):
+    def test_ct005_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US3_RN_30
+        arq_usuario = path_usuario + US3_SP_30
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 1000
         media_score = 3.5
@@ -103,9 +99,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct006_rn(self):
+    def test_ct006_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US3_RN_30
+        arq_usuario = path_usuario + US3_SP_30
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 1000
         media_score = 7
@@ -116,9 +112,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct007_rn(self):
+    def test_ct007_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US1_RN_4
+        arq_usuario = path_usuario + US1_SP_4
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 5000
         media_score = 3.5
@@ -129,9 +125,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct008_rn(self):
+    def test_ct008_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US1_RN_4
+        arq_usuario = path_usuario + US1_SP_4
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 5000
         media_score = 7
@@ -142,9 +138,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct009_rn(self):
+    def test_ct009_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US2_RN_10
+        arq_usuario = path_usuario + US2_SP_10
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 5000
         media_score = 3.5
@@ -155,9 +151,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct010_rn(self):
+    def test_ct010_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US2_RN_10
+        arq_usuario = path_usuario + US2_SP_10
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 5000
         media_score = 7
@@ -168,9 +164,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct011_rn(self):
+    def test_ct011_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US3_RN_30
+        arq_usuario = path_usuario + US3_SP_30
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 5000
         media_score = 3.5
@@ -181,9 +177,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct012_rn(self):
+    def test_ct012_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US3_RN_30
+        arq_usuario = path_usuario + US3_SP_30
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 5000
         media_score = 7
@@ -194,9 +190,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct013_rn(self):
+    def test_ct013_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US1_RN_4
+        arq_usuario = path_usuario + US1_SP_4
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 10000
         media_score = 3.5
@@ -207,9 +203,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct014_rn(self):
+    def test_ct014_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US1_RN_4
+        arq_usuario = path_usuario + US1_SP_4
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 10000
         media_score = 7
@@ -220,9 +216,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct015_rn(self):
+    def test_ct015_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US2_RN_10
+        arq_usuario = path_usuario + US2_SP_10
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 10000
         media_score = 3.5
@@ -233,9 +229,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct016_rn(self):
+    def test_ct016_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US2_RN_10
+        arq_usuario = path_usuario + US2_SP_10
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 10000
         media_score = 7
@@ -246,9 +242,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct017_rn(self):
+    def test_ct017_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US3_RN_30
+        arq_usuario = path_usuario + US3_SP_30
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 10000
         media_score = 3.5
@@ -259,9 +255,9 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    def test_ct018_rn(self):
+    def test_ct018_sp(self):
         teste_atual = inspect.currentframe().f_code.co_name
-        arq_usuario = path_usuario + US3_RN_30
+        arq_usuario = path_usuario + US3_SP_30
         arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
         raio = 10000
         media_score = 7

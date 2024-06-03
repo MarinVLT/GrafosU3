@@ -2,8 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/config/locais_mapeados.txt" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/config/locais_mapeados.txt" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/config/usuario.txt" charset="windows-1252" />
-    <file url="file://$PROJECT_DIR$/config/usuario.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/testes/resultados/resultado_test_ct001_rn.txt" charset="windows-1252" />
   </component>
 </project>
