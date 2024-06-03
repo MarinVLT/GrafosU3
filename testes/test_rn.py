@@ -15,10 +15,6 @@ US1_RN_4 = 'US1_RN_4.txt'
 US2_RN_10 = 'US2_RN_10.txt'
 US3_RN_30 = 'US3_RN_30.txt'
 
-US1_SP_4 = 'US1_SP_4.txt'
-US2_SP_10 = 'US2_SP_10.txt'
-US3_SP_30 = 'US3_SP_30.txt'
-
 class TestCases(unittest.TestCase):
 
     def perfil_teste(self, arquivo_usuario, raio, media_score, arquivo_resultado):
