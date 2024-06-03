@@ -36,125 +36,125 @@ class TestCases(unittest.TestCase):
             file.write(string)
         print(f"Tempo de execução para {teste_atual}: {tempo_execucao} segundos")
 
-    # def test_ct001_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 3.5
-    #     qtd_locais = 5
+    def test_ct001_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 3.5
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct002_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 3.5
-    #     qtd_locais = 10
+    def test_ct002_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 3.5
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct003_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 7
-    #     qtd_locais = 5
+    def test_ct003_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 7
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct004_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 7
-    #     qtd_locais = 10
+    def test_ct004_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 7
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct005_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 3.5
-    #     qtd_locais = 5
+    def test_ct005_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 3.5
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct006_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 3.5
-    #     qtd_locais = 10
+    def test_ct006_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 3.5
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct007_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 7
-    #     qtd_locais = 5
+    def test_ct007_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 7
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct008_sp(self):
-    #     raio = 1000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 7
-    #     qtd_locais = 10
+    def test_ct008_sp(self):
+        raio = 1000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 7
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
     def test_ct009_sp(self):
         raio = 1000
@@ -216,125 +216,125 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct013_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 3.5
-    #     qtd_locais = 5
+    def test_ct013_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 3.5
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct014_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 3.5
-    #     qtd_locais = 10
+    def test_ct014_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 3.5
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct015_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 7
-    #     qtd_locais = 5
+    def test_ct015_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 7
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct016_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 7
-    #     qtd_locais = 10
+    def test_ct016_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 7
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct017_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 3.5
-    #     qtd_locais = 5
+    def test_ct017_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 3.5
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct018_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 3.5
-    #     qtd_locais = 10
+    def test_ct018_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 3.5
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct019_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 7
-    #     qtd_locais = 5
+    def test_ct019_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 7
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct020_sp(self):
-    #     raio = 5000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 7
-    #     qtd_locais = 10
+    def test_ct020_sp(self):
+        raio = 5000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 7
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
     def test_ct021_sp(self):
         raio = 5000
@@ -396,125 +396,125 @@ class TestCases(unittest.TestCase):
         except Exception as e:
             self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct025_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 3.5
-    #     qtd_locais = 5
+    def test_ct025_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 3.5
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct026_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 3.5
-    #     qtd_locais = 10
+    def test_ct026_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 3.5
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct027_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 7
-    #     qtd_locais = 5
+    def test_ct027_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 7
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct028_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US1_SP_4
-    #     media_score = 7
-    #     qtd_locais = 10
+    def test_ct028_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US1_SP_4
+        media_score = 7
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct029_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 3.5
-    #     qtd_locais = 5
+    def test_ct029_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 3.5
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct030_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 3.5
-    #     qtd_locais = 10
+    def test_ct030_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 3.5
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct031_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 7
-    #     qtd_locais = 5
+    def test_ct031_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 7
+        qtd_locais = 5
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
-    # def test_ct032_sp(self):
-    #     raio = 10000
-    #     arq_usuario = path_usuario + US2_SP_10
-    #     media_score = 7
-    #     qtd_locais = 10
+    def test_ct032_sp(self):
+        raio = 10000
+        arq_usuario = path_usuario + US2_SP_10
+        media_score = 7
+        qtd_locais = 10
 
-    #     teste_atual = inspect.currentframe().f_code.co_name
-    #     arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
+        teste_atual = inspect.currentframe().f_code.co_name
+        arq_resultado = path_resultados + 'resultado_' + teste_atual + '.txt'
 
-    #     try:
-    #         tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
-    #         self.output(arq_resultado, teste_atual, tempo_execucao)
-    #     except Exception as e:
-    #         self.fail(teste_atual + ' falhou na execução: ' + str(e))
+        try:
+            tempo_execucao = self.perfil_teste(arq_usuario, raio, media_score, arq_resultado, qtd_locais)
+            self.output(arq_resultado, teste_atual, tempo_execucao)
+        except Exception as e:
+            self.fail(teste_atual + ' falhou na execução: ' + str(e))
 
     def test_ct033_sp(self):
         raio = 10000
