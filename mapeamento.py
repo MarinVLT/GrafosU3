@@ -34,8 +34,6 @@ def ler_informacoes_usuario(arquivo):
     # Retorna as coordenadas, os tipos de estabelecimentos e os locais visitados
     return coordenadas, tipos_de_estabelecimentos, locais_visitados
 
-
-
 def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, radius, api_key):
     # Inicializa o cliente da API do Google Maps com a chave fornecida
     gmaps = googlemaps.Client(key=api_key)

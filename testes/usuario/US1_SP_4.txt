@@ -1,0 +1,7 @@
+-23.55518522165706,-46.63560039950819
+bar,pet_store,hospital,bank
+Prontocan: Hotel, Day Care e Clínica Veterinária,veterinary_care,pet_store,store,point_of_interest,establishment,4.7
+Caixa,bank,atm,finance,point_of_interest,establishment,3.4
+Bar do Coice,bar,point_of_interest,establishment,0
+Bank of Brazil,bank,atm,finance,point_of_interest,establishment,3
+Maciel Rações,pet_store,store,point_of_interest,establishment,4.7
