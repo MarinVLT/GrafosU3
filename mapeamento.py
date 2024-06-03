@@ -3,6 +3,9 @@ import os
 from dotenv import load_dotenv
 from funcoes_auxiliares import *
 
+load_dotenv()
+api_key = os.getenv('API_KEY')
+
 def ler_informacoes_usuario(arquivo):
     with open(arquivo, 'r', encoding='utf-8') as file:
         # Lê as coordenadas da primeira linha e as converte para float
@@ -34,9 +37,7 @@ def ler_informacoes_usuario(arquivo):
     # Retorna as coordenadas, os tipos de estabelecimentos e os locais visitados
     return coordenadas, tipos_de_estabelecimentos, locais_visitados
 
-
-
-def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, radius, api_key):
+def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locais_visitados, radius):
     # Inicializa o cliente da API do Google Maps com a chave fornecida
     gmaps = googlemaps.Client(key=api_key)
     # Dicionário para armazenar todos os estabelecimentos encontrados
@@ -46,7 +47,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
     for tipo in tipos_de_estabelecimentos:
          # Busca lugares próximos com base no tipo de estabelecimento (radius é em metros)
         resultados = gmaps.places_nearby(location=coordenadas, radius=radius, type=tipo)
-        
+
         # Se há resultados na busca
         if resultados['results']:
              # Itera sobre cada resultado
@@ -61,10 +62,10 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                     lugar = detalhes['result']
                      # Obtém os tipos do local
                     tipos_do_local = lugar.get('types')
-                    
+
                     # Similaridade entre o tipo do local atual e os tipos pedidos ao usuario
                     sim_entreTipos = jaccard_similaridade(set(tipos_de_estabelecimentos), set(tipos_do_local))
-                    
+
                     # Media de similaridade entre tipos do local atual e tipos dos locais ja visitados
                     similaridades = [jaccard_similaridade(set(tipo_local['tipos']), set(tipos_do_local)) for tipo_local in locais_visitados]
                     sim_HistoricoVisitados = sum(similaridades) / len(similaridades) if similaridades else 0
@@ -76,7 +77,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
 
                     #calculo da distancia entre o local e a coordenada passada
                     distancia = distancia_euclidiana((latitude, longitude), coordenadas)
-                    
+
                     # Armazena os detalhes do estabelecimento no dicionário
                     todos_estabelecimentos[place_id] = {
                         'place_id': place_id,
@@ -89,7 +90,7 @@ def mapeamento_de_estabelecimentos(coordenadas, tipos_de_estabelecimentos, locai
                         'coordenadas': (latitude, longitude),
                         'score_final': sim_entreTipos + sim_HistoricoVisitados - distancia + (lugar.get('rating') or 0)
                     }
-    
+
     # Retorna o dicionário com todos os estabelecimentos encontrados e seus scores
     return todos_estabelecimentos
 

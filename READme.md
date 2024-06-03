@@ -12,6 +12,10 @@ Com o pipenv instalado, fazer o download das dependências do projeto:
 pipenv install
 ```
 
+## Testes
+```
+python -m unittest discover -s testes -p 'test_*.py'
+```
 ## Etapas de Execução
 ### 1. Gerar usuário
 ### 2. Gerar mapa

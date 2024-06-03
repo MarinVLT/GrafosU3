@@ -1,0 +1,5 @@
+-23.55518522165706,-46.63560039950819
+bakery,bar,cafe,restaurant,shopping_mall,store,parking,subway_station,park,stadium
+Bar da Tania,bar,point_of_interest,establishment,0
+Adega Natal,shopping_mall,point_of_interest,establishment,4.4
+Liv Móveis Planejados Natal,furniture_store,home_goods_store,store,point_of_interest,establishment,2.3
