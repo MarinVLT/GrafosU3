@@ -1,0 +1,15 @@
+
+Resultado:
+1: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.525834298964493)
+2: Prontocan: Hotel, Day Care e Clínica Veterinária - R. Dr. Pedro Segundo de Araújo, 1801 - Capim Macio, Natal - RN, 59082-040, Brazil (ChIJVVVV1Wf_sgcRK6uUZJ61QZc) (['pet_store', 'veterinary_care', 'point_of_interest', 'store', 'establishment'])(5.31693316229083)
+3: AMI Vacinas - Unidade Mirassol - R. das Amapolas, 511 - Capim Macio, Natal - RN, 59078-210, Brazil (ChIJf6j0FHn_sgcRaBgPVJaJ80E) (['insurance_agency', 'hospital', 'point_of_interest', 'health', 'establishment'])(3.780744269918908)
+4: Nordeste Fomento Mercantil LTDA - R. Militão Chaves, 2182 - Candelária, Natal - RN, 59064-440, Brazil (ChIJs6mfER0AswcRNf9voKI2QKQ) (['atm', 'bank', 'finance', 'point_of_interest', 'establishment'])(5.669630965069082)
+5: JatoBar - Rua Escritor - R. José M. de Vasconcelos, 1840 - Capim Macio, Natal - RN, 59082-210, Brazil (ChIJsZmd6AgAswcREHmJ7m26gak) (['bar', 'point_of_interest', 'establishment'])(4.920030468614987)
+6: Espetinho do Lucas Bar Raíz de Natal - R. Cel. Norton Chaves, 885 - Lagoa Nova, Natal - RN, 59075-365, Brazil (ChIJ__Ty9Iv_sgcRaXjlr0YsIOg) (['bar', 'point_of_interest', 'establishment'])(5.009899889933296)
+7: Tempero Mineiro Bar e Restaurante - Av. Engenheiro Roberto Freire, 3740 - Ponta Negra, Natal - RN, 59090-000, Brazil (ChIJaf0MnCz_sgcRWpTeYaAYf0k) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.919523116237733)
+8: Botequim Tamo Junto - Alameda das Castanholas, 344 - Neópolis, Natal - RN, 59080-280, Brazil (ChIJ8Zehnmf_sgcRPepLDqTogmo) (['bar', 'point_of_interest', 'establishment'])(5.134472149095237)
+9: Restaurante Bari Palesi - Av. Engenheiro Roberto Freire, 2693 - Capim Macio, Natal - RN, 59082-400, Brazil (ChIJW-WWsDr_sgcRJyYOK3fTdb4) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.742515940586688)
+10: Filé Miau - Av. dos Pinheirais, 10 - Neópolis, Natal - RN, 59080-250, Brazil (ChIJK-DlBl7_sgcRuBphS9fYlKQ) (['bar', 'point_of_interest', 'establishment'])(4.431132163879509)
+
+test_ct014_rn:
+45.96954131126404

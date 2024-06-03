@@ -1,0 +1,10 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.037808266158432)
+2: Filho do Vento Bar e Lanches - R. Conselheiro Furtado, 371 - Sé, São Paulo - SP, 01511-000, Brazil (ChIJOYVWFKhZzpQRKBjx9bAceEw) (['bar', 'bakery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.881928405111608)
+3: Panificadora Santa Tereza - Praça Dr. João Mendes, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01501-000, Brazil (ChIJDXcY5Et7zpQR3PsmiWfwZF0) (['bakery', 'cafe', 'meal_delivery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.930998808403907)
+4: Galeria Conde de Sarzedas - Rua Conde de Sarzedas, 149 - Sé, São Paulo - SP, 01512-000, Brazil (ChIJURHPdgdZzpQRuaxE_5JtHaA) (['shopping_mall', 'church', 'place_of_worship', 'store', 'point_of_interest', 'establishment'])(4.925534292926232)
+5: H Park Estacionamento - Rua Conde de Sarzedas, 340 - Liberdade, São Paulo - SP, 01512-010, Brazil (ChIJa4HGsgdZzpQR_rqZOBozqtQ) (['parking', 'point_of_interest', 'establishment'])(4.921994670235555)
+
+test_ct005_sp:
+92.73980951309204

@@ -1,0 +1,10 @@
+
+Resultado:
+1: New Forest Trade Books Ltda me - Praça Dr. João Mendes, 25 - Centro Histórico de São Paulo, São Paulo - SP, 01501-001, Brazil (ChIJLXTnuatZzpQRk7GoYJftqSQ) (['book_store', 'point_of_interest', 'store', 'establishment'])(5.406397804110653)
+2: Cupcake.ito - R. Júlio Diniz, 39 - Vila Olímpia, São Paulo - SP, 04547-090, Brazil (ChIJCxufu05XzpQR9q-_pMMVZsE) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.3542445748071295)
+3: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.283052458434054)
+4: Le Jazz Brasserie - R. dos Pinheiros, 254 - Pinheiros, São Paulo - SP, 05422-012, Brazil (ChIJS6va-ndXzpQRXVSc_5X2CTk) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.10207382631075)
+5: Padaria Bella Paulista - Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brazil (ChIJPZ_iuTJYzpQRxC3-CJjKL9g) (['bakery', 'cafe', 'storage', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.0093229433688675)
+
+test_ct031_sp:
+113.2185435295105

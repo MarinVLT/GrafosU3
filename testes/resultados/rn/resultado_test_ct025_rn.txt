@@ -1,0 +1,10 @@
+
+Resultado:
+1: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.525834298964493)
+2: SOS. Animals - Veterinary Clinic 24 Hours - R. São José, 1852 - Lagoa Nova, Natal - RN, 59063-150, Brazil (ChIJy2dwiff_sgcRwzAee5NcNic) (['pet_store', 'veterinary_care', 'health', 'store', 'point_of_interest', 'establishment'])(4.3911816797371)
+3: Rio Grande Hospital - Av. Afonso Pena, 754 - Tirol, Natal - RN, 59020-100, Brazil (ChIJYVpXIBEAswcRtgxOyN-_D_w) (['hospital', 'health', 'point_of_interest', 'establishment'])(3.5891165327934536)
+4: Bradesco Prime - Agência 0891 - Av. Rio Branco, 477 - Cidade Alta, Natal - RN, 59025-001, Brazil (ChIJBwAAEHMAswcR12UDaUz-r_Y) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(3.321229612944768)
+5: Old Five Beach Restaurante Natal - R. Erivan França, 229 - Ponta Negra, Natal - RN, 59090-100, Brazil (ChIJhTyErS75sgcR4K5SrWhJvTw) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7986201700865205)
+
+test_ct025_rn:
+45.99350929260254

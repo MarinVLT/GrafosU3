@@ -1,0 +1,10 @@
+
+Resultado:
+1: Motema Pet Shop - R. Aguiar de Barros, 45 - Bela Vista, São Paulo - SP, 01316-020, Brazil (ChIJw8zxK0pZzpQRB_O1foMx_pQ) (['pet_store', 'point_of_interest', 'store', 'establishment'])(5.566732262281596)
+2: SAKERIA LIBERDADE - KARAOKÊ BAR - R. Galvão Bueno, 425 - Liberdade, São Paulo - SP, 01506-000, Brazil (ChIJrbsPT6ZZzpQRwTIm5vpMJn4) (['bar', 'night_club', 'point_of_interest', 'establishment'])(5.319470335309568)
+3: Sociedade Brasileira Geriatria Gerontologia Estado SP - Av. Brigadeiro Luís Antônio, 388 - Cj. 21 - Bela Vista, São Paulo - SP, 01316-000, Brazil (ChIJEV2lPqxZzpQRHOQ-nzCJTYQ) (['hospital', 'health', 'point_of_interest', 'establishment'])(5.45035078508749)
+4: Izakayada :: Boteco Japonês - Praça Carlos Gomes, 61 - Centro Histórico de São Paulo, São Paulo - SP, 01501-040, Brazil (ChIJWbzq4atZzpQRYZRm1Gn-e9w) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.044599513041314)
+5: Bar Kintaro - R. Thomaz Gonzaga, 57 - Liberdade, São Paulo - SP, 01506-020, Brazil (ChIJLxu2uqhZzpQR2AjMBY-Bkac) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.944077490026136)
+
+test_ct003_sp:
+44.47939395904541

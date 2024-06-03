@@ -1,0 +1,15 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.037808266158432)
+2: Padaria Bella Paulista - Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brazil (ChIJPZ_iuTJYzpQRxC3-CJjKL9g) (['bakery', 'cafe', 'storage', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.0093229433688675)
+3: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['bar', 'parking', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7894717558221425)
+4: Shopping Pátio Higienópolis - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJnTmhmztYzpQRn_wmS6AGrS4) (['shopping_mall', 'point_of_interest', 'establishment'])(5.168839205429848)
+5: Japão - Liberdade - Praça da Liberdade, 133 - Liberdade, São Paulo - SP, 01503-010, Brazil (ChIJR1Y3PqlZzpQRlZA82jzXaxw) (['subway_station', 'transit_station', 'point_of_interest', 'establishment'])(5.038708500321622)
+6: Ibirapuera Park - Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050, Brazil (ChIJ0RGdBvFZzpQRQeWcrwlhk8s) (['park', 'tourist_attraction', 'point_of_interest', 'establishment'])(5.199739062899001)
+7: Estádio Rua Javari - Rua Javari, 117 - Mooca, São Paulo - SP, 03112-100, Brazil (ChIJy6t7ozlZzpQRPC5XRBcoi0o) (['stadium', 'point_of_interest', 'establishment'])(5.0969729520044424)
+8: Di Cunto - R. Borges de Figueiredo, 61/103 - Mooca, São Paulo - SP, 03110-010, Brazil (ChIJm4dm1DhZzpQRh59zd1VBiE0) (['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.857059754572338)
+9: Arezzo - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJV1hzlztYzpQRWBTmoJiW39Q) (['shoe_store', 'cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(4.466510616300144)
+10: Haberdashery Santa Cecilia - Rua Cavalheiro Basílio Jafet, 107 - Centro Histórico de São Paulo, São Paulo - SP, 01022-020, Brazil (ChIJh4KCcP9YzpQR30vKB3cSI28) (['bakery', 'home_goods_store', 'store', 'food', 'point_of_interest', 'establishment'])(4.811977094278168)
+
+test_ct018_sp:
+105.86314034461975

@@ -1,0 +1,10 @@
+
+Resultado:
+1: SAVOURY - Tempero IPÊ - Rua Desembargador Tomaz Salustino, 1111 - Lagoa Nova, Natal - RN, 59076-760, Brazil (ChIJ9Z1izYX_sgcRgwuFfPpr6Ew) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(3.909328009527585)
+2: Sabor do Trigo - R. Jaguarari, 4889 - Lagoa Nova, Natal - RN, 59064-500, Brazil (ChIJD2G8_XpVsgcR_3kOQSFO2D4) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.835163942069803)
+3: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.331940278918295)
+4: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.556739493616111)
+5: Midway Mall - Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-450, Brazil (ChIJcb6iVfr_sgcRfOD4-UdQ8es) (['shopping_mall', 'point_of_interest', 'establishment'])(5.3833872084662975)
+
+test_ct017_rn:
+99.64525103569031

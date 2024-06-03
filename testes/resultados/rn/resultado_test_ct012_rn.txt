@@ -1,0 +1,15 @@
+
+Resultado:
+1: Lagoa nova - R. Morais Navarro - Lagoa Nova, Natal - RN, 59075-770, Brazil (ChIJpe6bMF3_sgcRHD-Dg1BUk-U) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.482861044630303)
+2: Raffinata confeitaria! - Av. Rui Barbosa, 11A - Lagoa Nova, Natal - RN, 59056-300, Brazil (ChIJk4BiCl4BswcRpj4EuJ5YSl4) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.456097013253173)
+3: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'bar', 'veterinary_care', 'clothing_store', 'pet_store', 'store', 'point_of_interest', 'establishment'])(5.239616535480579)
+4: Petisqueria Natal - Petiscos e Buffet - Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil (ChIJ1_A-nnL_sgcRwfSTehakkW8) (['meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.171943687837185)
+5: EIN BIER, BITTE - Av. Nascimento de Castro, 2017 - Lagoa Nova, Natal - RN, 59056-090, Brazil (ChIJK8hiHvL_sgcRTQxvOC5uWlg) (['meal_delivery', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'])(5.155592308982974)
+6: Cartuchos e toners em Natal - Natal Cartuchos - R. Dr. José Gonçalves, 220 - Lagoa Nova, Natal - RN, 59056-570, Brazil (ChIJk8hrk_D_sgcR7CbtSJX0jdk) (['meal_delivery', 'electronics_store', 'food', 'point_of_interest', 'store', 'establishment'])(5.153716762576098)
+7: Takami Sushi - Av. Prudente de Morais, 4262 - Lagoa Nova, Natal - RN, 59054-700, Brazil (ChIJ609r6vn_sgcR1iKoW_5SXoI) (['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.982702093646351)
+8: Havaianas - Av. Sen. Salgado Filho, 2234 - Bloco Único Loja 216 - Candelária, Natal - RN, 59064-900, Brazil (ChIJ63idFn__sgcR6Xda6I1zrmY) (['shoe_store', 'clothing_store', 'store', 'point_of_interest', 'establishment'])(4.815930923314032)
+9: Rio Center Mega Store - Av. Antônio Basílio, 2960 - Lagoa Nova, Natal - RN, 59056-500, Brazil (ChIJzVcc4Pn_sgcR5pFMFcD6eN8) (['department_store', 'clothing_store', 'store', 'point_of_interest', 'establishment'])(4.810395602638629)
+10: Posto Cirne II - Conveniência - Av. Prudente de Morais, 5549 - Lagoa Nova, Natal - RN, 59056-200, Brazil (ChIJKXD48_b_sgcRTw_suQxK6FQ) (['convenience_store', 'store', 'food', 'point_of_interest', 'establishment'])(4.979850198281776)
+
+test_ct012_rn:
+289.09529662132263

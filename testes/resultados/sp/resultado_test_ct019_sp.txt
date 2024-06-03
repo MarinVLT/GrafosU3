@@ -1,0 +1,10 @@
+
+Resultado:
+1: Exoctopus Comercial - R. Conselheiro Furtado, 748 - Liberdade, São Paulo - SP, 01511-000, Brazil (ChIJY3zmdadZzpQRwmhudGBf10Y) (['hardware_store', 'home_goods_store', 'point_of_interest', 'store', 'establishment'])(5.510742896218499)
+2: Confeitaria Asti - R. Cubatão, 580 - Vila Mariana, São Paulo - SP, 04013-002, Brazil (ChIJSe_p8JBZzpQRhGA_Z4j1pqA) (['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.362176443673174)
+3: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.283052458434054)
+4: Shopping Pátio Higienópolis - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJnTmhmztYzpQRn_wmS6AGrS4) (['shopping_mall', 'point_of_interest', 'establishment'])(5.168839205429848)
+5: Csl Park Estacionamento ltda - R. da Consolação, 335 - Centro Histórico de São Paulo, São Paulo - SP, 01320-090, Brazil (ChIJH-2XMExYzpQRWs0E2smbMAQ) (['parking', 'point_of_interest', 'establishment'])(5.216097272285751)
+
+test_ct019_sp:
+106.18996334075928

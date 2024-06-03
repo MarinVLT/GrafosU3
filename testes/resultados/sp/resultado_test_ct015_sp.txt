@@ -1,0 +1,10 @@
+
+Resultado:
+1: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.225750871132466)
+2: Golden PetStore - Av. Prefeito Fábio Prado, 502 - Vila Mariana, São Paulo - SP, 04116-000, Brazil (ChIJUxyEGNJbzpQRnH8Xdueo_Cg) (['pet_store', 'point_of_interest', 'store', 'establishment'])(5.331585307982349)
+3: Hospital Ortopédico AACD - Av. Professor Ascendino Reis, 724 - Ibirapuera, São Paulo - SP, 04027-000, Brazil (ChIJ2YHxVh9azpQRdYTT0yBmiYc) (['hospital', 'health', 'point_of_interest', 'establishment'])(5.008829475751669)
+4: BANESTES Banco do Estado do Espírito Santo - R. Frei Caneca, 1380 - Cerqueira César, São Paulo - SP, 01307-002, Brazil (ChIJB6_lAM1ZzpQRyX8wdovtdvM) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(5.369984656742514)
+5: Hangar 110 - Musica & Cultura - R. Rodolfo Miranda, 110 - Bom Retiro, São Paulo - SP, 01121-010, Brazil (ChIJg4Za0WFYzpQRc1nVNaco4cQ) (['bar', 'point_of_interest', 'establishment'])(5.307323054807014)
+
+test_ct015_sp:
+45.9314067363739

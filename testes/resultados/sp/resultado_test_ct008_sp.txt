@@ -1,0 +1,15 @@
+
+Resultado:
+1: Shopping Liberdade - Praça da Liberdade, 75 - Loja 39 - Liberdade, São Paulo - SP, 01503-010, Brazil (ChIJZ1-zTwBZzpQRPaqh1QhSjMM) (['shopping_mall', 'point_of_interest', 'establishment'])(5.693692799841436)
+2: Cake Lover - N/A - Sé, São Paulo - SP, 12345-000, Brazil (ChIJCV8tqvRezpQRQgWR3adIkgA) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.5137280286744135)
+3: Edifício Misericórdia - Largo da Misericórdia, 20 - Centro Histórico de São Paulo, São Paulo - SP, 01012-000, Brazil (ChIJExAUJ6tZzpQRPkV7gilLsuE) (['bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.410989290001048)
+4: San San Garden Decor - Rua Barão de Iguape, 272 - Liberdade, São Paulo - SP, 01507-000, Brazil (ChIJP4jScFNZzpQRLqpczRoWPqo) (['store', 'florist', 'home_goods_store', 'park', 'point_of_interest', 'establishment'])(5.320347402592141)
+5: Café Sol - R. Galvão Bueno, 05 - Liberdade, São Paulo - SP, 01506-000, Brazil (ChIJKY73HalZzpQR1ZE9JE8dzS0) (['restaurant', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.245587324375617)
+6: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.037808266158432)
+7: H Park Estacionamento - Rua Conde de Sarzedas, 340 - Liberdade, São Paulo - SP, 01512-010, Brazil (ChIJa4HGsgdZzpQR_rqZOBozqtQ) (['parking', 'point_of_interest', 'establishment'])(4.921994670235555)
+8: Japão - Liberdade - Praça da Liberdade, 133 - Liberdade, São Paulo - SP, 01503-010, Brazil (ChIJR1Y3PqlZzpQRlZA82jzXaxw) (['subway_station', 'transit_station', 'point_of_interest', 'establishment'])(5.038708500321622)
+9: Alteza Doceria - Rua Américo de Campos, 36 - Liberdade, São Paulo - SP, 01506-010, Brazil (ChIJf3TwyahZzpQRR3wayh_3WZ0) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.0168536929146725)
+10: ️Famiglia Franciulli - Padaria Italiana - Padaria em Liberdade - Pão Italiano - Baguete - Padaria Delivery ️ - Rua Glicério, 750 - Liberdade, São Paulo - SP, 01514-001, Brazil (ChIJHc3NSghZzpQRFV8GOfTbxWc) (['bakery', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.986086882351142)
+
+test_ct008_sp:
+93.00306558609009

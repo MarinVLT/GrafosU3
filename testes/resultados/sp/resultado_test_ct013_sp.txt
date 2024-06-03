@@ -1,0 +1,10 @@
+
+Resultado:
+1: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['bar', 'parking', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.628851265201652)
+2: Bicharada Pet Shop - Rua Tupi, 490 - Santa Cecilia, São Paulo - SP, 01233-000, Brazil (ChIJG86-yRlYzpQRaYYMg9H5tJw) (['pet_store', 'store', 'point_of_interest', 'establishment'])(4.837709656799047)
+3: Hospital Samaritano - R. Conselheiro Brotero, 1486 - Higienópolis, São Paulo - SP, 01232-010, Brazil (ChIJGYR4tyJYzpQRnx2diXymEOk) (['hospital', 'health', 'point_of_interest', 'establishment'])(4.123043119833595)
+4: BANESTES Banco do Estado do Espírito Santo - R. Frei Caneca, 1380 - Cerqueira César, São Paulo - SP, 01307-002, Brazil (ChIJB6_lAM1ZzpQRyX8wdovtdvM) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(5.369984656742514)
+5: Escambo Gastronomia e NanoCervejaria - Rua Coronel Oscar Porto, 33 - Paraíso, São Paulo - SP, 04003-000, Brazil (ChIJYbWQmL9ZzpQRDz7a-uetrAM) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7254831963788435)
+
+test_ct013_sp:
+45.275036573410034

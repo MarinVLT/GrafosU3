@@ -1,0 +1,10 @@
+
+Resultado:
+1: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.454040641098454)
+2: Amigos Moto Express Serviços de Entregas Rápidas - R. Abreulândia - Planalto, Natal - RN, 59073-090, Brazil (ChIJe-EM2q9VsgcRV35X99dPXRY) (['meal_delivery', 'food', 'point_of_interest', 'establishment'])(5.3595768677811195)
+3: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'pet_store', 'veterinary_care', 'bar', 'clothing_store', 'store', 'point_of_interest', 'establishment'])(5.239616535480579)
+4: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.246409143387159)
+5: Chapelatto Coffee Shop - Tyrol Business Center - Av. Rodrigues Alves, 800 - 1, Natal - RN, 59020-200, Brazil (ChIJdWbYfBEAswcRYgmpEBRJ-uo) (['cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.117473286865662)
+
+test_ct035_rn:
+348.897269487381

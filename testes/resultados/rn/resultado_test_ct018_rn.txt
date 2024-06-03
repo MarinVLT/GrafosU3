@@ -1,0 +1,15 @@
+
+Resultado:
+1: SAVOURY - Tempero IPÊ - Rua Desembargador Tomaz Salustino, 1111 - Lagoa Nova, Natal - RN, 59076-760, Brazil (ChIJ9Z1izYX_sgcRgwuFfPpr6Ew) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(3.909328009527585)
+2: Sabor do Trigo - R. Jaguarari, 4889 - Lagoa Nova, Natal - RN, 59064-500, Brazil (ChIJD2G8_XpVsgcR_3kOQSFO2D4) (['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.835163942069803)
+3: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['bakery', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.331940278918295)
+4: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.556739493616111)
+5: Midway Mall - Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-450, Brazil (ChIJcb6iVfr_sgcRfOD4-UdQ8es) (['shopping_mall', 'point_of_interest', 'establishment'])(5.3833872084662975)
+6: International Trade Center - Rua Dr. Poty Nóbrega, 1946 - Lagoa Nova, Natal - RN, 59056-180, Brazil (ChIJN0pLDPH_sgcRBS2lE-DOlEo) (['parking', 'point_of_interest', 'establishment'])(5.123027902185392)
+7: Sinal Verde - R. Jaguarari, 4231 - Candelária, Natal - RN, 59064-500, Brazil (ChIJq8FHi3lVsgcR-P6nhpImpag) (['park', 'point_of_interest', 'establishment'])(4.407531468611251)
+8: Arena Das Dunas Stadium - Av. Prudente de Morais, 5121 - Lagoa Nova, Natal - RN, 59064-625, Brazil (ChIJZdcPYYn_sgcRRFGtVgPKeok) (['stadium', 'point_of_interest', 'establishment'])(5.121840803143243)
+9: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.487251874309687)
+10: Panificadora e Açougue São João - R. Érico Veríssimo, 3389 - Candelária, Natal - RN, 59065-460, Brazil (ChIJtzM_43tVsgcRXp9CxFwMoUk) (['bakery', 'convenience_store', 'store', 'food', 'point_of_interest', 'establishment'])(4.740570204734216)
+
+test_ct018_rn:
+95.2717182636261

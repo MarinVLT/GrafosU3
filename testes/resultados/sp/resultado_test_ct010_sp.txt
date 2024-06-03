@@ -1,0 +1,15 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.957471935822102)
+2: Extra Mercado - R. Condessa de São Joaquim, 303 - Liberdade, São Paulo - SP, 01320-000, Brazil (ChIJwXjUtq9ZzpQRwc8VoMdscrY) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'])(3.887430744241242)
+3: Filho do Vento Bar e Lanches - R. Conselheiro Furtado, 371 - Sé, São Paulo - SP, 01511-000, Brazil (ChIJOYVWFKhZzpQRKBjx9bAceEw) (['bar', 'bakery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.7486551968384)
+4: Panificadora Santa Tereza - Praça Dr. João Mendes, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01501-000, Brazil (ChIJDXcY5Et7zpQR3PsmiWfwZF0) (['bakery', 'cafe', 'meal_delivery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.848651526056624)
+5: Americanas Express - Av. da Liberdade, 863 - Liberdade, São Paulo - SP, 01503-001, Brazil (ChIJ4fYYlJ9ZzpQRCS6ndIrwLoQ) (['department_store', 'electronics_store', 'home_goods_store', 'clothing_store', 'point_of_interest', 'store', 'establishment'])(4.411801173411353)
+6: Lojas Eskala - Sé - R. Direita, 190 - Sé, São Paulo - SP, 01002-000, Brazil (ChIJlxUqylRYzpQRwlJpw7pZo_I) (['clothing_store', 'shoe_store', 'store', 'point_of_interest', 'establishment'])(4.517335377806884)
+7: UNIFAR - União Farmacêutica de São Paulo - R. da Glória, 104 - Liberdade, São Paulo - SP, 01510-000, Brazil (ChIJOXAKX43_zpQRgcRZuRyM5Mk) (['pharmacy', 'clothing_store', 'health', 'store', 'point_of_interest', 'establishment'])(4.77031994456782)
+8: Lojas Benoit - R. Quinze de Novembro, 197 - Centro Histórico de São Paulo, São Paulo - SP, 98640-000, Brazil (ChIJD_z-TuRf-ZQRwaPj_oryCxE) (['electronics_store', 'furniture_store', 'home_goods_store', 'point_of_interest', 'store', 'establishment'])(4.60869616125142)
+9: Púlpitos Baruque - Pulpitos de madeira - Pulpitos de Acrílico - Rua Conde de Sarzedas, 232 - Liberdade, São Paulo - SP, 01512-120, Brazil (ChIJy7_cjMlEzpQRwfyU5u5wbKU) (['furniture_store', 'church', 'home_goods_store', 'place_of_worship', 'point_of_interest', 'store', 'establishment'])(4.977558845225137)
+10: Exoctopus Comercial - R. Conselheiro Furtado, 748 - Liberdade, São Paulo - SP, 01511-000, Brazil (ChIJY3zmdadZzpQRwmhudGBf10Y) (['hardware_store', 'home_goods_store', 'point_of_interest', 'store', 'establishment'])(5.4189770232026255)
+
+test_ct010_sp:
+329.01732110977173

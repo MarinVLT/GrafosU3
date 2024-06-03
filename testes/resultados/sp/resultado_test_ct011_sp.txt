@@ -1,0 +1,10 @@
+
+Resultado:
+1: Cake Lover - N/A - Sé, São Paulo - SP, 12345-000, Brazil (ChIJCV8tqvRezpQRQgWR3adIkgA) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.483979998926383)
+2: Ponto Duarte Café - R. José Bonifácio, 298 - Sé, São Paulo - SP, 01003-000, Brazil (ChIJQVAEUlNYzpQRq5MA_ng83pQ) (['cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.382460733080747)
+3: Edifício Misericórdia - Largo da Misericórdia, 20 - Centro Histórico de São Paulo, São Paulo - SP, 01012-000, Brazil (ChIJExAUJ6tZzpQRPkV7gilLsuE) (['cafe', 'bar', 'store', 'food', 'point_of_interest', 'establishment'])(5.259224388236146)
+4: Café Sol - R. Galvão Bueno, 05 - Liberdade, São Paulo - SP, 01506-000, Brazil (ChIJKY73HalZzpQR1ZE9JE8dzS0) (['restaurant', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.165250994039286)
+5: Lanchonete Danny - R. Conde do Pinhal, 98 - Liberdade, São Paulo - SP, 01501-060, Brazil (ChIJ9_SyhalZzpQRW5JkYaLs-0c) (['meal_takeaway', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.07945098410266)
+
+test_ct011_sp:
+324.1886546611786

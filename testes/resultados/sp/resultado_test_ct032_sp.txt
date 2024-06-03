@@ -1,0 +1,15 @@
+
+Resultado:
+1: New Forest Trade Books Ltda me - Praça Dr. João Mendes, 25 - Centro Histórico de São Paulo, São Paulo - SP, 01501-001, Brazil (ChIJLXTnuatZzpQRk7GoYJftqSQ) (['book_store', 'store', 'point_of_interest', 'establishment'])(5.406397804110653)
+2: Cupcake.ito - R. Júlio Diniz, 39 - Vila Olímpia, São Paulo - SP, 04547-090, Brazil (ChIJCxufu05XzpQR9q-_pMMVZsE) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.3542445748071295)
+3: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.283052458434054)
+4: Le Jazz Brasserie - R. dos Pinheiros, 254 - Pinheiros, São Paulo - SP, 05422-012, Brazil (ChIJS6va-ndXzpQRXVSc_5X2CTk) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.10207382631075)
+5: Padaria Bella Paulista - Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brazil (ChIJPZ_iuTJYzpQRxC3-CJjKL9g) (['bakery', 'storage', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.0093229433688675)
+6: Shopping Pátio Higienópolis - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJnTmhmztYzpQRn_wmS6AGrS4) (['shopping_mall', 'point_of_interest', 'establishment'])(5.168839205429848)
+7: Estacionamento Pasquale - R. Girassol, 70 - Vila Madalena, São Paulo - SP, 05433-000, Brazil (ChIJ-zBPMphXzpQR6wc-jy9XOkY) (['parking', 'point_of_interest', 'establishment'])(5.475981689615139)
+8: Japão - Liberdade - Praça da Liberdade, 133 - Liberdade, São Paulo - SP, 01503-010, Brazil (ChIJR1Y3PqlZzpQRlZA82jzXaxw) (['subway_station', 'transit_station', 'point_of_interest', 'establishment'])(5.038708500321622)
+9: Ibirapuera Park - Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050, Brazil (ChIJ0RGdBvFZzpQRQeWcrwlhk8s) (['park', 'tourist_attraction', 'point_of_interest', 'establishment'])(5.199739062899001)
+10: Estádio Rua Javari - Rua Javari, 117 - Mooca, São Paulo - SP, 03112-100, Brazil (ChIJy6t7ozlZzpQRPC5XRBcoi0o) (['stadium', 'point_of_interest', 'establishment'])(5.0969729520044424)
+
+test_ct032_sp:
+115.53642177581787

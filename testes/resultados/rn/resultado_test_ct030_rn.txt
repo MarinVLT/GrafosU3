@@ -1,0 +1,15 @@
+
+Resultado:
+1: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.487251874309687)
+2: Sabor do Trigo - R. Jaguarari, 4889 - Lagoa Nova, Natal - RN, 59064-500, Brazil (ChIJD2G8_XpVsgcR_3kOQSFO2D4) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.835163942069803)
+3: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.556739493616111)
+4: Cacau Show - Chocolates - Av. Sen. Salgado Filho, 2234 - Candelária, Natal - RN, 59064-900, Brazil (ChIJa0bZqKoQspQRrbjSS7WFk8w) (['cafe', 'food', 'point_of_interest', 'store', 'establishment'])(4.9985683232006455)
+5: Partage Norte Shopping Natal - Av. Dr. João Medeiros Filho, 2395 - Potengi, Natal - RN, 59110-200, Brazil (ChIJHVwXhESqswcRMbEfN9HNUHw) (['shopping_mall', 'department_store', 'hair_care', 'beauty_salon', 'book_store', 'gym', 'clothing_store', 'store', 'movie_theater', 'restaurant', 'food', 'point_of_interest', 'health', 'establishment'])(4.746449335982177)
+6: International Trade Center - Rua Dr. Poty Nóbrega, 1946 - Lagoa Nova, Natal - RN, 59056-180, Brazil (ChIJN0pLDPH_sgcRBS2lE-DOlEo) (['parking', 'point_of_interest', 'establishment'])(5.123027902185392)
+7: Republika Hostel - R. Pôrto das Oficinas, 8944 - Ponta Negra, Natal - RN, 59094-300, Brazil (ChIJCw65pDH_sgcRAsIqd00i_RE) (['campground', 'lodging', 'park', 'point_of_interest', 'establishment'])(4.5212456097304425)
+8: Estádio Maria Lamas Farache (Frasqueirão) - Av. Dep. Antônio Florêncio de Queiroz, S/n - Ponta Negra, Natal - RN, 59018-500, Brazil (ChIJZbCaGdv4sgcReX5UWuBRa38) (['stadium', 'point_of_interest', 'establishment'])(4.955094663813128)
+9: SAVOURY - Tempero IPÊ - Rua Desembargador Tomaz Salustino, 1111 - Lagoa Nova, Natal - RN, 59076-760, Brazil (ChIJ9Z1izYX_sgcRgwuFfPpr6Ew) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(3.909328009527585)
+10: Padaria Grão de Trigo - Av. Hermes da Fonseca, 710 - Tirol, Natal - RN, 59020-095, Brazil (ChIJVa_QfRwAswcRyfeO5ABUIkY) (['bakery', 'convenience_store', 'meal_delivery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.714983701635875)
+
+test_ct030_rn:
+99.90122437477112

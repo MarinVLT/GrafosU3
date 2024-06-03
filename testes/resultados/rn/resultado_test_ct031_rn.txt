@@ -1,0 +1,10 @@
+
+Resultado:
+1: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.487251874309687)
+2: Barcanas Espetto's - 206 - R. Jacaúna, 10 - Lagoa Seca, Natal - RN, 59022-360, Brazil (ChIJVehlD_z_sgcRS9t6AaQCoFY) (['bar', 'point_of_interest', 'establishment'])(5.481612737120854)
+3: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.331940278918295)
+4: Chapelatto Coffee Shop - Tyrol Business Center - Av. Rodrigues Alves, 800 - 1, Natal - RN, 59020-200, Brazil (ChIJdWbYfBEAswcRYgmpEBRJ-uo) (['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.2553243247167005)
+5: Midway Mall - Av. Nevaldo Rocha, 3775 - Tirol, Natal - RN, 59015-450, Brazil (ChIJcb6iVfr_sgcRfOD4-UdQ8es) (['shopping_mall', 'point_of_interest', 'establishment'])(5.3833872084662975)
+
+test_ct031_rn:
+99.26977109909058

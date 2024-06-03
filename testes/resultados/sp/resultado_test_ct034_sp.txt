@@ -1,0 +1,15 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.957471935822102)
+2: Padaria Bella Paulista - Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brazil (ChIJPZ_iuTJYzpQRxC3-CJjKL9g) (['bakery', 'cafe', 'storage', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.893107568329963)
+3: Arezzo - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJV1hzlztYzpQRWBTmoJiW39Q) (['shoe_store', 'cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(4.428992578782106)
+4: Oba Hortifruti - Mercado, Frutas, Verduras, Legumes, Açougue e Adega - R. Alfredo Pujol, 1324 - Santana, São Paulo - SP, 02017-003, Brazil (ChIJw137fM33zpQRwvsHQXHUKnE) (['bakery', 'grocery_or_supermarket', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'])(4.8571122571052)
+5: Pão de Açúcar - R. Teodoro Sampaio, 1933 - Pinheiros, São Paulo - SP, 05405-200, Brazil (ChIJzRnX4p5XzpQRuSInjP62mq0) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'])(4.640235262617722)
+6: Panificadora Marengo - R. Francisco Marengo, 700 - Vila Gomes Cardim, São Paulo - SP, 03313-000, Brazil (ChIJfT2JgoxezpQRQc500XMCxjg) (['bakery', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.6770855290941515)
+7: Haberdashery Santa Cecilia - Rua Cavalheiro Basílio Jafet, 107 - Centro Histórico de São Paulo, São Paulo - SP, 01022-020, Brazil (ChIJh4KCcP9YzpQR30vKB3cSI28) (['bakery', 'home_goods_store', 'store', 'food', 'point_of_interest', 'establishment'])(4.754076661377736)
+8: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['bar', 'parking', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.631675303908043)
+9: Casa do Pão de Queijo - R. da Mooca, 2402 - Mooca, São Paulo - SP, 03104-002, Brazil (ChIJoRCK5zdZzpQR5CrYS23-Cv8) (['cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.620777833334325)
+10: Nonno Paolo Trattoria e Pizzaria - R. Abílio Soares, 830 - Paraíso, São Paulo - SP, 04005-003, Brazil (ChIJx4pUo5RZzpQRvJQMPqi3Tc0) (['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.657512896542813)
+
+test_ct034_sp:
+367.7035541534424

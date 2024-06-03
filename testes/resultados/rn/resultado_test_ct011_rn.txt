@@ -1,0 +1,10 @@
+
+Resultado:
+1: Lagoa nova - R. Morais Navarro - Lagoa Nova, Natal - RN, 59075-770, Brazil (ChIJpe6bMF3_sgcRHD-Dg1BUk-U) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.482861044630303)
+2: Raffinata confeitaria! - Av. Rui Barbosa, 11A - Lagoa Nova, Natal - RN, 59056-300, Brazil (ChIJk4BiCl4BswcRpj4EuJ5YSl4) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.456097013253173)
+3: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'pet_store', 'veterinary_care', 'bar', 'clothing_store', 'store', 'point_of_interest', 'establishment'])(5.239616535480579)
+4: Petisqueria Natal - Petiscos e Buffet - Rua Sérgio Severo, 1322 - Lagoa Nova, Natal - RN, 59063-650, Brazil (ChIJ1_A-nnL_sgcRwfSTehakkW8) (['meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.171943687837185)
+5: EIN BIER, BITTE - Av. Nascimento de Castro, 2017 - Lagoa Nova, Natal - RN, 59056-090, Brazil (ChIJK8hiHvL_sgcRTQxvOC5uWlg) (['meal_delivery', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment'])(5.155592308982974)
+
+test_ct011_rn:
+287.20509791374207

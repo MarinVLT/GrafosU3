@@ -1,0 +1,10 @@
+
+Resultado:
+1: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.225750871132466)
+2: Eco Marine Aquários e Peixes Ornamentais - Alameda dos Jurupis, 1937 - Moema, São Paulo - SP, 04088-006, Brazil (ChIJ4UJsuQhazpQRlx9LHLlZL04) (['pet_store', 'point_of_interest', 'store', 'establishment'])(5.103427217746873)
+3: Hospital Ortopédico AACD - Av. Professor Ascendino Reis, 724 - Ibirapuera, São Paulo - SP, 04027-000, Brazil (ChIJ2YHxVh9azpQRdYTT0yBmiYc) (['hospital', 'health', 'point_of_interest', 'establishment'])(5.008829475751669)
+4: BANESTES Banco do Estado do Espírito Santo - R. Frei Caneca, 1380 - Cerqueira César, São Paulo - SP, 01307-002, Brazil (ChIJB6_lAM1ZzpQRyX8wdovtdvM) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(5.369984656742514)
+5: Escambo Gastronomia e NanoCervejaria - Rua Coronel Oscar Porto, 33 - Paraíso, São Paulo - SP, 04003-000, Brazil (ChIJYbWQmL9ZzpQRDz7a-uetrAM) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7254831963788435)
+
+test_ct027_sp:
+44.71678709983826

@@ -1,0 +1,10 @@
+
+Resultado:
+1: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['bar', 'parking', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.628851265201652)
+2: Eco Marine Aquários e Peixes Ornamentais - Alameda dos Jurupis, 1937 - Moema, São Paulo - SP, 04088-006, Brazil (ChIJ4UJsuQhazpQRlx9LHLlZL04) (['pet_store', 'point_of_interest', 'store', 'establishment'])(5.103427217746873)
+3: Hospital Samaritano - R. Conselheiro Brotero, 1486 - Higienópolis, São Paulo - SP, 01232-010, Brazil (ChIJGYR4tyJYzpQRnx2diXymEOk) (['hospital', 'health', 'point_of_interest', 'establishment'])(4.123043119833595)
+4: Banco Matone - R. Campos Bicudo, 98 - Itaim Bibi, São Paulo - SP, 04536-010, Brazil (ChIJb8PWVmhXzpQRFbVw_rT9s9c) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(4.339719995729368)
+5: Escambo Gastronomia e NanoCervejaria - Rua Coronel Oscar Porto, 33 - Paraíso, São Paulo - SP, 04003-000, Brazil (ChIJYbWQmL9ZzpQRDz7a-uetrAM) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7254831963788435)
+
+test_ct025_sp:
+46.33165121078491

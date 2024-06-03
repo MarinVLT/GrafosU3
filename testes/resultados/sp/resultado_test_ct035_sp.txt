@@ -1,0 +1,10 @@
+
+Resultado:
+1: Açougue e Avicola - Mais Sabor Delivery - Atacado e Varejo - Mercado Municipal de Pinheiros - R. Pedro Cristi, 89 - BOX 76 - Pinheiros, São Paulo - SP, 05421-040, Brazil (ChIJYUUkIaFXzpQR3Nq6R9XmlwU) (['meal_delivery', 'food', 'point_of_interest', 'store', 'establishment'])(5.4313272474211045)
+2: Cupcake.ito - R. Júlio Diniz, 39 - Vila Olímpia, São Paulo - SP, 04547-090, Brazil (ChIJCxufu05XzpQR9q-_pMMVZsE) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.324496545059099)
+3: Seal Telecom Trade and Telecom Service - AVENIDA FRANCISCO MATARAZZO, 1.500 - 18º ANDAR - CENTRO EMPRESARIAL ÁGUA BRANCA - TORRE LOS ANGELES - Água Branca, São Paulo - SP, 05001-100, Brazil (ChIJ2cdKvv1XzpQRDidlV4-WYbs) (['electronics_store', 'home_goods_store', 'point_of_interest', 'store', 'establishment'])(5.273159242081262)
+4: Moonshadows Taberna - Rua Treze de Maio n.º 966 - Térreo - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJtXmmALpZzpQRXRvHlpBC6So) (['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.153428544623132)
+5: Hangar 110 - Musica & Cultura - R. Rodolfo Miranda, 110 - Bom Retiro, São Paulo - SP, 01121-010, Brazil (ChIJg4Za0WFYzpQRc1nVNaco4cQ) (['bar', 'point_of_interest', 'establishment'])(5.0442873405213)
+
+test_ct035_sp:
+366.6107642650604

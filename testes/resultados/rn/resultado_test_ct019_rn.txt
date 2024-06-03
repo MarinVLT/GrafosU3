@@ -1,0 +1,10 @@
+
+Resultado:
+1: Select Mall - Lagoa Nova - R. Dep. Marcílio Furtado, 2033 - Lagoa Nova, Natal - RN, 59063-360, Brazil (ChIJAa7mLQD_sgcRpwSz4YtggR4) (['shopping_mall', 'point_of_interest', 'establishment'])(5.688978337718902)
+2: Óticas Diniz - Lagoa Center - Av. Antônio Basílio, 3006 - Loja 36 - Lagoa Nova, Natal - RN, 59056-901, Brazil (ChIJXYtwU3IAswcRvBaO8rWf9ns) (['store', 'point_of_interest', 'health', 'establishment'])(5.502734021008957)
+3: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.487251874309687)
+4: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['bakery', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.331940278918295)
+5: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'pet_store', 'bar', 'veterinary_care', 'clothing_store', 'point_of_interest', 'store', 'establishment'])(5.217803163667207)
+
+test_ct019_rn:
+98.86965918540955

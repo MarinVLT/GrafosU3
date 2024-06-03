@@ -1,0 +1,15 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.957471935822102)
+2: Padaria Bella Paulista - Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brazil (ChIJPZ_iuTJYzpQRxC3-CJjKL9g) (['bakery', 'storage', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.893107568329963)
+3: Arezzo - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJV1hzlztYzpQRWBTmoJiW39Q) (['shoe_store', 'cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(4.428992578782106)
+4: Haberdashery Santa Cecilia - Rua Cavalheiro Basílio Jafet, 107 - Centro Histórico de São Paulo, São Paulo - SP, 01022-020, Brazil (ChIJh4KCcP9YzpQR30vKB3cSI28) (['bakery', 'home_goods_store', 'store', 'food', 'point_of_interest', 'establishment'])(4.754076661377736)
+5: Extra Mercado - R. Conselheiro Furtado, 1440 - Aclimação, São Paulo - SP, 01511-001, Brazil (ChIJsYNkD6BZzpQRDOhig6A7ylo) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment'])(4.081626504465741)
+6: Bologna - R. Augusta, 379 - Centro Histórico de São Paulo, São Paulo - SP, 01305-070, Brazil (ChIJjdX79UpYzpQRsAEHeYfmCp4) (['restaurant', 'meal_delivery', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(4.539984598650475)
+7: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['bar', 'parking', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.631675303908043)
+8: Asterix Cervejaria - Alameda Joaquim Eugênio de Lima, 573 - Jardim Paulista, São Paulo - SP, 01403-001, Brazil (ChIJL9mgYsdZzpQRLC21i7AsBoo) (['liquor_store', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.735117090913929)
+9: Casa do Pão de Queijo - R. da Mooca, 2402 - Mooca, São Paulo - SP, 03104-002, Brazil (ChIJoRCK5zdZzpQR5CrYS23-Cv8) (['cafe', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.620777833334325)
+10: Marisa - Av. Paulista, 412 - E 424 - Bela Vista, São Paulo - SP, 01310-000, Brazil (ChIJ1c1Uk75ZzpQRENRnekRbMxI) (['clothing_store', 'shoe_store', 'store', 'point_of_interest', 'establishment'])(4.506469145021447)
+
+test_ct022_sp:
+334.2460458278656

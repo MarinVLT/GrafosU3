@@ -1,0 +1,15 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.037808266158432)
+2: Filho do Vento Bar e Lanches - R. Conselheiro Furtado, 371 - Sé, São Paulo - SP, 01511-000, Brazil (ChIJOYVWFKhZzpQRKBjx9bAceEw) (['meal_takeaway', 'bakery', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.881928405111608)
+3: Panificadora Santa Tereza - Praça Dr. João Mendes, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01501-000, Brazil (ChIJDXcY5Et7zpQR3PsmiWfwZF0) (['bakery', 'meal_delivery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.930998808403907)
+4: Galeria Conde de Sarzedas - Rua Conde de Sarzedas, 149 - Sé, São Paulo - SP, 01512-000, Brazil (ChIJURHPdgdZzpQRuaxE_5JtHaA) (['shopping_mall', 'church', 'place_of_worship', 'point_of_interest', 'store', 'establishment'])(4.925534292926232)
+5: H Park Estacionamento - Rua Conde de Sarzedas, 340 - Liberdade, São Paulo - SP, 01512-010, Brazil (ChIJa4HGsgdZzpQR_rqZOBozqtQ) (['parking', 'point_of_interest', 'establishment'])(4.921994670235555)
+6: Japão - Liberdade - Praça da Liberdade, 133 - Liberdade, São Paulo - SP, 01503-010, Brazil (ChIJR1Y3PqlZzpQRlZA82jzXaxw) (['subway_station', 'transit_station', 'point_of_interest', 'establishment'])(5.038708500321622)
+7: Largo 7 de Setembro 74 - Próximo a Tesouro Laser Nº 37 na Av. Liberdade - Largo Sete de Setembro, S/N - Liberdade, São Paulo - SP, 01501-050, Brazil (ChIJEbps1atZzpQR6h2oGPLz4vs) (['park', 'point_of_interest', 'establishment'])(4.125304358201848)
+8: Alteza Doceria - Rua Américo de Campos, 36 - Liberdade, São Paulo - SP, 01506-010, Brazil (ChIJf3TwyahZzpQRR3wayh_3WZ0) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.0168536929146725)
+9: Extra Mercado - R. Condessa de São Joaquim, 303 - Liberdade, São Paulo - SP, 01320-000, Brazil (ChIJwXjUtq9ZzpQRwc8VoMdscrY) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'])(3.667931833565861)
+10: ️Famiglia Franciulli - Padaria Italiana - Padaria em Liberdade - Pão Italiano - Baguete - Padaria Delivery ️ - Rua Glicério, 750 - Liberdade, São Paulo - SP, 01514-001, Brazil (ChIJHc3NSghZzpQRFV8GOfTbxWc) (['bakery', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.986086882351142)
+
+test_ct006_sp:
+93.72370314598083

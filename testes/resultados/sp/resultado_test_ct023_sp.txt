@@ -1,0 +1,10 @@
+
+Resultado:
+1: Mix Consultoria em Nutrição - Av. Paulista, 1232 - Bela Vista, São Paulo - SP, 01310-100, Brazil (ChIJMybELxtQzpQRhI-ytBXVr0w) (['meal_delivery', 'food', 'point_of_interest', 'health', 'establishment'])(5.447064670960286)
+2: Petrac Indústria e Comércio - R. Wandenkolk, 459 - Mooca, São Paulo - SP, 03102-030, Brazil (ChIJ-WU-FgVZzpQRo4YltbjFf6I) (['department_store', 'point_of_interest', 'store', 'establishment'])(5.430962892735003)
+3: Confeitaria Asti - R. Cubatão, 580 - Vila Mariana, São Paulo - SP, 04013-002, Brazil (ChIJSe_p8JBZzpQRhGA_Z4j1pqA) (['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.231251812748543)
+4: Moonshadows Taberna - Rua Treze de Maio n.º 966 - Térreo - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJtXmmALpZzpQRXRvHlpBC6So) (['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.153428544623132)
+5: Hangar 110 - Musica & Cultura - R. Rodolfo Miranda, 110 - Bom Retiro, São Paulo - SP, 01121-010, Brazil (ChIJg4Za0WFYzpQRc1nVNaco4cQ) (['bar', 'point_of_interest', 'establishment'])(5.0442873405213)
+
+test_ct023_sp:
+339.9581735134125

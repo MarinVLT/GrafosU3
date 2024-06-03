@@ -1,0 +1,10 @@
+
+Resultado:
+1: Shopping Liberdade - Praça da Liberdade, 75 - Loja 39 - Liberdade, São Paulo - SP, 01503-010, Brazil (ChIJZ1-zTwBZzpQRPaqh1QhSjMM) (['shopping_mall', 'point_of_interest', 'establishment'])(5.693692799841436)
+2: Cake Lover - N/A - Sé, São Paulo - SP, 12345-000, Brazil (ChIJCV8tqvRezpQRQgWR3adIkgA) (['bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.5137280286744135)
+3: Edifício Misericórdia - Largo da Misericórdia, 20 - Centro Histórico de São Paulo, São Paulo - SP, 01012-000, Brazil (ChIJExAUJ6tZzpQRPkV7gilLsuE) (['bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.410989290001048)
+4: San San Garden Decor - Rua Barão de Iguape, 272 - Liberdade, São Paulo - SP, 01507-000, Brazil (ChIJP4jScFNZzpQRLqpczRoWPqo) (['store', 'florist', 'park', 'home_goods_store', 'point_of_interest', 'establishment'])(5.320347402592141)
+5: Café Sol - R. Galvão Bueno, 05 - Liberdade, São Paulo - SP, 01506-000, Brazil (ChIJKY73HalZzpQR1ZE9JE8dzS0) (['restaurant', 'cafe', 'store', 'food', 'point_of_interest', 'establishment'])(5.245587324375617)
+
+test_ct007_sp:
+94.6340708732605

@@ -1,0 +1,15 @@
+
+Resultado:
+1: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['bar', 'parking', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.628851265201652)
+2: Bicharada Pet Shop - Rua Tupi, 490 - Santa Cecilia, São Paulo - SP, 01233-000, Brazil (ChIJG86-yRlYzpQRaYYMg9H5tJw) (['pet_store', 'point_of_interest', 'store', 'establishment'])(4.837709656799047)
+3: Hospital Samaritano - R. Conselheiro Brotero, 1486 - Higienópolis, São Paulo - SP, 01232-010, Brazil (ChIJGYR4tyJYzpQRnx2diXymEOk) (['hospital', 'point_of_interest', 'health', 'establishment'])(4.123043119833595)
+4: BANESTES Banco do Estado do Espírito Santo - R. Frei Caneca, 1380 - Cerqueira César, São Paulo - SP, 01307-002, Brazil (ChIJB6_lAM1ZzpQRyX8wdovtdvM) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(5.369984656742514)
+5: Escambo Gastronomia e NanoCervejaria - Rua Coronel Oscar Porto, 33 - Paraíso, São Paulo - SP, 04003-000, Brazil (ChIJYbWQmL9ZzpQRDz7a-uetrAM) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7254831963788435)
+6: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.225750871132466)
+7: Asterix Cervejaria - Alameda Joaquim Eugênio de Lima, 573 - Jardim Paulista, São Paulo - SP, 01403-001, Brazil (ChIJL9mgYsdZzpQRLC21i7AsBoo) (['bar', 'liquor_store', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.681285922082759)
+8: Hangar 110 - Musica & Cultura - R. Rodolfo Miranda, 110 - Bom Retiro, São Paulo - SP, 01121-010, Brazil (ChIJg4Za0WFYzpQRc1nVNaco4cQ) (['bar', 'point_of_interest', 'establishment'])(5.307323054807014)
+9: Bar Brahma - Av. São João, 677 - Centro Histórico de São Paulo, São Paulo - SP, 01036-000, Brazil (ChIJwWmPS3NKzJQRMdZYpziZiBE) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.932788464865989)
+10: Bar Genuíno - R. Joaquim Távora, 1217 - Vila Mariana, São Paulo - SP, 04015-002, Brazil (ChIJARbqB4lZzpQRjwpBmlG2ZGY) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.713190905733086)
+
+test_ct014_sp:
+46.416380643844604

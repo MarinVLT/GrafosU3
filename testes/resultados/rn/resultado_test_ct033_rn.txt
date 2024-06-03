@@ -1,0 +1,10 @@
+
+Resultado:
+1: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.454040641098454)
+2: Sabor do Trigo - R. Jaguarari, 4889 - Lagoa Nova, Natal - RN, 59064-500, Brazil (ChIJD2G8_XpVsgcR_3kOQSFO2D4) (['bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.749632806538667)
+3: Padaria Grão de Trigo - Av. Hermes da Fonseca, 710 - Tirol, Natal - RN, 59020-095, Brazil (ChIJVa_QfRwAswcRyfeO5ABUIkY) (['bakery', 'meal_delivery', 'convenience_store', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.709692696344869)
+4: Pão de Açúcar - Avenida Nevaldo Rocha, 3775 Piso L1 - Tirol, Natal - RN, 59015-900, Brazil (ChIJexBesgf_sgcR5HP8iCe_X04) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment'])(4.675084067363005)
+5: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.234563956734692)
+
+test_ct033_rn:
+355.0545480251312

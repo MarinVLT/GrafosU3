@@ -1,0 +1,15 @@
+
+Resultado:
+1: Cake Lover - N/A - Sé, São Paulo - SP, 12345-000, Brazil (ChIJCV8tqvRezpQRQgWR3adIkgA) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.483979998926383)
+2: Ponto Duarte Café - R. José Bonifácio, 298 - Sé, São Paulo - SP, 01003-000, Brazil (ChIJQVAEUlNYzpQRq5MA_ng83pQ) (['cafe', 'store', 'food', 'point_of_interest', 'establishment'])(5.382460733080747)
+3: Edifício Misericórdia - Largo da Misericórdia, 20 - Centro Histórico de São Paulo, São Paulo - SP, 01012-000, Brazil (ChIJExAUJ6tZzpQRPkV7gilLsuE) (['bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment'])(5.259224388236146)
+4: Café Sol - R. Galvão Bueno, 05 - Liberdade, São Paulo - SP, 01506-000, Brazil (ChIJKY73HalZzpQR1ZE9JE8dzS0) (['restaurant', 'cafe', 'store', 'food', 'point_of_interest', 'establishment'])(5.165250994039286)
+5: Lanchonete Danny - R. Conde do Pinhal, 98 - Liberdade, São Paulo - SP, 01501-060, Brazil (ChIJ9_SyhalZzpQRW5JkYaLs-0c) (['bar', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.07945098410266)
+6: Bolos Balbino - Av. Brigadeiro Luís Antônio, 388 - Bela Vista, São Paulo - SP, 01318-904, Brazil (ChIJnQMmZUhZzpQR6VlzYAHfB7M) (['meal_delivery', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'])(5.4624734875712315)
+7: Eskala - Rua General Carneiro, 67 - Centro Histórico de São Paulo, São Paulo - SP, 01015-000, Brazil (ChIJ_YldNlVYzpQR_X8jv6GIdWs) (['clothing_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment'])(4.816423612250732)
+8: BR Mania - R. Asdrúbal do Nascimento, 500 - Centro Histórico de São Paulo, São Paulo - SP, 01316-030, Brazil (ChIJTdLhHKxZzpQRUb0PFgNJHl0) (['convenience_store', 'atm', 'gas_station', 'cafe', 'meal_takeaway', 'car_repair', 'finance', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.747351908238978)
+9: UNIFAR - União Farmacêutica de São Paulo - R. da Glória, 104 - Liberdade, São Paulo - SP, 01510-000, Brazil (ChIJOXAKX43_zpQRgcRZuRyM5Mk) (['pharmacy', 'clothing_store', 'health', 'store', 'point_of_interest', 'establishment'])(4.77031994456782)
+10: Lojas Eskala - Sé - R. Direita, 190 - Sé, São Paulo - SP, 01002-000, Brazil (ChIJlxUqylRYzpQRwlJpw7pZo_I) (['clothing_store', 'shoe_store', 'store', 'point_of_interest', 'establishment'])(4.517335377806884)
+
+test_ct012_sp:
+330.3688118457794

@@ -1,0 +1,15 @@
+
+Resultado:
+1: Pet Way Natal - Av. dos Xavantes, 7791a - Pitimbú, Natal - RN, 59067-600, Brazil (ChIJa3T7j-9VsgcRkGa06jCRyl8) (['pet_store', 'point_of_interest', 'store', 'establishment'])(5.544697063785336)
+2: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['bar', 'pet_store', 'clothing_store', 'veterinary_care', 'night_club', 'point_of_interest', 'store', 'establishment'])(5.321394933040803)
+3: Dr. Roberto Campos - Osteopatia e Fisioterapia - Clínica Fisiovida - R. São José, 2153 - Lagoa Nova, Natal - RN, 59064-150, Brazil (ChIJoYMI9m__sgcRkgJqvHAiwkI) (['physiotherapist', 'hospital', 'point_of_interest', 'health', 'establishment'])(5.356185050737471)
+4: Nordeste Fomento Mercantil LTDA - R. Militão Chaves, 2182 - Candelária, Natal - RN, 59064-440, Brazil (ChIJs6mfER0AswcRNf9voKI2QKQ) (['atm', 'bank', 'finance', 'point_of_interest', 'establishment'])(5.669630965069082)
+5: Espetinho do Lucas Bar Raíz de Natal - R. Cel. Norton Chaves, 885 - Lagoa Nova, Natal - RN, 59075-365, Brazil (ChIJ__Ty9Iv_sgcRaXjlr0YsIOg) (['bar', 'point_of_interest', 'establishment'])(5.009899889933296)
+6: JatoBar - Rua Escritor - R. José M. de Vasconcelos, 1840 - Capim Macio, Natal - RN, 59082-210, Brazil (ChIJsZmd6AgAswcREHmJ7m26gak) (['bar', 'point_of_interest', 'establishment'])(4.920030468614987)
+7: Old Five Beach Restaurante Natal - R. Erivan França, 229 - Ponta Negra, Natal - RN, 59090-100, Brazil (ChIJhTyErS75sgcR4K5SrWhJvTw) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7986201700865205)
+8: Tempero Mineiro Bar e Restaurante - Av. Engenheiro Roberto Freire, 3740 - Ponta Negra, Natal - RN, 59090-000, Brazil (ChIJaf0MnCz_sgcRWpTeYaAYf0k) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.919523116237733)
+9: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.525834298964493)
+10: Dom Vinicius Bar & Restaurante - R. Ângelo Varela, 1041 - Tirol, Natal - RN, 59015-010, Brazil (ChIJJyus9BkAswcRwHSewQ4VAmI) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.6881576502467235)
+
+test_ct028_rn:
+46.70812654495239

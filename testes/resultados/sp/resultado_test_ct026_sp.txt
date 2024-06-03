@@ -1,0 +1,15 @@
+
+Resultado:
+1: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['parking', 'bar', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.628851265201652)
+2: Eco Marine Aquários e Peixes Ornamentais - Alameda dos Jurupis, 1937 - Moema, São Paulo - SP, 04088-006, Brazil (ChIJ4UJsuQhazpQRlx9LHLlZL04) (['pet_store', 'store', 'point_of_interest', 'establishment'])(5.103427217746873)
+3: Hospital Samaritano - R. Conselheiro Brotero, 1486 - Higienópolis, São Paulo - SP, 01232-010, Brazil (ChIJGYR4tyJYzpQRnx2diXymEOk) (['hospital', 'health', 'point_of_interest', 'establishment'])(4.123043119833595)
+4: Banco Matone - R. Campos Bicudo, 98 - Itaim Bibi, São Paulo - SP, 04536-010, Brazil (ChIJb8PWVmhXzpQRFbVw_rT9s9c) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(4.339719995729368)
+5: Escambo Gastronomia e NanoCervejaria - Rua Coronel Oscar Porto, 33 - Paraíso, São Paulo - SP, 04003-000, Brazil (ChIJYbWQmL9ZzpQRDz7a-uetrAM) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7254831963788435)
+6: HBB Hostel - Vila Madalena - São Paulo - Reserve Agora - Perto Do Metro - R. Fidalga, 479 - Vila Madalena, São Paulo - SP, 05432-070, Brazil (ChIJ12D_nL1XzpQRaY5nyd0P7ew) (['bar', 'lodging', 'point_of_interest', 'establishment'])(4.768754236771774)
+7: Café Piu Piu - R. Treze de Maio, 134 - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJG6nPhLRZzpQRTv3mLkWUQPI) (['bar', 'point_of_interest', 'establishment'])(5.225750871132466)
+8: MERO - R. Cônego Eugênio Leite, 1075 - Pinheiros, São Paulo - SP, 05414-012, Brazil (ChIJoeoQiZtXzpQRUnFp2i5EEoo) (['bar', 'point_of_interest', 'establishment'])(4.889045494093274)
+9: Hangar 110 - Musica & Cultura - R. Rodolfo Miranda, 110 - Bom Retiro, São Paulo - SP, 01121-010, Brazil (ChIJg4Za0WFYzpQRc1nVNaco4cQ) (['bar', 'point_of_interest', 'establishment'])(5.307323054807014)
+10: Asterix Cervejaria - Alameda Joaquim Eugênio de Lima, 573 - Jardim Paulista, São Paulo - SP, 01403-001, Brazil (ChIJL9mgYsdZzpQRLC21i7AsBoo) (['bar', 'liquor_store', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.681285922082759)
+
+test_ct026_sp:
+45.83066391944885

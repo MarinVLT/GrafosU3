@@ -1,0 +1,10 @@
+
+Resultado:
+1: Padaria 14 de Julho - R. Quatorze de Julho, 92 - Bixiga, São Paulo - SP, 01324-040, Brazil (ChIJaSwHE7NZzpQR5cAjtotOB8E) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.957471935822102)
+2: Padaria Bella Paulista - Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brazil (ChIJPZ_iuTJYzpQRxC3-CJjKL9g) (['bakery', 'cafe', 'storage', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.893107568329963)
+3: Arezzo - Av. Higienópolis, 618 - Higienópolis, São Paulo - SP, 01238-000, Brazil (ChIJV1hzlztYzpQRWBTmoJiW39Q) (['shoe_store', 'cafe', 'bakery', 'food', 'point_of_interest', 'store', 'establishment'])(4.428992578782106)
+4: Oba Hortifruti - Mercado, Frutas, Verduras, Legumes, Açougue e Adega - R. Alfredo Pujol, 1324 - Santana, São Paulo - SP, 02017-003, Brazil (ChIJw137fM33zpQRwvsHQXHUKnE) (['liquor_store', 'bakery', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment'])(4.8571122571052)
+5: Pão de Açúcar - R. Teodoro Sampaio, 1933 - Pinheiros, São Paulo - SP, 05405-200, Brazil (ChIJzRnX4p5XzpQRuSInjP62mq0) (['supermarket', 'bakery', 'convenience_store', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment'])(4.640235262617722)
+
+test_ct033_sp:
+357.6737995147705

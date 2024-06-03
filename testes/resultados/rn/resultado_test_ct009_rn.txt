@@ -1,0 +1,10 @@
+
+Resultado:
+1: Mercatto - Av. Nascimento de Castro, 1890 - Lagoa Nova, Natal - RN, 59056-450, Brazil (ChIJkUB5tvb_sgcRIFkc7pQesjE) (['bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.85612364085275)
+2: Laryssa - Padaria & Self-Service - Loja 1 A - R. Cel. Auris Coelho, 300 - Lagoa Nova, Natal - RN, 59075-050, Brazil (ChIJJRm9Ao3_sgcRszLrT3QMvUo) (['bakery', 'meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.644080225821267)
+3: Raffinata confeitaria! - Av. Rui Barbosa, 11A - Lagoa Nova, Natal - RN, 59056-300, Brazil (ChIJk4BiCl4BswcRpj4EuJ5YSl4) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.456097013253173)
+4: Espetaria do Bezerra - R. Cel. Norton Chaves, 03 - Lagoa Nova, Natal - RN, 59075-200, Brazil (ChIJjcu_SH9VsgcRx59Tr8MzMYE) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.6828100400283965)
+5: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['bar', 'pet_store', 'clothing_store', 'veterinary_care', 'night_club', 'point_of_interest', 'store', 'establishment'])(5.239616535480579)
+
+test_ct009_rn:
+271.5881197452545

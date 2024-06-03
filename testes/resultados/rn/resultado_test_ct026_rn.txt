@@ -1,0 +1,15 @@
+
+Resultado:
+1: Vogue Natal - R. José Aguinaldo de Barros, 400A - Candelária, Natal - RN, 59066-220, Brazil (ChIJzw65fPVVsgcRxLldF7IUx3k) (['bar', 'point_of_interest', 'establishment'])(4.525834298964493)
+2: SOS. Animals - Veterinary Clinic 24 Hours - R. São José, 1852 - Lagoa Nova, Natal - RN, 59063-150, Brazil (ChIJy2dwiff_sgcRwzAee5NcNic) (['pet_store', 'veterinary_care', 'health', 'point_of_interest', 'store', 'establishment'])(4.3911816797371)
+3: Rio Grande Hospital - Av. Afonso Pena, 754 - Tirol, Natal - RN, 59020-100, Brazil (ChIJYVpXIBEAswcRtgxOyN-_D_w) (['hospital', 'point_of_interest', 'health', 'establishment'])(3.5891165327934536)
+4: Bradesco Prime - Agência 0891 - Av. Rio Branco, 477 - Cidade Alta, Natal - RN, 59025-001, Brazil (ChIJBwAAEHMAswcR12UDaUz-r_Y) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(3.321229612944768)
+5: Old Five Beach Restaurante Natal - R. Erivan França, 229 - Ponta Negra, Natal - RN, 59090-100, Brazil (ChIJhTyErS75sgcR4K5SrWhJvTw) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.7986201700865205)
+6: Espetinho do Lucas Bar Raíz de Natal - R. Cel. Norton Chaves, 885 - Lagoa Nova, Natal - RN, 59075-365, Brazil (ChIJ__Ty9Iv_sgcRaXjlr0YsIOg) (['bar', 'point_of_interest', 'establishment'])(5.009899889933296)
+7: JatoBar - Rua Escritor - R. José M. de Vasconcelos, 1840 - Capim Macio, Natal - RN, 59082-210, Brazil (ChIJsZmd6AgAswcREHmJ7m26gak) (['bar', 'point_of_interest', 'establishment'])(4.920030468614987)
+8: Tempero Mineiro Bar e Restaurante - Av. Engenheiro Roberto Freire, 3740 - Ponta Negra, Natal - RN, 59090-000, Brazil (ChIJaf0MnCz_sgcRWpTeYaAYf0k) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.919523116237733)
+9: Dom Vinicius Bar & Restaurante - R. Ângelo Varela, 1041 - Tirol, Natal - RN, 59015-010, Brazil (ChIJJyus9BkAswcRwHSewQ4VAmI) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.6881576502467235)
+10: Art & Bar Coquetéis - R. Jaguarari, 2631 - Candelária, Natal - RN, 59064-500, Brazil (ChIJndwB7mRVsgcR7Lk3k7gn_Lg) (['bar', 'point_of_interest', 'establishment'])(5.00581175846519)
+
+test_ct026_rn:
+46.07733082771301

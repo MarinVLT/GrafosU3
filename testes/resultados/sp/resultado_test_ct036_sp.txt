@@ -1,0 +1,15 @@
+
+Resultado:
+1: Açougue e Avicola - Mais Sabor Delivery - Atacado e Varejo - Mercado Municipal de Pinheiros - R. Pedro Cristi, 89 - BOX 76 - Pinheiros, São Paulo - SP, 05421-040, Brazil (ChIJYUUkIaFXzpQR3Nq6R9XmlwU) (['meal_delivery', 'food', 'point_of_interest', 'store', 'establishment'])(5.4313272474211045)
+2: Cupcake.ito - R. Júlio Diniz, 39 - Vila Olímpia, São Paulo - SP, 04547-090, Brazil (ChIJCxufu05XzpQR9q-_pMMVZsE) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.324496545059099)
+3: Seal Telecom Trade and Telecom Service - AVENIDA FRANCISCO MATARAZZO, 1.500 - 18º ANDAR - CENTRO EMPRESARIAL ÁGUA BRANCA - TORRE LOS ANGELES - Água Branca, São Paulo - SP, 05001-100, Brazil (ChIJ2cdKvv1XzpQRDidlV4-WYbs) (['electronics_store', 'home_goods_store', 'point_of_interest', 'store', 'establishment'])(5.273159242081262)
+4: Moonshadows Taberna - Rua Treze de Maio n.º 966 - Térreo - Bela Vista, São Paulo - SP, 01327-000, Brazil (ChIJtXmmALpZzpQRXRvHlpBC6So) (['meal_takeaway', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.153428544623132)
+5: Hangar 110 - Musica & Cultura - R. Rodolfo Miranda, 110 - Bom Retiro, São Paulo - SP, 01121-010, Brazil (ChIJg4Za0WFYzpQRc1nVNaco4cQ) (['bar', 'point_of_interest', 'establishment'])(5.0442873405213)
+6: Big Bread Bakery - R. Agostinho Gomes, 1880 - Ipiranga, São Paulo - SP, 04206-001, Brazil (ChIJkYAGwO9bzpQRA8yHXCFxY6I) (['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.910093606918943)
+7: Oba Hortifruti - Mercado, Frutas, Verduras, Legumes, Açougue e Adega - R. Alfredo Pujol, 1324 - Santana, São Paulo - SP, 02017-003, Brazil (ChIJw137fM33zpQRwvsHQXHUKnE) (['liquor_store', 'bakery', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment'])(4.8571122571052)
+8: Dryclean USA Vila Olímpia - R. Min. Jesuíno Cardoso, 617 - Vila Olímpia, São Paulo - SP, 04544-051, Brazil (ChIJqaSogkVXzpQR8ftcDR4wDOA) (['laundry', 'meal_delivery', 'clothing_store', 'food', 'point_of_interest', 'store', 'establishment'])(4.960204099348901)
+9: Pão de Açúcar - R. Teodoro Sampaio, 1933 - Pinheiros, São Paulo - SP, 05405-200, Brazil (ChIJzRnX4p5XzpQRuSInjP62mq0) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'])(4.640235262617722)
+10: Hotel San Raphael - Largo do Arouche, 150 - Centro Histórico de São Paulo, São Paulo - SP, 01219-903, Brazil (ChIJSZk-60VYzpQRjZZJPr2I9Mk) (['parking', 'bar', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.631675303908043)
+
+test_ct036_sp:
+364.08220767974854

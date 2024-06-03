@@ -1,0 +1,15 @@
+
+Resultado:
+1: Jô bolos decorados - R. Raimundo de França, 15B - Quintas, Natal - RN, 59035-160, Brazil (ChIJo6UGfrSqswcRcFJ7UxGZET8) (['bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.454040641098454)
+2: Amigos Moto Express Serviços de Entregas Rápidas - R. Abreulândia - Planalto, Natal - RN, 59073-090, Brazil (ChIJe-EM2q9VsgcRV35X99dPXRY) (['meal_delivery', 'food', 'point_of_interest', 'establishment'])(5.3595768677811195)
+3: Zoopet Natal Pet Shop - Av. Rui Barbosa, 1103 - Lagoa Nova, Natal - RN, 59129-390, Brazil (ChIJpR-O_fH_sgcRAX_5kyFYx3Y) (['night_club', 'bar', 'veterinary_care', 'clothing_store', 'pet_store', 'store', 'point_of_interest', 'establishment'])(5.239616535480579)
+4: Cinthia Goes Confeitaria - R. São João, 1342 - Lagoa Seca, Natal - RN, 59035-630, Brazil (ChIJXSzWWmf_sgcRKBdtcq9hHQY) (['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment'])(5.246409143387159)
+5: Chapelatto Coffee Shop - Tyrol Business Center - Av. Rodrigues Alves, 800 - 1, Natal - RN, 59020-200, Brazil (ChIJdWbYfBEAswcRYgmpEBRJ-uo) (['cafe', 'bakery', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(5.117473286865662)
+6: Nalva Lopes Hairdresser - Av. Amintas Barros, 2107 - Lagoa Nova, Natal - RN, 59054-465, Brazil (ChIJBeTusVtVsgcRlO05UIsYTIY) (['beauty_salon', 'bar', 'hair_care', 'night_club', 'doctor', 'point_of_interest', 'health', 'establishment'])(4.987767241317969)
+7: Casa do Pão de Queijo Petrópolis - R. Seridó, 513 - Petrópolis, Natal - RN, 59020-010, Brazil (ChIJWw1vVWkAswcRKXd2xnePkDQ) (['meal_takeaway', 'bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.803094951365428)
+8: Padaria Grão de Trigo - Av. Hermes da Fonseca, 710 - Tirol, Natal - RN, 59020-095, Brazil (ChIJVa_QfRwAswcRyfeO5ABUIkY) (['bakery', 'convenience_store', 'meal_delivery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.709692696344869)
+9: Pão de Açúcar - Avenida Nevaldo Rocha, 3775 Piso L1 - Tirol, Natal - RN, 59015-900, Brazil (ChIJexBesgf_sgcR5HP8iCe_X04) (['supermarket', 'convenience_store', 'bakery', 'grocery_or_supermarket', 'food', 'point_of_interest', 'store', 'establishment'])(4.675084067363005)
+10: EIN BIER, BITTE - Av. Nascimento de Castro, 2017 - Lagoa Nova, Natal - RN, 59056-090, Brazil (ChIJK8hiHvL_sgcRTQxvOC5uWlg) (['liquor_store', 'meal_delivery', 'store', 'food', 'point_of_interest', 'establishment'])(5.155592308982974)
+
+test_ct036_rn:
+359.14033818244934

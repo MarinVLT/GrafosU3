@@ -1,0 +1,15 @@
+
+Resultado:
+1: Bar Kintaro - R. Thomaz Gonzaga, 57 - Liberdade, São Paulo - SP, 01506-020, Brazil (ChIJLxu2uqhZzpQR2AjMBY-Bkac) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.944077490026136)
+2: Pet Shop Glicerio - R. Oscar Cintra Gordinho, 18 - Sé, São Paulo - SP, 01512-000, Brazil (ChIJNyv0rAdZzpQRPoCDhyE75CQ) (['pet_store', 'store', 'point_of_interest', 'establishment'])(4.864521943924015)
+3: Hospital Pérola Byington - Av. Brigadeiro Luís Antônio, 683 - Bela Vista, São Paulo - SP, 01317-000, Brazil (ChIJn4vCY65ZzpQRFcHMr0yKNO8) (['hospital', 'point_of_interest', 'health', 'establishment'])(4.549917908489734)
+4: Federal Savings Bank - R. Álvares Penteado, 195 - Centro Histórico de São Paulo, São Paulo - SP, 01012-001, Brazil (ChIJK96kQVRYzpQR_h9vnX7FiMo) (['bank', 'finance', 'point_of_interest', 'establishment'])(3.9511741649330916)
+5: Boite Bar e Restaurante - Av. Brigadeiro Luís Antônio, 277 - Bela Vista, São Paulo - SP, 01318-000, Brazil (ChIJyeI4FaxZzpQRNnwA6u2G72I) (['bar', 'point_of_interest', 'establishment'])(4.734003184424381)
+6: Bar e Restaurante Topless - R. das Flôres, 63 - Sé, São Paulo - SP, 01019-010, Brazil (ChIJ25tMXW9YzpQRwysnBjqQUsM) (['restaurant', 'bar', 'food', 'point_of_interest', 'establishment'])(4.640906033609051)
+7: Melts Gastrobar - Av. da Liberdade, 472 - Liberdade, São Paulo - SP, 01502-001, Brazil (ChIJq0hmzKhZzpQRgLpaYOzZl4Y) (['restaurant', 'bar', 'night_club', 'food', 'point_of_interest', 'establishment'])(4.988003279192614)
+8: Izakayada :: Boteco Japonês - Praça Carlos Gomes, 61 - Centro Histórico de São Paulo, São Paulo - SP, 01501-040, Brazil (ChIJWbzq4atZzpQRYZRm1Gn-e9w) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(5.044599513041314)
+9: Filho do Vento Bar e Lanches - R. Conselheiro Furtado, 371 - Sé, São Paulo - SP, 01511-000, Brazil (ChIJOYVWFKhZzpQRKBjx9bAceEw) (['bar', 'bakery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment'])(4.656988530171733)
+10: O Marquês Bar - Av. da Liberdade, 596 - Liberdade, São Paulo - SP, 01502-001, Brazil (ChIJb9nYTa9ZzpQRKW0rew9bgcM) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.843514741679566)
+
+test_ct002_sp:
+44.11298108100891

@@ -1,0 +1,10 @@
+
+Resultado:
+1: Bar Kintaro - R. Thomaz Gonzaga, 57 - Liberdade, São Paulo - SP, 01506-020, Brazil (ChIJLxu2uqhZzpQR2AjMBY-Bkac) (['bar', 'restaurant', 'food', 'point_of_interest', 'establishment'])(4.944077490026136)
+2: Pet Shop Glicerio - R. Oscar Cintra Gordinho, 18 - Sé, São Paulo - SP, 01512-000, Brazil (ChIJNyv0rAdZzpQRPoCDhyE75CQ) (['pet_store', 'point_of_interest', 'store', 'establishment'])(4.864521943924015)
+3: Hospital Pérola Byington - Av. Brigadeiro Luís Antônio, 683 - Bela Vista, São Paulo - SP, 01317-000, Brazil (ChIJn4vCY65ZzpQRFcHMr0yKNO8) (['hospital', 'point_of_interest', 'health', 'establishment'])(4.549917908489734)
+4: Federal Savings Bank - R. Álvares Penteado, 195 - Centro Histórico de São Paulo, São Paulo - SP, 01012-001, Brazil (ChIJK96kQVRYzpQR_h9vnX7FiMo) (['bank', 'finance', 'point_of_interest', 'establishment'])(3.9511741649330916)
+5: Boite Bar e Restaurante - Av. Brigadeiro Luís Antônio, 277 - Bela Vista, São Paulo - SP, 01318-000, Brazil (ChIJyeI4FaxZzpQRNnwA6u2G72I) (['bar', 'point_of_interest', 'establishment'])(4.734003184424381)
+
+test_ct001_sp:
+44.2569055557251

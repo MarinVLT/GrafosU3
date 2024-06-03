@@ -1,0 +1,10 @@
+
+Resultado:
+1: Buteco do Aranha - Av. dos Pinheirais, 359-379 - Neópolis, Natal - RN, 59080-250, Brazil (ChIJc3qmwdb_sgcRm8xS-LpdGlE) (['bar', 'point_of_interest', 'establishment'])(5.631200269525502)
+2: Petcetera - Av. Ayrton Senna, 121 - Neópolis, Natal - RN, 59088-100, Brazil (ChIJATUjG2X_sgcRdRNwX6oOa8Y) (['pet_store', 'veterinary_care', 'store', 'point_of_interest', 'establishment'])(5.615315650873609)
+3: DC Laser - Av. Gov. José Varela, 913 - Capim Macio, Natal - RN, 59078-300, Brazil (ChIJ1xTVzuEBswcRqCF0g-9CDEc) (['hospital', 'clothing_store', 'point_of_interest', 'health', 'store', 'establishment'])(5.404308744591993)
+4: Budega Rio de Janeiro - R. Rio de Janeiro, 373 - Neópolis, Natal - RN, 59080-290, Brazil (ChIJEeZPJg3_sgcRc9ecoqYxCvk) (['bar', 'point_of_interest', 'establishment'])(5.634364923889539)
+5: Banco do Nordeste - Av. Engenheiro Roberto Freire, 1546 - Capim Macio, Natal - RN, 59082-095, Brazil (ChIJ1SEbQmr_sgcReeNA79btR00) (['bank', 'atm', 'finance', 'point_of_interest', 'establishment'])(4.98584247414406)
+
+test_ct003_rn:
+29.65730357170105
