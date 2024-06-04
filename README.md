@@ -12,7 +12,7 @@ pipenv install
 Com o pipenv instalado, entre no virtual venv:
 ```
 pipenv shell
-``
+```
 
 Para executar a aplicação web, basta rodar o seguinte comando:
 ```
