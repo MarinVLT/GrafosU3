@@ -9,6 +9,10 @@ Com o pipenv instalado, fazer o download das dependências do projeto:
 ```
 pipenv install
 ```
+Com o pipenv instalado, entre no virtual venv:
+```
+pipenv shell
+``
 
 Para executar a aplicação web, basta rodar o seguinte comando:
 ```
