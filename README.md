@@ -1,25 +1,32 @@
 # Como rodar o projeto
 
 Com o python instalado, instalar o gerenciador de pacotes pipenv:
-
 ```
 pip install pipenv
 ```
 
 Com o pipenv instalado, fazer o download das dependências do projeto:
-
 ```
 pipenv install
 ```
 
+Para executar a aplicação web, basta rodar o seguinte comando:
+```
+python app.py
+```
+
+Recomendamos executar a aplicação web para realizar validações ao invés de tentar executar os scripts do projeto. Mesmo assim, se desejar, basta retirar os comentários dentro de cada script e rodar
+```
+python {script_name}.py
+```
 ## Testes
+Para executar todos os testes, basta executar o seguinte comando:
 ```
 python -m unittest discover -s testes -p 'test_*.py'
 ```
-## Etapas de Execução
-### 1. Gerar usuário
-### 2. Gerar mapa
-### 
+
+Caso haja o desejo de executar algum cenário de teste específico, comente os outros e rode o comando acima.
+
 
 # Google Maps
 📌🗺 [Places API](https://console.cloud.google.com/marketplace/product/google/places.googleapis.com?hl=en&project=level-epoch-424911-t1)
